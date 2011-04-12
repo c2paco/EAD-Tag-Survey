@@ -1,0 +1,5342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "file:///I:/findaid/xml/ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/ymcaweb.xsl"?>
+<ead audience="external"> 
+  <eadheader audience="internal" langencoding="iso639-2b"
+	repositoryencoding="iso15511" scriptencoding="iso15924" dateencoding="iso8601"
+	countryencoding="iso3166-1" relatedencoding="Dublin Core"> 
+	 <eadid mainagencycode="MnU" countrycode="us"
+	  publicid="-//University of Minnesota, Twin Cities::YMCA Archives//TEXT us::MnU::yusa0004x1.xml::Armed Services World War I-related Records//EN">yusa0004x1</eadid>
+	 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="Title">YMCA ARMED SERVICES DEPARTMENT:
+			 </titleproper> 
+		  <subtitle>An Inventory of Its World War I Records</subtitle> 
+		  <author encodinganalog="Contributor">Finding aid prepared by David
+			 Carmichael, Chan Harries, and Lara Friedman~Shedlov.</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="Publisher">University of Minnesota
+			 Libraries</publisher> 
+		  <date encodinganalog="Date">2003</date> 
+		  <address> 
+			 <addressline>University of Minnesota Libraries</addressline> 
+			 <addressline>Minneapolis, MN 55455</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>EAD encoding by Chan Harries, 
+		  <date>2003.</date> </creation> 
+		<langusage> <language encodinganalog="Language"
+		  langcode="eng">English</language> </langusage> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc type="inventory" level="collection" relatedencoding="MARC"> 
+	 <did id="a1"> 
+		<head>OVERVIEW OF THE COLLECTION</head> 
+		<repository label="Repository:" encodinganalog="852$a">University of
+		  Minnesota. <subarea>Kautz Family YMCA Archives. [ymca]</subarea></repository> 
+		<origination label="Creator:"> 
+		  <corpname encodinganalog="110">National Board of the Young Men's
+			 Christian Associations. Armed Services Dept.</corpname></origination> 
+		<unittitle label="Title:" encodinganalog="245$a">World War I-related
+		  records.</unittitle> 
+		<unitdate label="Date:" encodinganalog="245$f" type="inclusive"
+		normal="1910/1970">1910-1970 </unitdate> 
+		<unitdate encodinganalog="245$g" type="bulk">(bulk 1917-1921).</unitdate>
+		
+		<unitid label="Collection Number:" encodinganalog="099" countrycode="us"
+		repositorycode="MnU">Y.USA.4-1</unitid> 
+		<abstract label="Abstract:">Minutes, correspondence, publicity bulletins,
+		  training manuals, reports, newspapers, and other records of major YMCA
+		  administrative bodies which provided services to the military forces in the
+		  United States and abroad during World War I..</abstract> 
+		<physdesc label="Quantity:" encodinganalog="300"><extent>59.2 cu. ft.
+		  (144 boxes).</extent></physdesc> 
+		<physloc label="Location:">See Detailed Description section for box
+		  listing.</physloc> <langmaterial><language>English</language></langmaterial> 
+	 </did> 
+	 <bioghist encodinganalog="545"> 
+		<head altrender="history" id="a2h">HISTORY OF YMCA ARMED SERVICES WORK IN
+		  WORLD WAR I</head> 
+		<p>The United States entered World War I on 6 April 1917. On that same
+		  day, John Mott, General Secretary of the International Committee of North
+		  American YMCAs, informed President Wilson that the YMCA would help provide
+		  services for the military forces. Less than a week later, the International
+		  Committee appointed the National War Work Council to coordinate this work.
+		  William S. Sloane, a New York furniture merchant and for sixteen years chairman
+		  of the YMCA's Army and Navy Committee, was designated as the new organization's
+		  chairman, and Mott as its chief executive officer. A specific military function
+		  was assigned to the YMCA. Its duty was to assist in maintaining and promoting
+		  morale and welfare. It had been proved in the Spanish American War and on the
+		  Mexican border that YMCA service made better fighters. </p> 
+		<p>The YMCA conducted its war work with soldiers in training camps and
+		  troop trains in the United States as well as in Europe, providing recreation,
+		  library services, bible study, and religious services. In France the YMCA
+		  agreed to run the Post Exchange for the army, and thus sold candy, cigarettes,
+		  and other personal items to the soldiers. War work went under several names,
+		  including Red Triangle work and AEF work (AEF stood for American Expeditionary
+		  Forces, which referred to the American army in France). The National War Work
+		  Council also financed similar work for French soldiers under the name "Foyer du
+		  Soldat." Additional work was carried out in Italy, Greece, Russia, and a number
+		  of other countries. The YMCA also provided services to prisoners of war in a
+		  number of countries. </p> 
+		<p>In the course of staffing its assigned operations and the other
+		  activities which fell to its lot along the way, the YMCA recruited a grand
+		  total of 25,926 workers who, about equally divided between home and overseas
+		  assignments, served under the Red Triangle. These workers were selected from
+		  approximately 2000,000 applications. Women workers comprised about 20 percent
+		  of the total, twice as many of whom served overseas as served on the home
+		  front.</p> 
+		<p>In November 1918, the YMCA conducted a fundraising campaign in
+		  conjunction with six other welfare organizations: The YWCA, the Jewish Welfare
+		  Board, the Knights of Columbus, the Salvation Army, the American Library
+		  Association, and War Camp Community Service. The effort, known as the United
+		  War Campaign, raised $192 million.</p> 
+		<p>Immediately after the war, the YMCA followed American occupying forces
+		  into Germany, working primarily out of the city of Koblenz. This was referred
+		  to as AFG work (i.e. American Forces in Germany). Due to unsettled conditions
+		  in the war area and the fact that a peace treaty had not yet been signed, work
+		  among young men of Allied countries and among prisoners of war was still
+		  continuing. In the United States, a postwar program of special significance was
+		  an extensive educational service, financed by war work funds, which enabled
+		  ex-servicemen to complete studies interrupted by the war or to secure further
+		  preparation for re-entry into civilian life. </p> 
+		<p> Although it received much praise for its work, after the war the YMCA
+		  was the target of numerous complaints from soldiers. The allegations mostly
+		  related to the YMCA's operation of canteens, and involved accusations that it
+		  had sold items at inflated prices or items which were to be distributed free.
+		  There were a number of official investigations into the YMCA's wartime conduct,
+		  for the most part exonerating the Y.</p> 
+		<p>Much of the historical information in this summary was taken from
+		  <emph render="italic">Serving the U.S. Armed Forces, 1861-1986: The Story of
+		  the YMCA's Ministry to Military Personnel for 125 Years,</emph> by Richard C.
+		  Lancaster; and <emph render="italic">Summary of World War Work of the American
+		  YMCA,</emph> a 1920 report published by the International Committee of the
+		  YMCA. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head id="a3">SCOPE AND CONTENTS OF THE COLLECTION</head> 
+		<p>The records include minutes and related materials from major
+		  administrative bodies, primarily the National War Work Council and its
+		  subcommittees: the executive committee, the finance committee, the committee of
+		  eleven, the committee of fourteen, the religious work bureau committee, the
+		  overseas committee, and the committee of nine. Also included are press
+		  releases, publicity bulletins, and fundraising materials; training pamphlets
+		  for war workers; blueprints of buildings for war work; and correspondence and
+		  reports relating to work in army camps. There are also reports and
+		  correspondence relating the the dissolution of the War Work Council. </p> 
+		<p>A major portion of the records consists of materials relating to the
+		  United War Work Campaign, a joint campaign of seven American welfare
+		  organizations, including the YMCA. These records include minutes, bylaws, and
+		  agreements; correspondence, reports, and minutes of the committee of eleven;
+		  correspondence of John Mott relating to the campaign; financial statements and
+		  budget materials; press releases, bulletins, and promotional publications;
+		  state and local fundraising materials; and staff lists. There are also reports
+		  and publications of the other organizations which participated in the Campaign,
+		  including the American Library Association, the Jewish Welfare Board, the the
+		  Salvation Army. </p> 
+		<p>Materials relating to various program departments include publications
+		  of the Army Educational Commission; reports and publications of educational
+		  work in France; and reports and publications concerning entertainment,
+		  transportation, work by women, and work in the area of physical fitness and
+		  recreation (the latter includes publications on the Inter-Allied Games held in
+		  Paris in 1919).</p> 
+		<p>Records relating to the AEF YMCA are also included in the collection
+		  and consist of publications, correspondence, and minutes relating to work with
+		  American soldiers in France; AFG (American Forces in Germany) materials,
+		  including pamphlets for soldiers and reports concerning work with the occupying
+		  forces; and leave area publications relating to recreational and site-seeing
+		  opportunities in France and Germany. </p> 
+		<p>A variety of materials contain personal reminiscences of YMCA work,
+		  including narrative manuscripts, personal journals, interviews of secretaries,
+		  testimonials of soldiers, and a historical statement. The collection also
+		  includes three sets of personnel records for war workers: a punch card file, a
+		  contract file, and a statements of returning secretaries. These provide names,
+		  addresses, and information on YMCA war work service.</p> 
+		<p>Prisoner of war work is documented by administrative correspondence,
+		  budget materials, reports, news clippings, and publications for prisoners.
+		  There is also a pictorial publication describing work with eastern European
+		  prisoners.</p> 
+		<p>A number of YMCA-sponsored newspapers for soldiers are included in
+		  these records. The most prominent of these is the <emph render="italic">Red
+		  Triangle Bulletin,</emph> reporting on work in France. <emph
+		  render="italic">Trench and Camp,</emph> a joint project between the YMCA and
+		  various U.S. newspapers, was distributed in military camps in the United
+		  States.</p> 
+		<p>Non-YMCA materials relating to YMCA war work and the war in general
+		  include government reports and publications on matters such as selective
+		  service, training camps, and regulations. There are also some reports to the
+		  English Parliament on prisoner-of-war work.</p> 
+		<p>There is voluminous material concerning the post-war investigations of
+		  the YMCA's work. These include the eleven volume "YMCA Answer to the Inspector
+		  General" and the five volume "Letter from E. C. Carter to William Sloane
+		  Supplementing YMCA Answer to the Inspector General'; Answers to Criticisms";
+		  "Report on the Investigation of the YMCA"; and articles and news clippings.</p>
+		
+		<p>Also included in the collection are materials relating to the military
+		  build-up on the Mexican border in 1916. The YMCA followed the soldiers and did
+		  war work there. These materials include promotional publications, news
+		  clippings, press materials, <emph render="italic">Border Work</emph> (another
+		  YMCA-sponsored newspaper for soldiers), blueprint maps, and a report on the
+		  work. </p> 
+	 </scopecontent> <descgrp> 
+	 <head>ADMINISTRATIVE INFORMATION</head> 
+	 <prefercite> 
+		<head>Preferred Citation:</head> 
+		<p><emph render="italic">[Indicate the cited item and/or series
+		  here]</emph>. Armed Services World War I-Related Records. Kautz Family YMCA
+		  Archives. University of Minnesota. </p> 
+		<p><emph render="italic">See the Chicago Manual of Style for additional
+		  examples.</emph></p> 
+	 </prefercite> 
+	 <processinfo> 
+		<head>Processing Information:</head> 
+		<p>Processed by: David Carmichael; Chan Harries.</p> 
+		<p>Catalog Record ID number: 4339768</p> 
+	 </processinfo></descgrp> 
+	 <dsc type="combined"> 
+		<head id="a9">DETAILED DESCRIPTION OF THE COLLECTION</head> 
+		<p>The following section contains a detailed list of the materials in the
+		  collection. To request materials, please note the corresponding box number.</p>
+		
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <unittitle>National War Work Council, minutes and documents,
+				</unittitle> 
+			 <unitdate type="inclusive">1917-1921. </unitdate> 
+			 <physdesc><extent>6 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <unittitle>National War Work Council, minutes and documents,
+				</unittitle> 
+			 <unitdate type="inclusive">1924-1927. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <unittitle>Trustees of the War Fund of the YMCA, minutes,
+				</unittitle> 
+			 <unitdate type="inclusive">1920-1927. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">1</container> 
+			 <unittitle>Executive Committee of National War Work Council, minutes,
+				</unittitle> 
+			 <unitdate type="inclusive">1917-1921. </unitdate> 
+			 <physdesc><extent>8 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file">
+		  <did>
+			 <container type="box">1</container>
+			 <unittitle>National War Work Council, negotiations with Armed Forces,
+				</unittitle>
+			 <unitdate type="inclusive">1919. </unitdate>
+		  </did>
+		</c01>
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <unittitle>Executive Committee of National War Work Council, minutes,
+				</unittitle> 
+			 <unitdate type="inclusive">1917-1920. </unitdate> 
+			 <physdesc><extent>5 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <unittitle>Executive Committee of National War Work Council, minutes
+				(duplicates), </unittitle> 
+			 <unitdate type="inclusive">1917-1920. </unitdate> 
+			 <physdesc><extent>11 folders.</extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">2</container> 
+			 <unittitle>National War Work Council, minutes (duplicates),
+				</unittitle> 
+			 <unitdate type="inclusive">1917-1920.</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">3</container> 
+			 <unittitle>Finance Committee of the National War Work Council,
+				minutes, </unittitle> 
+			 <unitdate type="inclusive">1917-1920. </unitdate> 
+			 <physdesc><extent>5 folders.</extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">3</container> 
+			 <unittitle>Joint Meeting of the Executive and Financial Committees of
+				the National War Work Council, minutes, </unittitle> 
+			 <unitdate type="inclusive">1919-1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">3</container> 
+			 <unittitle>Committee of Eleven, minutes, </unittitle> 
+			 <unitdate type="inclusive">1918-1921. </unitdate> 
+			 <physdesc><extent>6 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">3</container> 
+			 <unittitle>Committee of Fourteen, minutes, </unittitle> 
+			 <unitdate type="inclusive">1918-1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">3</container> 
+			 <unittitle>Committee on Allied Armies and Prisoners of War, minutes,
+				</unittitle> 
+			 <unitdate type="inclusive">1918-1922. </unitdate> 
+			 <physdesc><extent>3 folders.</extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">3</container> 
+			 <unittitle>Overseas Committee, minutes, </unittitle> 
+			 <unitdate type="inclusive">1923-1924. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">4</container> 
+			 <unittitle>Army Educational Commission, </unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">4</container> 
+			 <unittitle>Committee of Nine, minutes, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">4</container> 
+			 <unittitle>National War Work Council, recommendations from overseas,
+				</unittitle> 
+			 <unitdate type="inclusive">1918.</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">4</container> 
+			 <unittitle>National War Work Council, directories, </unittitle> 
+			 <unitdate type="inclusive">1917-1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">4</container> 
+			 <unittitle>National War Work Council, campaign organization and
+				promotion details, </unittitle> 
+			 <unitdate type="inclusive">1917. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">4</container> 
+			 <unittitle>National War Work Council, fundraising materials,
+				</unittitle> 
+			 <unitdate type="inclusive">1917. </unitdate> 
+			 <physdesc><extent>5 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">4</container> 
+			 <unittitle>National War Work Council, financial statements and
+				audits, </unittitle> 
+			 <unitdate type="inclusive">1918-1927. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">4</container> 
+			 <unittitle>National War Work Council, publicity bulletins,
+				</unittitle> 
+			 <unitdate type="inclusive">1917. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">4</container> 
+			 <unittitle>National War Work Council, <emph render="italic">Camp
+				Bulletin</emph>, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">5</container> 
+			 <unittitle>National War Work Council, press releases, </unittitle> 
+			 <unitdate type="inclusive">1917. </unitdate> 
+			 <physdesc><extent>14 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">6</container> 
+			 <unittitle>National War Work Council, press releases, </unittitle> 
+			 <unitdate type="inclusive">1917. </unitdate> 
+			 <physdesc><extent>9 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">6</container> 
+			 <unittitle>National War Work Council, recruiting materials for war
+				work, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">6</container> 
+			 <unittitle>National War Work Council, training program report,
+				</unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">6</container> 
+			 <unittitle>National War Work Council, <emph render="italic">Manual
+				for Camp Work</emph>, </unittitle> 
+			 <unitdate type="inclusive">1917-1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">6</container> 
+			 <unittitle>National War Work Council, <emph render="italic">The
+				Uniform of Honor</emph> and <emph render="italic">Elementary Textbook for YMCA
+				Secretaries in Military Obedience, Courtesy, Bearing and Litter Drill</emph>,
+				</unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">6</container> 
+			 <unittitle>Religious Work Bureau, miscellaneous, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>2 folders.</extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">7</container> 
+			 <unittitle>Religious Work Bureau, minutes, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>4 folders.</extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">7</container> 
+			 <unittitle>Religious Work Bureau, <emph render="italic">Religious
+				Work Program</emph> pamphlet, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">7</container> 
+			 <unittitle>National War Work Council, war personnel board,
+				directories, </unittitle> 
+			 <unitdate type="inclusive">1917-1918. </unitdate> 
+			 <physdesc><extent>12 folders.</extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">7</container> 
+			 <unittitle>War Personnel Board, roster, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">7</container> 
+			 <unittitle>War Personnel Board, training materials, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">7</container> 
+			 <unittitle>War Personnel Board, enlistment materials, </unittitle> 
+			 <unitdate type="inclusive">1917-1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">7</container> 
+			 <unittitle>War Personnel Board, blank forms, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">8</container> 
+			 <unittitle>War Work Training School, materials, </unittitle> 
+			 <unitdate type="inclusive">1917-1918. </unitdate> 
+			 <physdesc><extent>7 folders.</extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">8</container> 
+			 <unittitle>National War Work Council-Southeast, </unittitle> 
+			 <unitdate type="inclusive">1917-1918. </unitdate> 
+			 <physdesc><extent>5 folders.</extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">8</container> 
+			 <unittitle>National War Work Council-Southern, </unittitle> 
+			 <unitdate type="inclusive">1917-1918. </unitdate> 
+			 <physdesc><extent>8 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">9</container> 
+			 <unittitle>National War Work Council, demobilization, </unittitle> 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+			 <physdesc><extent>8 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">9</container> 
+			 <unittitle>National War Work Council, reports, </unittitle> 
+			 <unitdate type="inclusive">1917-1927. </unitdate> 
+			 <physdesc><extent>12 folders.</extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">9</container> 
+			 <unittitle>National War Work Council, trustees of war work fund,
+				</unittitle> 
+			 <unitdate type="inclusive">1914-1919, 1940, 1943.</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">10</container> 
+			 <unittitle>National War Work Council, Bureau of Construction,
+				</unittitle> 
+			 <unitdate type="inclusive">1917-1921. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">10</container> 
+			 <unittitle>National War Work Council, correspondence and statements
+				re: YMCA work in Army posts and camps, </unittitle> 
+			 <unitdate type="inclusive">1918-1920. </unitdate> 
+			 <physdesc><extent>2 folders.</extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">10</container> 
+			 <unittitle>National War Work Council, Committee on War Industries,
+				</unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>4 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">10</container> 
+			 <unittitle>National War Work Council, Joint Committee of 10,
+				</unittitle> 
+			 <unitdate type="inclusive">1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">10</container> 
+			 <unittitle>National War Work Council, Committee of 14, </unittitle> 
+			 <unitdate type="inclusive">1915-1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">10</container> 
+			 <unittitle>National War Work Council, Chicago Plan, </unittitle> 
+			 <unitdate type="inclusive">1919-1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">11</container> 
+			 <unittitle>National War Work Council, fund reports and
+				correspondence, </unittitle> 
+			 <unitdate type="inclusive">1919-1927. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">11</container> 
+			 <unittitle>National War Work Council, budgets, </unittitle> 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">11</container> 
+			 <unittitle>National War Work Council, Supreme Court accounting,
+				correspondence and reports, </unittitle> 
+			 <unitdate type="inclusive">1922-1933. </unitdate> 
+			 <physdesc><extent>4 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">11</container> 
+			 <unittitle>National War Work Council, dissolution reports,
+				</unittitle> 
+			 <unitdate type="inclusive">1917-1946. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">11</container> 
+			 <unittitle>National War Work Council, trustee reports, </unittitle> 
+			 <unitdate type="inclusive">1919-1928. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">11</container> 
+			 <unittitle>National War Work Council, Liquidation Committee,
+				</unittitle> 
+			 <unitdate type="inclusive">1921-1924. </unitdate> 
+			 <physdesc><extent>2 folders.</extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">12</container> 
+			 <unittitle>Various wartime organizations and YMCA committees,
+				minutes, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">12</container> 
+			 <unittitle>United War Work Campaign, general committee, minutes,
+				</unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">12</container> 
+			 <unittitle>United War Work Campaign Executive Committee, reports and
+				minutes, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">12</container> 
+			 <unittitle>United War Work Campaign, budget sub-committee,
+				</unittitle> 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">12</container> 
+			 <unittitle>United War Work Campaign, reports and minutes,
+				</unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">12</container> 
+			 <unittitle>United War Work Campaign, certificate of incorporation,
+				</unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">12</container> 
+			 <unittitle>United War Work Campaign, minutes of general committee and
+				national cabinet, index, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">12</container> 
+			 <unittitle>United War Work Campaign Joint Executive Committee,
+				minutes, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">12</container> 
+			 <unittitle>United War Work Campaign, National Cabinet, minutes,
+				</unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+			 <physdesc><extent>2 folders.</extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">12</container> 
+			 <unittitle>United War Work Campaign, Committee of Eleven,
+				correspondence and reports, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">12</container> 
+			 <unittitle>United War Work Campaign, Committee of Eleven, minutes and
+				correspondence, </unittitle> 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">12</container> 
+			 <unittitle>United War Work Campaign, Committee of Eleven, minutes and
+				correspondence, </unittitle> 
+			 <unitdate type="inclusive">1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">12</container> 
+			 <unittitle>United War Work Campaign, Committee of Eleven, minutes,
+				</unittitle> 
+			 <unitdate type="inclusive">1920-1921. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">12</container> 
+			 <unittitle>United War Work Campaign, J. Mott, correspondence,
+				</unittitle> 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">12</container> 
+			 <unittitle>United War Work Campaign, Committee of Three, reports,
+				</unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">12</container> 
+			 <unittitle>Trustees of the War Fund, minutes, </unittitle> 
+			 <unitdate type="inclusive">1920-1927. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">12</container> 
+			 <unittitle>National War Work Council, financial reports, </unittitle>
+			 
+			 <unitdate type="inclusive">1918-1928. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">13</container> 
+			 <unittitle>United War Work Campaign, Finance Committee, minutes,
+				</unittitle> 
+			 <unitdate type="inclusive">1918-1921. </unitdate> 
+			 <physdesc><extent>4 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">13</container> 
+			 <unittitle>United War Work Campaign, circular letters and telegrams,
+				</unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">13</container> 
+			 <unittitle>United War Work Campaign, endorsement correspondence,
+				</unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">13</container> 
+			 <unittitle>United War Work Campaign, correspondence regarding
+				protests against campaign, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">13</container> 
+			 <unittitle>United War Work Campaign, financial statements,
+				</unittitle> 
+			 <unitdate type="inclusive">1918-1921. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">13</container> 
+			 <unittitle>United War Work Campaign, quota statements, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">13</container> 
+			 <unittitle>United War Work Campaign, budget materials, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">13</container> 
+			 <unittitle>United War Work Campaign, final audit, </unittitle> 
+			 <unitdate type="inclusive">1928-1930. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">13</container> 
+			 <unittitle>United War Work Campaign, correspondence regarding 1933
+				disbursement, </unittitle> 
+			 <unitdate type="inclusive">1933. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">13</container> 
+			 <unittitle>United War Work Campaign, materials relating to merger
+				negotiations of campaigns, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+			 <physdesc><extent>2 folders</extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">13</container> 
+			 <unittitle>United War Work Campaign, campaign plan book, </unittitle>
+			 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">13</container> 
+			 <unittitle>United War Work Campaign, bulletins, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">13</container> 
+			 <unittitle>United War Work Campaign, promotional publications,
+				</unittitle> 
+			 <unitdate type="inclusive">1917-1918. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">14</container> 
+			 <unittitle>United War Work Campaign, pledge cards, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">14</container> 
+			 <unittitle>United War Work Campaign, staff and committee lists,
+				</unittitle> 
+			 <unitdate type="inclusive">circa 1918. </unitdate> 
+			 <physdesc><extent>4 folders.</extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">14</container> 
+			 <unittitle>United War Work Campaign, press releases, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">14</container> 
+			 <unittitle>United War Work Campaign, miscellaneous press materials,
+				</unittitle> 
+			 <unitdate type="inclusive">circa 1917-1920. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">14</container> 
+			 <unittitle>United War Work Campaign, cartoon contest materials,
+				</unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">14</container> 
+			 <unittitle>United War Work Campaign, publications and clippings,
+				</unittitle> 
+			 <unitdate type="inclusive">circa 1918. </unitdate> 
+			 <physdesc><extent>6 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">15</container> 
+			 <unittitle>United War Work Campaign, publications and clippings,
+				</unittitle> 
+			 <unitdate type="inclusive">circa 1918. </unitdate> 
+			 <physdesc><extent>10 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">15</container> 
+			 <unittitle><emph render="italic">New York Herald</emph> articles on
+				YMCA in WW I, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>6 folders.</extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">16</container> 
+			 <unittitle>War work clippings, California, Oregon and Washington,
+				</unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">16</container> 
+			 <unittitle>War work clippings from New England states, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+			 <physdesc><extent>5 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">16</container> 
+			 <unittitle>News clippings on war work, </unittitle> 
+			 <unitdate type="inclusive">1916-1918. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">16</container> 
+			 <unittitle>United War Work Campaign, promotional publications,
+				</unittitle> 
+			 <unitdate type="inclusive">1918-1921. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">16</container> 
+			 <unittitle>United War Work Campaign, miscellaneous publications,
+				</unittitle> 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">16</container> 
+			 <unittitle>United War Work Campaign, blank forms, </unittitle> 
+			 <unitdate type="inclusive">circa 1918. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">17</container> 
+			 <unittitle>United War Work Campaign, reports and correspondence,
+				</unittitle> 
+			 <unitdate type="inclusive">1917. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">17</container> 
+			 <unittitle>United War Work Campaign, financial lists, </unittitle> 
+			 <unitdate type="inclusive">1917. </unitdate> 
+			 <physdesc><extent>2 folders.</extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">17</container> 
+			 <unittitle>United War Work Campaign, financial reports, </unittitle> 
+			 <unitdate type="inclusive">1917-1918. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">17</container> 
+			 <unittitle>United War Work Campaign, publicity, </unittitle> 
+			 <unitdate type="inclusive">1917. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">18</container> 
+			 <unittitle>United War Work Campaign, Victory Boys, publications and
+				reports, </unittitle> 
+			 <unitdate type="inclusive">1917-1918. </unitdate> 
+			 <physdesc><extent>5 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">18</container> 
+			 <unittitle>United War Work Campaign, foreign countries, </unittitle> 
+			 <unitdate type="inclusive">1917-1918. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">18</container> 
+			 <unittitle>United War Work Campaign, Brazil, </unittitle> 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">18</container> 
+			 <unittitle>United War Work Campaign, China, </unittitle> 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">18</container> 
+			 <unittitle>United War Work Campaign, Cuba, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">18</container> 
+			 <unittitle>United War Work Campaign, Mexico, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">18</container> 
+			 <unittitle>United War Work Campaign, Puerto Rico, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">18</container> 
+			 <unittitle>United War Work Campaign, Hawaiian islands, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">18</container> 
+			 <unittitle>United War Work Campaign, Bel Air, MD claim, </unittitle> 
+			 <unitdate type="inclusive">1938-1939. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">18</container> 
+			 <unittitle>Hopkins, World War I notes, </unittitle> 
+			 <unitdate type="inclusive">circa 1950. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">19</container> 
+			 <unittitle>United War Work Campaign, Victory Boys, miscellaneous
+				materials, </unittitle> 
+			 <unitdate type="inclusive">1917-1918. </unitdate> 
+			 <physdesc><extent>15 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">20</container> 
+			 <unittitle>United War Work Campaign, miscellaneous state and local
+				fundraising pamphlets, </unittitle> 
+			 <unitdate type="inclusive">circa 1917-1919. </unitdate> 
+			 <physdesc><extent>6 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">20</container> 
+			 <unittitle>United War Work Campaign, Indiana State War Work, reports,
+				</unittitle> 
+			 <unitdate type="inclusive">1919-1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">20</container> 
+			 <unittitle>United War Work Campaign, Puerto Rico, correspondence and
+				reports, </unittitle> 
+			 <unitdate type="inclusive">circa 1918. </unitdate> 
+			 <physdesc><extent>3 folders.</extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">20</container> 
+			 <unittitle>United War Work Campaign, miscellaneous, </unittitle> 
+			 <unitdate type="inclusive">circa 1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">20</container> 
+			 <unittitle>Education Bureau, reports and publications, </unittitle> 
+			 <unitdate type="inclusive">circa 1914-1919. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">21</container> 
+			 <unittitle>Education Bureau, publications and reports, </unittitle> 
+			 <unitdate type="inclusive">circa 1914-1919. </unitdate> 
+			 <physdesc><extent>8 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">21</container> 
+			 <unittitle><emph render="italic">Crises in American History</emph>,
+				discussion outline, </unittitle> 
+			 <unitdate type="inclusive">1918.</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">21</container> 
+			 <unittitle>Education Commission, publications, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+			 <physdesc><extent>7 folders.</extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">21</container> 
+			 <unittitle>Report on morale, </unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">21</container> 
+			 <unittitle>Materials found with report on morale, </unittitle> 
+			 <unitdate type="inclusive">circa 1917-1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">21</container> 
+			 <unittitle>Transportation Bureau, records, </unittitle> 
+			 <unitdate type="inclusive">1918-1920. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">21</container> 
+			 <unittitle>Transportation Bureau, publications, </unittitle> 
+			 <unitdate type="inclusive">circa 1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">22</container> 
+			 <unittitle>Education Department, Extension Division, </unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">22</container> 
+			 <unittitle>Education Department, Activities Committee, </unittitle> 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">22</container> 
+			 <unittitle>Education Department, Community Motion Picture Bureau,
+				</unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">22</container> 
+			 <unittitle>Publicity policy, </unittitle> 
+			 <unitdate type="inclusive">1917. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">22</container> 
+			 <unittitle>Army and Navy Department, </unittitle> 
+			 <unitdate type="inclusive">1920-1926. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">22</container> 
+			 <unittitle>Educational Commission, materials, </unittitle> 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+			 <physdesc><extent>13 folders.</extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">23</container> 
+			 <unittitle>Education Commission, materials, </unittitle> 
+			 <unitdate type="inclusive">1918-1926. </unitdate> 
+			 <physdesc><extent>4 folders.</extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">23</container> 
+			 <unittitle>Legal Department, interview with Reginald Robbins,
+				</unittitle> 
+			 <unitdate type="inclusive">1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">23</container> 
+			 <unittitle>Legal Department, interview with Franklin Edmonds,
+				</unittitle> 
+			 <unitdate type="inclusive">1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">23</container> 
+			 <unittitle>War Historical Bureau, interview with Elwood Brown,
+				</unittitle> 
+			 <unitdate type="inclusive">1920. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">23</container> 
+			 <unittitle>War Historical Bureau, interview with George Fisher,
+				</unittitle> 
+			 <unitdate type="inclusive">1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">23</container> 
+			 <unittitle><emph render="italic">Athletic Bulletin,
+				</emph></unittitle> 
+			 <unitdate type="inclusive">1920-1921. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">23</container> 
+			 <unittitle>Far Eastern Athletic Association, <emph
+				render="italic">The World at Play-A Program of Practical Athletics for the
+				Millions</emph>, </unittitle> 
+			 <unitdate type="inclusive">1913-1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">23</container> 
+			 <unittitle>Recreation publications, </unittitle> 
+			 <unitdate type="inclusive">circa 1917-1918. </unitdate> 
+			 <physdesc><extent>4 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">24</container> 
+			 <unittitle>Occasional Letters, </unittitle> 
+			 <unitdate type="inclusive">undated. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">24</container> 
+			 <unittitle>Recreation publications, </unittitle> 
+			 <unitdate type="inclusive">circa 1917-1919. </unitdate> 
+			 <physdesc><extent>4 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">24</container> 
+			 <unittitle>Physical education publications, </unittitle> 
+			 <unitdate type="inclusive">circa 1918-1921. </unitdate> 
+			 <physdesc><extent>5 folders.</extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">24</container> 
+			 <unittitle>Interview with John H. McCuroy, </unittitle> 
+			 <unitdate type="inclusive">1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">24</container> 
+			 <unittitle>Athletic Department, report, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">24</container> 
+			 <unittitle>Physical Education, instructions to the field, Occasional
+				Letters, </unittitle> 
+			 <unitdate type="inclusive">1919.</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">24</container> 
+			 <unittitle>Inter-Allied Games, publications, </unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+			 <physdesc><extent>4 folders.</extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">24</container> 
+			 <unittitle><emph render="italic">An Army of Athletes: Playing Fields,
+				Battlefields and the American Military Sporting Experience, 1890-1920</emph>,
+				</unittitle> 
+			 <unitdate type="inclusive">1995. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">24</container> 
+			 <unittitle>Inter-Allied Games, miscellaneous, </unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">24</container> 
+			 <unittitle>Inter-Allied Games, <emph render="italic">Victory
+				Games</emph>, by James Diamond, </unittitle> 
+			 <unitdate type="inclusive">1988. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">25</container> 
+			 <unittitle>World War I entertainment clippings, </unittitle> 
+			 <unitdate type="inclusive">1919-1921. </unitdate> 
+			 <physdesc><extent>3 volumes. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">25</container> 
+			 <unittitle>Entertainment articles and programs, </unittitle> 
+			 <unitdate type="inclusive">1918-1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">26</container> 
+			 <unittitle>World War I entertainment clippings, </unittitle> 
+			 <unitdate type="inclusive">1919-1921. </unitdate> 
+			 <physdesc><extent>4 volumes. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">27</container> 
+			 <unittitle>Entertainment report, Brest Region, </unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+			 <physdesc><extent>3 folders.</extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">27</container> 
+			 <unittitle>Entertainment reports and articles, </unittitle> 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">27</container> 
+			 <unittitle>Entertainment articles and programs, </unittitle> 
+			 <unitdate type="inclusive">1918-1920. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">27</container> 
+			 <unittitle>Loose material found in entertainment clippings scrapbook,
+				</unittitle> 
+			 <unitdate type="inclusive">1919-1921. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">27</container> 
+			 <unittitle>War Industries, materials, </unittitle> 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">27</container> 
+			 <unittitle>War Industries, Pacific Coast section, </unittitle> 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">28</container> 
+			 <unittitle>AEF-YMCA, budget, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">28</container> 
+			 <unittitle>Chief Secretary's file, volume A, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>11 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">28</container> 
+			 <unittitle>Chief Secretary's file, volume B, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>6 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">29</container> 
+			 <unittitle>Chief Secretary's file, volume C, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>5 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">29</container> 
+			 <unittitle>Chief Secretary's file, volume D, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>8 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">30</container> 
+			 <unittitle>Chief Secretary's file, volume E, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>6 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">30</container> 
+			 <unittitle>Chief Secretary's file, volume F, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>8 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">31</container> 
+			 <unittitle>Chief Secretary's file, volume G, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>4 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">31</container> 
+			 <unittitle>Chief Secretary's files, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>5 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">32</container> 
+			 <unittitle>AEF-YMCA, miscellaneous committee minutes, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>6 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">32</container> 
+			 <unittitle>AEF-YMCA, miscellaneous publications, </unittitle> 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">32</container> 
+			 <unittitle>AEF-YMCA Chief Secretary's file, miscellaneous
+				publications, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>5 folders.</extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">33</container> 
+			 <unittitle>AEF-YMCA, miscellaneous publications, </unittitle> 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+			 <physdesc><extent>4 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">33</container> 
+			 <unittitle>AEF-YMCA, athletic bulletins, </unittitle> 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+			 <physdesc><extent>5 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">33</container> 
+			 <unittitle>AEF-YMCA, Religious Department, publications, </unittitle>
+			 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+			 <physdesc><extent>6 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">34</container> 
+			 <unittitle>AEF-YMCA, Religious Department, publications, </unittitle>
+			 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">34</container> 
+			 <unittitle>AEF-YMCA, Construction Department, blueprints,
+				</unittitle> 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+			 <physdesc><extent>11 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">35</container> 
+			 <unittitle>AEF-YMCA, Education Department, Art Training Center
+				report, </unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+			 <physdesc><extent>2 folders.</extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">35</container> 
+			 <unittitle>AEF-YMCA, Education Department, publications, </unittitle>
+			 
+			 <unitdate type="inclusive">1919. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">36</container> 
+			 <unittitle>AEF Chief Secretary's file, official bulletins,
+				</unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">36</container> 
+			 <unittitle>Bulletins relating to YMCA, </unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+			 <physdesc><extent>6 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">36</container> 
+			 <unittitle>Answers to criticisms of YMCA publicity, </unittitle> 
+			 <unitdate type="inclusive">circa 1919. </unitdate> 
+			 <physdesc><extent>5 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">37</container> 
+			 <unittitle>AEF Finance Committee, minutes, </unittitle> 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+			 <physdesc><extent>12 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">37</container> 
+			 <unittitle>AEF Finance Committee-France, minutes, </unittitle> 
+			 <unitdate type="inclusive">1919-1920. </unitdate> 
+			 <physdesc><extent>3 folders.</extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">37</container> 
+			 <unittitle>Outline of headquarters organization, </unittitle> 
+			 <unitdate type="inclusive">circa 1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">37</container> 
+			 <unittitle>Handbook of American YMCA, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">38</container> 
+			 <unittitle>Overseas Committee, </unittitle> 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">38</container> 
+			 <unittitle>Negotiations between the YMCA and the Army/Navy,
+				</unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>4 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">38</container> 
+			 <unittitle>Executive Committee, minutes, </unittitle> 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">38</container> 
+			 <unittitle>Social hygiene pamphlets, </unittitle> 
+			 <unitdate type="inclusive">1916-1919. </unitdate> 
+			 <physdesc><extent>11 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">38</container> 
+			 <unittitle>Social hygiene, interview, </unittitle> 
+			 <unitdate type="inclusive">1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">38</container> 
+			 <unittitle>YMCA postcards and stationary, </unittitle> 
+			 <unitdate type="inclusive">circa 1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">38</container> 
+			 <unittitle>W. L. Denlinger files, YMCA warehouse in Gievres,
+				</unittitle> 
+			 <unitdate type="inclusive">1918-1922. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">39</container> 
+			 <unittitle>AEF in London, printed material, </unittitle> 
+			 <unitdate type="inclusive">1918-1920. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">39</container> 
+			 <unittitle>AEF in London, Washington Inn visitors book, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">39</container> 
+			 <unittitle>AEF in London, materials found with Washington Inn
+				visitors book, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">39</container> 
+			 <unittitle>AEF-YMCA, accounting materials, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+			 <physdesc><extent>5 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">39</container> 
+			 <unittitle>AEF in Great Britain, </unittitle> 
+			 <unitdate type="inclusive">1918-1920. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">39</container> 
+			 <unittitle>AEF-YMCA Statement of Work in the United Kingdom for the
+				American Army, </unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">39</container> 
+			 <unittitle>England, port work, </unittitle> 
+			 <unitdate type="inclusive">1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">40</container> 
+			 <unittitle>Service of American YMCA to the Italian Army, </unittitle>
+			 
+			 <unitdate type="inclusive">circa 1918. </unitdate> 
+			 <physdesc><extent>4 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">40</container> 
+			 <unittitle>Italian army materials, </unittitle> 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+			 <physdesc><extent>11 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">40</container> 
+			 <unittitle>War Historical Bureau, interview with Charles D. Hurrey,
+				</unittitle> 
+			 <unitdate type="inclusive">1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">40</container> 
+			 <unittitle>War Historical Bureau, interview with Clarence E. Beasley,
+				</unittitle> 
+			 <unitdate type="inclusive">1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">40</container> 
+			 <unittitle>War Historical Bureau, interview with Guy Potter Benson,
+				</unittitle> 
+			 <unitdate type="inclusive">1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">40</container> 
+			 <unittitle>War Historical Bureau, interview with J. Campbell Brandon,
+				</unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">40</container> 
+			 <unittitle>War Historical Bureau, interview with Carl Cate,
+				</unittitle> 
+			 <unitdate type="inclusive">1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">40</container> 
+			 <unittitle>War Historical Bureau, interview with Myron Clark,
+				</unittitle> 
+			 <unitdate type="inclusive">1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">40</container> 
+			 <unittitle>War Historical Bureau, interview with W. G. Coxhead,
+				</unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">40</container> 
+			 <unittitle>War Historical Bureau, interview with Mr. Crossett,
+				</unittitle> 
+			 <unitdate type="inclusive">1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">40</container> 
+			 <unittitle>War Historical Bureau, interview with Mr. Davis,
+				</unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">41</container> 
+			 <unittitle>War Historical Bureau, interview with R. L. Ewing,
+				</unittitle> 
+			 <unitdate type="inclusive">1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">41</container> 
+			 <unittitle>War Historical Bureau, interview with James Forbes,
+				</unittitle> 
+			 <unitdate type="inclusive">1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">41</container> 
+			 <unittitle>War Historical Bureau, interview with O. F. Gardner,
+				</unittitle> 
+			 <unitdate type="inclusive">1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">41</container> 
+			 <unittitle>War Historical Bureau, interview with Mr. Gethman,
+				</unittitle> 
+			 <unitdate type="inclusive">1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">41</container> 
+			 <unittitle>War Historical Bureau, interview with Robert Good,
+				</unittitle> 
+			 <unitdate type="inclusive">1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">41</container> 
+			 <unittitle>War Historical Bureau, interview with John Hall,
+				</unittitle> 
+			 <unitdate type="inclusive">1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">41</container> 
+			 <unittitle>War Historical Bureau, interview with Charles Hesselgrave,
+				</unittitle> 
+			 <unitdate type="inclusive">1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">41</container> 
+			 <unittitle>War Historical Bureau, interview with Mr. Lake,
+				</unittitle> 
+			 <unitdate type="inclusive">1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">41</container> 
+			 <unittitle>War Historical Bureau, interview with Thomas McLane,
+				</unittitle> 
+			 <unitdate type="inclusive">1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">41</container> 
+			 <unittitle>War Historical Bureau, interview with Robert Monaghan,
+				</unittitle> 
+			 <unitdate type="inclusive">1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">41</container> 
+			 <unittitle>War Historical Bureau, interview with Gerald Reynolds,
+				</unittitle> 
+			 <unitdate type="inclusive">1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">41</container> 
+			 <unittitle>War Historical Bureau, interview with Francis Sayre,
+				</unittitle> 
+			 <unitdate type="inclusive">1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">41</container> 
+			 <unittitle>War Historical Bureau, interview with Frederick Shipp,
+				</unittitle> 
+			 <unitdate type="inclusive">1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">41</container> 
+			 <unittitle>War Historical Bureau, interview with C. D. Silvernail,
+				</unittitle> 
+			 <unitdate type="inclusive">1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">41</container> 
+			 <unittitle>War Historical Bureau, interview with James Smith,
+				</unittitle> 
+			 <unitdate type="inclusive">1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">41</container> 
+			 <unittitle>War Historical Bureau, interview with W. A. Tener,
+				</unittitle> 
+			 <unitdate type="inclusive">1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">41</container> 
+			 <unittitle>War Historical Bureau, interview with Bishop Luther
+				Wilson, </unittitle> 
+			 <unitdate type="inclusive">1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">42</container> 
+			 <unittitle>Organization and operation of Post Exchange, report and
+				related correspondence, </unittitle> 
+			 <unitdate type="inclusive">1919-1930. </unitdate> 
+			 <physdesc><extent>4 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">42</container> 
+			 <unittitle>Appendix to report and organization of the Post Exchange,
+				</unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+			 <physdesc><extent>4 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">42</container> 
+			 <unittitle>YMCA work, articles regarding, </unittitle> 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">42</container> 
+			 <unittitle>Miscellaneous published material used in YMCA
+				investigation, </unittitle> 
+			 <unitdate type="inclusive">circa 1918-1919. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">42</container> 
+			 <unittitle>Price lists, </unittitle> 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">42</container> 
+			 <unittitle>Foyers du Soldat, extracts from letters, </unittitle> 
+			 <unitdate type="inclusive">1917-1918. </unitdate> 
+			 <physdesc><extent>4 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">43</container> 
+			 <unittitle>Foyers du Soldat, extracts from letters, </unittitle> 
+			 <unitdate type="inclusive">1917-1918. </unitdate> 
+			 <physdesc><extent>4 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">43</container> 
+			 <unittitle><emph render="italic">Lettres d'un Jeune Soldat de la
+				France</emph>, </unittitle> 
+			 <unitdate type="inclusive">1915.</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">43</container> 
+			 <unittitle>Foyers du Soldat, reports and letters, </unittitle> 
+			 <unitdate type="inclusive">1918-1920. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">43</container> 
+			 <unittitle>Foyers du Soldat, <emph render="italic">Report of the Work
+				of the Foyer du Soldat among the French and Belgian Soldiers on the Western
+				Front</emph>, </unittitle> 
+			 <unitdate type="inclusive">1917-1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">43</container> 
+			 <unittitle>Foyers du Soldat, A. Wayne Hanson report, </unittitle> 
+			 <unitdate type="inclusive">1921. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">43</container> 
+			 <unittitle>Foyers du Soldat, reports, </unittitle> 
+			 <unitdate type="inclusive">1918-1922. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">43</container> 
+			 <unittitle>Foyers du Soldat, recreation publications, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">43</container> 
+			 <unittitle>Foyers du Soldat, <emph render="italic">De la Sympathie à
+				la Fraternité d'Armes</emph>, </unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">43</container> 
+			 <unittitle>Foyers du Soldat, D. A. Davis notes, </unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">44</container> 
+			 <unittitle>Foyers du Soldat, correspondence, </unittitle> 
+			 <unitdate type="inclusive">1917-1921. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">44</container> 
+			 <unittitle>Foyers du Soldat, letters of William Sloan Coffin,
+				</unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">44</container> 
+			 <unittitle>Outline of Standard Activities of the Foyers du Soldat, du
+				Martin et du Civil, </unittitle> 
+			 <unitdate type="inclusive">circa 1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">44</container> 
+			 <unittitle>YMCA-AFG, history, </unittitle> 
+			 <unitdate type="inclusive">1920-1922. </unitdate> 
+			 <physdesc><extent>4 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">44</container> 
+			 <unittitle>YMCA-AFG, chief secretary's reports, </unittitle> 
+			 <unitdate type="inclusive">1922-1923. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">44</container> 
+			 <unittitle><emph render="italic">The French Foyers</emph>, A. Wayne
+				Hanson, </unittitle> 
+			 <unitdate type="inclusive">1922. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">44</container> 
+			 <unittitle>AFG, reports of the YMCA in the army of occupation,
+				</unittitle> 
+			 <unitdate type="inclusive">1919-1921. </unitdate> 
+			 <physdesc><extent>2 folders.</extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">45</container> 
+			 <unittitle>AFG in Koblenz, reports, correspondence and clippings,
+				</unittitle> 
+			 <unitdate type="inclusive">1919-1921, </unitdate> 
+			 <physdesc><extent>7 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">45</container> 
+			 <unittitle>AFG, athletic handbooks, </unittitle> 
+			 <unitdate type="inclusive">1919-1921. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">45</container> 
+			 <unittitle>AFG, athletic programs, </unittitle> 
+			 <unitdate type="inclusive">1920-1921. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">45</container> 
+			 <unittitle>AFG, entertainment programs, </unittitle> 
+			 <unitdate type="inclusive">1919-1921. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">45</container> 
+			 <unittitle>AFG, postcards, </unittitle> 
+			 <unitdate type="inclusive">circa 1919-1921. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">45</container> 
+			 <unittitle>AFG, blank forms, </unittitle> 
+			 <unitdate type="inclusive">circa 1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">45</container> 
+			 <unittitle>War Work school materials, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">46</container> 
+			 <unittitle>AFG, entertainment scrapbooks (originals), </unittitle> 
+			 <unitdate type="inclusive">1919-1921. </unitdate> 
+			 <physdesc><extent>2 folders.</extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">46</container> 
+			 <unittitle>AFG, entertainment scrapbook (photocopies), </unittitle> 
+			 <unitdate type="inclusive">1919-1921. </unitdate> 
+			 <physdesc><extent>14 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">46</container> 
+			 <unittitle>AFG materials in German, </unittitle> 
+			 <unitdate type="inclusive">circa 1917-1920. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">47</container> 
+			 <unittitle><emph render="italic">The AMAROC News</emph>, </unittitle>
+			 
+			 <unitdate type="inclusive">1921. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">47</container> 
+			 <unittitle><emph render="italic">The YAMAROC</emph>, newsletter,
+				</unittitle> 
+			 <unitdate type="inclusive">1922-1926. </unitdate> 
+			 <physdesc><extent>4 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">47</container> 
+			 <unittitle><emph render="italic">The YMCA with the Czecho-Slovak
+				Army</emph>, </unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">47</container> 
+			 <unittitle>James Sprenger/Franklin Edmonds papers, </unittitle> 
+			 <unitdate type="inclusive">1917-1926. </unitdate> 
+			 <physdesc><extent>14 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">47</container> 
+			 <unittitle><emph render="italic">The Y.O.U. Herald</emph>,
+				</unittitle> 
+			 <unitdate type="inclusive">1925. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">48</container> 
+			 <unittitle>AFG materials, P. Anderson collection, </unittitle> 
+			 <unitdate type="inclusive">1919-1925. </unitdate> 
+			 <physdesc><extent>17 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">49</container> 
+			 <unittitle>AFG materials, P. Anderson collection, </unittitle> 
+			 <unitdate type="inclusive">1919-1925. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">49</container> 
+			 <unittitle>First Annual Report of the YMCA with the AFG, </unittitle>
+			 
+			 <unitdate type="inclusive">1919-1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">49</container> 
+			 <unittitle>Prints of YMCA hut in Koblenz, </unittitle> 
+			 <unitdate type="inclusive">1922. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">49</container> 
+			 <unittitle>History of the YMCA-AFG, 1920-1921, </unittitle> 
+			 <unitdate type="inclusive">1922. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">49</container> 
+			 <unittitle>Final report of the leave area department - YMCA-AEF,
+				</unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+			 <physdesc><extent>7 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">50</container> 
+			 <unittitle>Leave area, publications, (France and Germany),
+				</unittitle> 
+			 <unitdate type="inclusive">1918-1922. </unitdate> 
+			 <physdesc><extent>11 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">51</container> 
+			 <unittitle>Leave Area, publications, </unittitle> 
+			 <unitdate type="inclusive">1918-1922. </unitdate> 
+			 <physdesc><extent>16 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">51</container> 
+			 <unittitle>Leave areas, Robert Patterson, </unittitle> 
+			 <unitdate type="inclusive">1920. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">52</container> 
+			 <unittitle>Leave Area, publications, </unittitle> 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+			 <physdesc><extent>9 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">52</container> 
+			 <unittitle>Policies regarding returning soldiers, reports,
+				</unittitle> 
+			 <unitdate type="inclusive">1919-1920. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">52</container> 
+			 <unittitle>Committee for Allied Armies and Prisoners of War,
+				</unittitle> 
+			 <unitdate type="inclusive">1917-1922. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">52</container> 
+			 <unittitle>Prisoner of war work, </unittitle> 
+			 <unitdate type="inclusive">1915-1920. </unitdate> 
+			 <physdesc><extent>7 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">53</container> 
+			 <unittitle>Prisoner of War work for Germany, </unittitle> 
+			 <unitdate type="inclusive">1914-1915. </unitdate> 
+			 <physdesc><extent>5 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">53</container> 
+			 <unittitle>Prisoner of war work for Austria, </unittitle> 
+			 <unitdate type="inclusive">1920-1921. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">53</container> 
+			 <unittitle>Prisoner of war report, Olin Wannamaker, </unittitle> 
+			 <unitdate type="inclusive">1921. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">53</container> 
+			 <unittitle>Prisoner of war report, Donald Lowrie, </unittitle> 
+			 <unitdate type="inclusive">1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">53</container> 
+			 <unittitle>D.A. Davis, extracts of correspondence, </unittitle> 
+			 <unitdate type="inclusive">1915-1918. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">53</container> 
+			 <unittitle>Prisoner of war report, England, </unittitle> 
+			 <unitdate type="inclusive">undated, 1915-1919. </unitdate> 
+			 <physdesc><extent>5 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">54</container> 
+			 <unittitle>Red Cross publications on prisoners of war, </unittitle> 
+			 <unitdate type="inclusive">1915-1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">54</container> 
+			 <unittitle>Prisoner of War Work, Dr. J.F. Hecker, </unittitle> 
+			 <unitdate type="inclusive">1917.</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">54</container> 
+			 <unittitle>Educational activities for war prisoners, </unittitle> 
+			 <unitdate type="inclusive">undated. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">54</container> 
+			 <unittitle>Prisoner of War work, German language publications,
+				</unittitle> 
+			 <unitdate type="inclusive">1914-1922. </unitdate> 
+			 <physdesc><extent>13 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">54</container> 
+			 <unittitle>Prisoner of War work, <emph
+				render="italic">Sonntag</emph>, </unittitle> 
+			 <unitdate type="inclusive">1916-1919. </unitdate> 
+			 <physdesc><extent>4 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">54</container> 
+			 <unittitle>Prisoner of War work, German language news clippings,
+				</unittitle> 
+			 <unitdate type="inclusive">1914-1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">55</container> 
+			 <unittitle>Prisoner of War work, German language publications,
+				</unittitle> 
+			 <unitdate type="inclusive">1916-1921. </unitdate> 
+			 <physdesc><extent>5 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">55</container> 
+			 <unittitle>Prisoner of War work, Belgian newspapers, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">55</container> 
+			 <unittitle>Prisoner of War work, pamphlets in various languages,
+				</unittitle> 
+			 <unitdate type="inclusive">1914-1918. </unitdate> 
+			 <physdesc><extent>4 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">55</container> 
+			 <unittitle>Prisoner of War work, miscellaneous articles, publications
+				and reports, </unittitle> 
+			 <unitdate type="inclusive">1914-1918. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">55</container> 
+			 <unittitle>Prisoner of War work, reports to John Mott, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">55</container> 
+			 <unittitle>Jewish Welfare Board publications, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>5 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">56</container> 
+			 <unittitle>American Library Association War Service Committee,
+				report, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">56</container> 
+			 <unittitle>YWCA, miscellaneous publications, </unittitle> 
+			 <unitdate type="inclusive">circa 1918. </unitdate> 
+			 <physdesc><extent>17 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">56</container> 
+			 <unittitle>YWCA War Work news periodicals, </unittitle> 
+			 <unitdate type="inclusive">undated, 1917-1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">56</container> 
+			 <unittitle>Salvation Army, publications, </unittitle> 
+			 <unitdate type="inclusive">circa 1918. </unitdate> 
+			 <physdesc><extent>4 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">57</container> 
+			 <unittitle>War Camp Community Service, publications, </unittitle> 
+			 <unitdate type="inclusive">circa 1918. </unitdate> 
+			 <physdesc><extent>20 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">57A</container> 
+			 <unittitle>Prisoner of War: receipts for letters and parcels,
+				</unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+			 <physdesc><extent>4 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">57a</container> 
+			 <unittitle>Red Cross publication for prisoner of war, </unittitle> 
+			 <unitdate type="inclusive">1915-1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">57a</container> 
+			 <unittitle>Friendship diary, </unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">57a</container> 
+			 <unittitle>American Library Association pamphlets, </unittitle> 
+			 <unitdate type="inclusive">1918-1920. </unitdate> 
+			 <physdesc><extent>6 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">58</container> 
+			 <unittitle>War Camp Community Service, publications, </unittitle> 
+			 <unitdate type="inclusive">circa 1918. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">58</container> 
+			 <unittitle>Knights of Columbus, materials, </unittitle> 
+			 <unitdate type="inclusive">1919-1921. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">58</container> 
+			 <unittitle>National Catholic War Work Council, publications,
+				</unittitle> 
+			 <unitdate type="inclusive">circa 1918. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">58</container> 
+			 <unittitle>Knights of Columbus, <emph render="italic">Good of the
+				Order</emph>, </unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+			 <physdesc><extent>5 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">58</container> 
+			 <unittitle>Report on the Masonic Overseas Mission on . . .War Relief
+				Work, </unittitle> 
+			 <unitdate type="inclusive">circa 1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">58</container> 
+			 <unittitle>World War I relations: American Bible Society,
+				</unittitle> 
+			 <unitdate type="inclusive">1917. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">58</container> 
+			 <unittitle>YMCA relations with American Red Cross, correspondence and
+				reports, </unittitle> 
+			 <unitdate type="inclusive">1918-1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">58</container> 
+			 <unittitle>YMCA relations with American Legion, correspondence,
+				</unittitle> 
+			 <unitdate type="inclusive">1920-1929.</unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">58</container> 
+			 <unittitle>World War I relations: American Legion building, Paris,
+				correspondence, </unittitle> 
+			 <unitdate type="inclusive">1928-1929. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">59</container> 
+			 <unittitle>Work with the Navy, reports and publications, </unittitle>
+			 
+			 <unitdate type="inclusive">circa 1911-1925. </unitdate> 
+			 <physdesc><extent>9 folders.</extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">59</container> 
+			 <unittitle>Miscellaneous Red Triangle materials, </unittitle> 
+			 <unitdate type="inclusive">1917-1921. </unitdate> 
+			 <physdesc><extent>9 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">59</container> 
+			 <unittitle><emph render="italic">New York Herald</emph>, European
+				edition, American Legion section, </unittitle> 
+			 <unitdate type="inclusive">1927. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">60</container> 
+			 <unittitle>Miscellaneous Red Triangle materials, </unittitle> 
+			 <unitdate type="inclusive">1918-1932. </unitdate> 
+			 <physdesc><extent>5 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">60</container> 
+			 <unittitle>Miscellaneous Red Triangle publications, </unittitle> 
+			 <unitdate type="inclusive">1918-1920. </unitdate> 
+			 <physdesc><extent>17 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">61</container> 
+			 <unittitle>Miscellaneous Red Triangle publications, </unittitle> 
+			 <unitdate type="inclusive">1917-1920. </unitdate> 
+			 <physdesc><extent>4 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">61</container> 
+			 <unittitle><emph render="italic">The Call to Arms: A Manual for Men
+				Preparing for National Army Camps</emph>, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">61</container> 
+			 <unittitle>Home camps: unidentified and B, </unittitle> 
+			 <unitdate type="inclusive">circa 1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">61</container> 
+			 <unittitle>Home camps: C, </unittitle> 
+			 <unitdate type="inclusive">circa 1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">61</container> 
+			 <unittitle>Home camps: Devens, </unittitle> 
+			 <unitdate type="inclusive">circa 1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">61</container> 
+			 <unittitle>Home camps: Dix and Dodge, </unittitle> 
+			 <unitdate type="inclusive">circa 1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">61</container> 
+			 <unittitle>Home camps: Doniphan and Douglas, </unittitle> 
+			 <unitdate type="inclusive">circa 1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">61</container> 
+			 <unittitle>Home camps: Funston and Gordon, </unittitle> 
+			 <unitdate type="inclusive">circa 1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">61</container> 
+			 <unittitle>Home camps: Grant, </unittitle> 
+			 <unitdate type="inclusive">circa 1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">61</container> 
+			 <unittitle>Home camps: Humphreys-Lee, </unittitle> 
+			 <unitdate type="inclusive">circa 1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">61</container> 
+			 <unittitle>Home camps: Lewis, </unittitle> 
+			 <unitdate type="inclusive">circa 1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">61</container> 
+			 <unittitle>Home camps: Meade, </unittitle> 
+			 <unitdate type="inclusive">circa 1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">61</container> 
+			 <unittitle>Home camps: Merritt-Pike, </unittitle> 
+			 <unitdate type="inclusive">circa 1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">61</container> 
+			 <unittitle>Home camps: P-T, </unittitle> 
+			 <unitdate type="inclusive">circa 1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">61</container> 
+			 <unittitle>Home camps: P-Sou, </unittitle> 
+			 <unitdate type="inclusive">circa 1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">61</container> 
+			 <unittitle>Home camps: St-Ta, </unittitle> 
+			 <unitdate type="inclusive">circa 1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">62</container> 
+			 <unittitle>Army camps, miscellaneous, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">62</container> 
+			 <unittitle>Red Triangle League, reports and publications,
+				</unittitle> 
+			 <unitdate type="inclusive">1918-1920. </unitdate> 
+			 <physdesc><extent>4 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">62</container> 
+			 <unittitle>Studies in Comradeship, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">62</container> 
+			 <unittitle>Articles about war work, </unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">62</container> 
+			 <unittitle>Red Triangle comrade pamphlets, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">62</container> 
+			 <unittitle>Y Overseas Union, reports and publications, </unittitle> 
+			 <unitdate type="inclusive">1920-1929. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">62</container> 
+			 <unittitle>Chaplains' comments on Y service overseas, </unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+			 <physdesc><extent>6 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">63</container> 
+			 <unittitle>Chaplains' comments on Y service overseas, </unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">63</container> 
+			 <unittitle>Chaplains, miscellaneous correspondence, clippings and
+				reports, </unittitle> 
+			 <unitdate type="inclusive">1910-1920. </unitdate> 
+			 <physdesc><extent>4 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">63</container> 
+			 <unittitle>Endorsements by soldiers, </unittitle> 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">63</container> 
+			 <unittitle>Mothers' Day pamphlets, </unittitle> 
+			 <unitdate type="inclusive">1918-1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">63</container> 
+			 <unittitle>Correspondence from J. Ross MacIver, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">63</container> 
+			 <unittitle>Humphrey Wilkinson letters, </unittitle> 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">63</container> 
+			 <unittitle>George Hind materials, </unittitle> 
+			 <unitdate type="inclusive">1918-1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">63</container> 
+			 <unittitle>Edna Perrin, letters to family, </unittitle> 
+			 <unitdate type="inclusive">1918-1919.</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">63</container> 
+			 <unittitle>Wilford Mills letters, </unittitle> 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">63</container> 
+			 <unittitle>James Tappan letters, </unittitle> 
+			 <unitdate type="inclusive">1917-1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">63</container> 
+			 <unittitle>F. S. Edmonds materials, <emph render="italic">History of
+				the Intermediate Section S. O. S. </emph>, </unittitle> 
+			 <unitdate type="inclusive">1919-1927. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">64</container> 
+			 <unittitle>F. S. Edmonds materials, miscellaneous clippings and
+				publications, </unittitle> 
+			 <unitdate type="inclusive">1919-1935. </unitdate> 
+			 <physdesc><extent>9 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">64</container> 
+			 <unittitle>F. S. Edmonds materials, Leave Area, </unittitle> 
+			 <unitdate type="inclusive">1919-1931, 1957, 1962. </unitdate> 
+			 <physdesc><extent>8 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">65</container> 
+			 <unittitle><emph render="italic">A Woman's War</emph>, Elsie Mead,
+				</unittitle> 
+			 <unitdate type="inclusive">undated. </unitdate> 
+			 <physdesc><extent>9 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">65</container> 
+			 <unittitle>Report of Women's Work in Wet Canteens and Rest Rooms of
+				Paris, Helen King, </unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">65</container> 
+			 <unittitle>AEF-YMCA Women's Work in the World War, Helen Gilchrist,
+				</unittitle> 
+			 <unitdate type="inclusive">undated. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">66A</container> 
+			 <unittitle>Women secretaries, news clippings, </unittitle> 
+			 <unitdate type="inclusive">1919-1921, 1970. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">66A</container> 
+			 <unittitle>Women secretaries, miscellaneous publications,
+				</unittitle> 
+			 <unitdate type="inclusive">circa 1918.</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">66A</container> 
+			 <unittitle>Women secretaries, Department of the East, </unittitle> 
+			 <unitdate type="inclusive">1919-1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">66A</container> 
+			 <unittitle>Women secretaries, correspondence, </unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">66A</container> 
+			 <unittitle>Women secretaries, miscellaneous reports, </unittitle> 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">66A</container> 
+			 <unittitle>Slade-Mead, correspondence, </unittitle> 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">66B</container> 
+			 <unittitle>F. S. Edmonds materials, Leave Area, </unittitle> 
+			 <unitdate type="inclusive">1918-1920. </unitdate> 
+			 <physdesc><extent>4 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">66B</container> 
+			 <unittitle><emph render="italic">Camp de Souge News</emph>,
+				</unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">66B</container> 
+			 <unittitle>Leave area materials, reunions, </unittitle> 
+			 <unitdate type="inclusive">1928, 1938. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">66B</container> 
+			 <unittitle>Casualty and decoration lists of YMCA personnel,
+				</unittitle> 
+			 <unitdate type="inclusive">circa 1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">66B</container> 
+			 <unittitle>Commendation correspondence, army of occupation,
+				</unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">66B</container> 
+			 <unittitle>Commendations, </unittitle> 
+			 <unitdate type="inclusive">circa 1918. </unitdate> 
+			 <physdesc><extent>8 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">67</container> 
+			 <unittitle>Commendations, </unittitle> 
+			 <unitdate type="inclusive">circa 1918. </unitdate> 
+			 <physdesc><extent>18 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">68</container> 
+			 <unittitle>Commendations, </unittitle> 
+			 <unitdate type="inclusive">circa 1918. </unitdate> 
+			 <physdesc><extent>16 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">69</container> 
+			 <unittitle>Commendations, </unittitle> 
+			 <unitdate type="inclusive">circa 1918. </unitdate> 
+			 <physdesc><extent>15 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">70</container> 
+			 <unittitle>Commendations, </unittitle> 
+			 <unitdate type="inclusive">circa 1918. </unitdate> 
+			 <physdesc><extent>9 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">70</container> 
+			 <unittitle>Speakers Bureau, pamphlets and resource materials,
+				</unittitle> 
+			 <unitdate type="inclusive">circa 1917-1918. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">70</container> 
+			 <unittitle>Speakers Bureau, reports, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">70</container> 
+			 <unittitle>Histories, miscellaneous, </unittitle> 
+			 <unitdate type="inclusive">1917-1921. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">71</container> 
+			 <unittitle>Histories, miscellaneous, </unittitle> 
+			 <unitdate type="inclusive">1915-1921. </unitdate> 
+			 <physdesc><extent>9 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">71</container> 
+			 <unittitle>Histories, <emph render="italic">The Touchstone</emph>,
+				</unittitle> 
+			 <unitdate type="inclusive">January 1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">71</container> 
+			 <unittitle>Histories, Harold Shock biographical, </unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+			 <physdesc><extent>4 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">71</container> 
+			 <unittitle>Histories, Analytical Report and Syllabus of Complete
+				Operations of the YMCA in the World War, </unittitle> 
+			 <unitdate type="inclusive">circa 1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">71</container> 
+			 <unittitle>Histories, American Forces in Germany, </unittitle> 
+			 <unitdate type="inclusive">1920. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">72</container> 
+			 <unittitle>Histories, Overseas Work, by Bert Pond, </unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+			 <physdesc><extent>5 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">72</container> 
+			 <unittitle><emph render="italic">Christian Friendship and the Man in
+				Uniform</emph>, </unittitle> 
+			 <unitdate type="inclusive">1921. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">72</container> 
+			 <unittitle><emph render="italic">Y's Front</emph>, correspondence,
+				</unittitle> 
+			 <unitdate type="inclusive">1939. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">72</container> 
+			 <unittitle><emph render="italic">Y's Front</emph>, George Spencer,
+				</unittitle> 
+			 <unitdate type="inclusive">1939. </unitdate> 
+			 <physdesc><extent>5 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">74</container> 
+			 <unittitle><emph render="italic">Army Influence over the YMCA in
+				France</emph>, George Thayer, </unittitle> 
+			 <unitdate type="inclusive">circa 1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">74</container> 
+			 <unittitle><emph render="italic">Building a New World</emph>,
+				Harrison S. Elliott, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">74</container> 
+			 <unittitle><emph render="italic">A New World in the Making:
+				Constructive Studies in the Issues of the War</emph>, Theodore Collier,
+				</unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">74</container> 
+			 <unittitle><emph render="italic">With the YMCA in the First World
+				War</emph>, Walter Spence, </unittitle> 
+			 <unitdate type="inclusive">circa 1960. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">74</container> 
+			 <unittitle>Articles on the religious aspect of the war, </unittitle> 
+			 <unitdate type="inclusive">1914-1918. </unitdate> 
+			 <physdesc><extent>6 folders.</extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">74</container> 
+			 <unittitle><emph render="italic">With the Indian Army in the Great
+				War</emph>, Harold H. Peterson, </unittitle> 
+			 <unitdate type="inclusive">1970. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">74</container> 
+			 <unittitle><emph render="italic">Shifting Scenes in Siberia</emph>,
+				Gail Berg Reitzel, </unittitle> 
+			 <unitdate type="inclusive">1918-1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">74</container> 
+			 <unittitle><emph render="italic">Fighting without a War</emph>,
+				<emph render="italic">Yanks in Russia</emph>, Ralph Albertson, </unittitle> 
+			 <unitdate type="inclusive">1920, 1987. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">75</container> 
+			 <unittitle>YMCA front line service report, E.G. Handy, </unittitle> 
+			 <unitdate type="inclusive">1920. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">75</container> 
+			 <unittitle>Bibliography of the religious significance of the war, H.
+				H. King, </unittitle> 
+			 <unitdate type="inclusive">1916. </unitdate> 
+			 <physdesc><extent>4 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">75</container> 
+			 <unittitle>YMCA answer to the Inspector General, </unittitle> 
+			 <unitdate type="inclusive">1918-1920. </unitdate> 
+			 <physdesc><extent>7 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">76</container> 
+			 <unittitle>YMCA answer to the Inspector General, </unittitle> 
+			 <unitdate type="inclusive">1918-1920. </unitdate> 
+			 <physdesc><extent>14 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">77</container> 
+			 <unittitle>Letter from E. C. Carter to William Sloane, supplementing
+				the YMCA answer to the Inspector General, </unittitle> 
+			 <unitdate type="inclusive">1918-1920. </unitdate> 
+			 <physdesc><extent>19 folders.</extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">78</container> 
+			 <unittitle>Letter from E. C. Carter to William Sloane, supplementing
+				the YMCA answer to the Inspector General, </unittitle> 
+			 <unitdate type="inclusive">1918-1920. </unitdate> 
+			 <physdesc><extent>18 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">79</container> 
+			 <unittitle>Letter from E. C. Carter to William Sloane, supplementing
+				the YMCA answer to the Inspector General, </unittitle> 
+			 <unitdate type="inclusive">1918-1920. </unitdate> 
+			 <physdesc><extent>18 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">80</container> 
+			 <unittitle>Letter from E. C. Carter to William Sloane, supplementing
+				the YMCA answer to the Inspector General, </unittitle> 
+			 <unitdate type="inclusive">1918-1920. </unitdate> 
+			 <physdesc><extent>18 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">81</container> 
+			 <unittitle>Reply of the International Committee of the YMCA to the
+				additional report of the Assistant to the Inspector General, AEF, </unittitle> 
+			 <unitdate type="inclusive">1922. </unitdate> 
+			 <physdesc><extent>5 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">81</container> 
+			 <unittitle>Letter from E. C. Carter to William Sloane, supplementing
+				the YMCA answer to the Inspector General (duplicate), </unittitle> 
+			 <unitdate type="inclusive">1918-1920. </unitdate> 
+			 <physdesc><extent>8 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">82</container> 
+			 <unittitle>Letter from E. C. Carter to William Sloane, supplementing
+				the YMCA answer to the Inspector General (duplicate), </unittitle> 
+			 <unitdate type="inclusive">1918-1920. </unitdate> 
+			 <physdesc><extent>23 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">83</container> 
+			 <unittitle>Letter from E. C. Carter to William Sloane, supplementing
+				the YMCA answer to the Inspector General (duplicate), </unittitle> 
+			 <unitdate type="inclusive">1918-1920. </unitdate> 
+			 <physdesc><extent>15 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">84</container> 
+			 <unittitle>Answers to criticism, </unittitle> 
+			 <unitdate type="inclusive">circa 1919. </unitdate> 
+			 <physdesc><extent>16 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">84</container> 
+			 <unittitle>Report of the Investigation of the YMCA to the Inspector
+				General, AEF, </unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+			 <physdesc><extent>6 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">85</container> 
+			 <unittitle>Report of the Investigation of the YMCA to the Inspector
+				General, AEF, </unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+			 <physdesc><extent>14 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">85</container> 
+			 <unittitle>Report of the Investigation of the YMCA to the Inspector
+				General, AEF (duplicate), </unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+			 <physdesc><extent>4 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">86</container> 
+			 <unittitle>Report of the Investigation of the YMCA to the Inspector
+				General, AEF (duplicate), </unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+			 <physdesc><extent>22 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">87</container> 
+			 <unittitle>Samples of War Work pamphlets defending YMCA work,
+				</unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>4 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">87</container> 
+			 <unittitle>Catholic criticism of the YMCA, reports and
+				correspondence, </unittitle> 
+			 <unitdate type="inclusive">1920-1921. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">87</container> 
+			 <unittitle>Criticism of the YMCA, articles and correspondence,
+				</unittitle> 
+			 <unitdate type="inclusive">1918-1921. </unitdate> 
+			 <physdesc><extent>11 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">87</container> 
+			 <unittitle>War work criticism, news clippings, </unittitle> 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+			 <physdesc><extent>4 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">88</container> 
+			 <unittitle>Post-war investigation of the YMCA, miscellaneous F. S.
+				Edmonds materials, </unittitle> 
+			 <unitdate type="inclusive">undated, 1917-1939. </unitdate> 
+			 <physdesc><extent>19 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">89</container> 
+			 <unittitle>AEF-YMCA in the United Kingdom, R. L. Ewing material,
+				</unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+			 <physdesc><extent>12 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">90</container> 
+			 <unittitle>AEF-YMCA in the United Kingdom, R. L. Ewing materials,
+				</unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+			 <physdesc><extent>11 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">90</container> 
+			 <unittitle>Report to the Commander in Chief of the YMCA with the AEF,
+				</unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+			 <physdesc><extent>4 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">91</container> 
+			 <unittitle>Review of Inspector General's report, </unittitle> 
+			 <unitdate type="inclusive">1920-1922. </unitdate> 
+			 <physdesc><extent>4 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">91</container> 
+			 <unittitle>Further reply to Bradley Report, </unittitle> 
+			 <unitdate type="inclusive">1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">91</container> 
+			 <unittitle><emph render="italic">Making of Trench and Camp</emph> and
+				<emph render="italic">Trench and Camp: Our Anniversary</emph>, </unittitle> 
+			 <unitdate type="inclusive">1918, undated. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">91</container> 
+			 <unittitle><emph>Trench and Camp</emph>, correspondence and reports,
+				</unittitle> 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">91</container> 
+			 <unittitle><emph render="italic">Red Triangle League Bulletin</emph>,
+				</unittitle> 
+			 <unitdate type="inclusive">1920-1921. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">91</container> 
+			 <unittitle><emph render="italic">The Dauphine Doughboy</emph>,
+				</unittitle> 
+			 <unitdate type="inclusive">January-April 1919. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">91</container> 
+			 <unittitle><emph render="italic">Dots and Dashes</emph>, YMCA at Camp
+				Vail, NJ, (photocopies) </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">91</container> 
+			 <unittitle><emph render="italic">Billy's Hut</emph>, Katherine Mayo,
+				</unittitle> 
+			 <unitdate type="inclusive">1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">91</container> 
+			 <unittitle>Books in Camp, Trench and Hospital, <emph
+				render="italic">Library Journal</emph>, </unittitle> 
+			 <unitdate type="inclusive">1917. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">91</container> 
+			 <unittitle><emph render="italic">Four Months in France</emph>, Paul
+				Kellogg, </unittitle> 
+			 <unitdate type="inclusive">circa 1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">91</container> 
+			 <unittitle>Mexican border work, publications and clippings,
+				</unittitle> 
+			 <unitdate type="inclusive">1916-1917. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">91</container> 
+			 <unittitle>Mexican border work, miscellaneous press materials,
+				</unittitle> 
+			 <unitdate type="inclusive">1916. </unitdate> 
+			 <physdesc><extent>5 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">92</container> 
+			 <unittitle>War work clippings, Mexican border work, </unittitle> 
+			 <unitdate type="inclusive">1916-1917. </unitdate> 
+			 <physdesc><extent>7 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">92</container> 
+			 <unittitle>Mexican border work, maps (photocopies), </unittitle> 
+			 <unitdate type="inclusive">circa 1917. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">92</container> 
+			 <unittitle><emph render="italic">The United States Army Young Men's
+				Christian Association</emph>, graduation thesis by Charles Crissey,
+				</unittitle> 
+			 <unitdate type="inclusive">1917. </unitdate> 
+			 <physdesc><extent>4 folders. </extent></physdesc> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Can also be found in Y.USA.4-3.</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">92</container> 
+			 <unittitle><emph render="italic">Medical Training Camp: Fort
+				Oglethorpe, Georgia</emph>, </unittitle> 
+			 <unitdate type="inclusive">1917. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">92</container> 
+			 <unittitle><emph render="italic">Second Report of the Provost Marshal
+				General to the Secretary of War on the Operations of the Selective Service
+				System to December 20, 1918</emph>, </unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">92</container> 
+			 <unittitle>American Expeditionary Forces University, catalogue,
+				</unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">92</container> 
+			 <unittitle>American Expeditionary Forces University,
+				register</unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">93</container> 
+			 <unittitle>Orders, reports and clippings regarding U.S. government
+				orders and regulations, </unittitle> 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">93</container> 
+			 <unittitle>U.S. military, publications, </unittitle> 
+			 <unitdate type="inclusive">1919-1926, </unitdate> 
+			 <physdesc><extent>4 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">93</container> 
+			 <unittitle>U.S. government, publications on WW I, </unittitle> 
+			 <unitdate type="inclusive">1917-1918. </unitdate> 
+			 <physdesc><extent>7 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">94</container> 
+			 <unittitle>U.S. government, publications on WW I, </unittitle> 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">95</container> 
+			 <unittitle>U.S. government, publications on WW I, </unittitle> 
+			 <unitdate type="inclusive">1918-1920. </unitdate> 
+			 <physdesc><extent>4 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">94</container> 
+			 <unittitle>War Department, publications, </unittitle> 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+			 <physdesc><extent>19 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">94</container> 
+			 <unittitle>Enlisted men's Bible and Prayer League calendar,
+				</unittitle> 
+			 <unitdate type="inclusive">1913. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">95</container> 
+			 <unittitle>U.S. government report on reparations, </unittitle> 
+			 <unitdate type="inclusive">1924. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">95</container> 
+			 <unittitle>U.S. government materials on morals and morale,
+				</unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">95</container> 
+			 <unittitle>Commission on Training Camp Activities, minutes,
+				</unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">95</container> 
+			 <unittitle>Commission on Training Camp Activities, Athletic Division,
+				bulletin, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">96</container> 
+			 <unittitle>Commission on Training Camp Activities, Athletic Division,
+				bulletin, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">96</container> 
+			 <unittitle>Commission on Training Camp Activities, miscellaneous
+				documents, </unittitle> 
+			 <unitdate type="inclusive">1917-1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">96</container> 
+			 <unittitle>AEF, soldiers' letter envelopes, </unittitle> 
+			 <unitdate type="inclusive">undated. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">96</container> 
+			 <unittitle>U.S. government, foreign exchange publications,
+				</unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">96</container> 
+			 <unittitle>U.S. government, field service scales of rations
+				publications, </unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">96</container> 
+			 <unittitle>U.S. government, miscellaneous publications, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">96</container> 
+			 <unittitle>Navy Chaplain's manual, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">96</container> 
+			 <unittitle>Soldiers and sailors bulletin, </unittitle> 
+			 <unitdate type="inclusive">1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">96</container> 
+			 <unittitle>Contributions of black soldiers, pamphlets, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">96</container> 
+			 <unittitle>War Department, military intelligence, correspondence with
+				John Mott, </unittitle> 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">96</container> 
+			 <unittitle>War Department, Secretary of War, correspondence,
+				</unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">96</container> 
+			 <unittitle>War Department, transfer of welfare work to government,
+				</unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+			 <physdesc><extent>2 folders</extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">96</container> 
+			 <unittitle>War Department, draft law correspondence and reports,
+				</unittitle> 
+			 <unitdate type="inclusive">1917-1918. </unitdate> 
+			 <physdesc><extent>3 folders.</extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">97</container> 
+			 <unittitle>Religious pamphlets, </unittitle> 
+			 <unitdate type="inclusive">1917-1920. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">97</container> 
+			 <unittitle>War Department, publications on international law,
+				</unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">97</container> 
+			 <unittitle>War Department, military training camp for business and
+				professional men, </unittitle> 
+			 <unitdate type="inclusive">1915. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">97</container> 
+			 <unittitle>Navy Department, correspondence, </unittitle> 
+			 <unitdate type="inclusive">1917. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">97</container> 
+			 <unittitle>Navy Department, memoranda, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">97</container> 
+			 <unittitle>War Department, work reports, </unittitle> 
+			 <unitdate type="inclusive">1914-1921. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">97</container> 
+			 <unittitle><emph render="italic">New York Times</emph>, clippings on
+				the military situation, </unittitle> 
+			 <unitdate type="inclusive">1914. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">97</container> 
+			 <unittitle>Pocket bibles, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+			 <physdesc><extent>7 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">98</container> 
+			 <unittitle>Readings from the Holy Scriptures for Jewish Soldiers and
+				Sailors, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">98</container> 
+			 <unittitle>Enlisted men's bible and prayer league calendars,
+				</unittitle> 
+			 <unitdate type="inclusive">1914-1917. </unitdate> 
+			 <physdesc><extent>5 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">98</container> 
+			 <unittitle>List of literature handled by Religious Work Department in
+				Paris, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">98</container> 
+			 <unittitle><emph render="italic">The Leadership of Red Triangle
+				Groups</emph>, Harrison Elliott, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">98</container> 
+			 <unittitle>Religious pamphlets, </unittitle> 
+			 <unitdate type="inclusive">1914-1920. </unitdate> 
+			 <physdesc><extent>7 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">99</container> 
+			 <unittitle>Articles regarding the YMCA in World War I, </unittitle> 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">99</container> 
+			 <unittitle>Religious pamphlets, </unittitle> 
+			 <unitdate type="inclusive">1917-1920. </unitdate> 
+			 <physdesc><extent>16 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">99A</container> 
+			 <unittitle>Religious pamphlets, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>19 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">100</container> 
+			 <unittitle>Articles regarding the YMCA in World War I, </unittitle> 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+			 <physdesc><extent>8 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">100</container> 
+			 <unittitle><emph render="italic">Stars and Stripes</emph>
+				(photocopies), </unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">100</container> 
+			 <unittitle><emph render="italic">New York Herald</emph>
+				(photocopies), </unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">100</container> 
+			 <unittitle><emph render="italic">Chicago Tribune</emph>, Paris
+				Edition (photocopies), </unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">100</container> 
+			 <unittitle>Press releases regarding YMCA in World War I, </unittitle>
+			 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">101</container> 
+			 <unittitle><emph render="italic">Home Sector </emph>, </unittitle> 
+			 <unitdate type="inclusive">September 27, 1919 - April 17, 1920.
+				</unitdate> 
+			 <physdesc><extent>22 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">102</container> 
+			 <unittitle><emph render="italic">American Legion Weekly</emph>,
+				</unittitle> 
+			 <unitdate type="inclusive">July 4, 1919 - March 26, 1920. </unitdate>
+			 
+			 <physdesc><extent>37 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">103</container> 
+			 <unittitle><emph render="italic">American Legion Weekly</emph>,
+				</unittitle> 
+			 <unitdate type="inclusive">August 6, 1920 - September 23, 1921.
+				</unitdate> 
+			 <physdesc><extent>44 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">103</container> 
+			 <unittitle><emph render="italic">Leave Area Edition</emph>,
+				</unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">103</container> 
+			 <unittitle><emph render="italic">The Eaglet</emph>, </unittitle> 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+			 <physdesc><extent>6 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">103</container> 
+			 <unittitle>Miscellaneous newspapers, </unittitle> 
+			 <unitdate type="inclusive">1919-1920. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">104</container> 
+			 <unittitle>Contracts, Ab-Dy, set 1, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>15 folders. </extent> </physdesc> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Contracts were originally in bound volumes; there were multiple
+				volumes for each letter of the alphabet. The volumes are referred to as "sets"
+				in the folder titles.</p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">104</container> 
+			 <unittitle>Contracts, A-Dl, set 2, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>8 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">105</container> 
+			 <unittitle>Contracts, Do-G, set 2, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">105</container> 
+			 <unittitle>Contracts, Ab-Dy, set 3, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>13 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">106</container> 
+			 <unittitle>Contracts, A-Du, set 4, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>10 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">106</container> 
+			 <unittitle>Contracts, A-Bri, set 5, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>5 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">107</container> 
+			 <unittitle>Contracts, Bro-Dy, set 5, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>7 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">107</container> 
+			 <unittitle>Contracts, A-D, set 6, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>4 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">107</container> 
+			 <unittitle>Contracts, Ea-He, set 1, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>9 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">108</container> 
+			 <unittitle>Contracts, Hi-Ky, set 1, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>5 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">108</container> 
+			 <unittitle>Contracts, E-K, set 2, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>13 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">109</container> 
+			 <unittitle>Contracts, E-Ku, set 3, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>7 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">109</container> 
+			 <unittitle>Contracts, E-Haz, set 4, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>6 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">110</container> 
+			 <unittitle>Contracts, He-Ku, set 4, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>6 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">110</container> 
+			 <unittitle>Contracts, E-K, set 5, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>5 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">110</container> 
+			 <unittitle>Contracts, Ha-J, set 6, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">111</container> 
+			 <unittitle>Contracts, La-Ne, set 1, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>15 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">112</container> 
+			 <unittitle>Contracts, Oa-Ow, set 1, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">112</container> 
+			 <unittitle>Contracts, Ka-Ny, set 2, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">112</container> 
+			 <unittitle>Contracts, La-Mo, set 3, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>7 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">112</container> 
+			 <unittitle>Contracts, Mie-Mit, set 2, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">113</container> 
+			 <unittitle>Contracts, Mu-Ry, set 3, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>7 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">113</container> 
+			 <unittitle>Contracts, L-Pe, set 4, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>8 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">114</container> 
+			 <unittitle>Contracts, Ph-Ru, set 4, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">114</container> 
+			 <unittitle>Contracts, P-Y, set 5, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>8 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">114</container> 
+			 <unittitle>Contracts, Pac-Pu, set 6, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>6 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">115</container> 
+			 <unittitle>Contracts, Q-Ston, set 6, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>19 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">116</container> 
+			 <unittitle>Contracts, Sma-Was, set 6, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>16 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">117</container> 
+			 <unittitle>Contracts, Sha-Z, set 6, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>13 folders.</extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">117</container> 
+			 <unittitle>Contracts, St.-Ty, set 7, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>6 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">118</container> 
+			 <unittitle>Contracts, U-Z, set 7, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>5 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">118</container> 
+			 <unittitle>Contracts, Transport Secretaries, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>4 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">118</container> 
+			 <unittitle>Contracts, speakers, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">118</container> 
+			 <unittitle>Contracts, Brotherhood of St. Andrew secretaries,
+				</unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">118</container> 
+			 <unittitle>Contracts, incomplete, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">118</container> 
+			 <unittitle>Contracts, sample binding, </unittitle> 
+			 <unitdate type="inclusive">undated. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">118</container> 
+			 <unittitle>Returning secretaries, blank forms, </unittitle> 
+			 <unitdate type="inclusive">undated. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">118</container> 
+			 <unittitle>Statements of returning secretaries, A-Ar, </unittitle> 
+			 <unitdate type="inclusive">1918-1921. </unitdate> 
+			 <physdesc><extent>5 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">119</container> 
+			 <unittitle>Statements of returning secretaries, As-Burz, </unittitle>
+			 
+			 <unitdate type="inclusive">1918-1921. </unitdate> 
+			 <physdesc><extent>19 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">120</container> 
+			 <unittitle>Statements of returning secretaries, Bil-Cla, </unittitle>
+			 
+			 <unitdate type="inclusive">1918-1921. </unitdate> 
+			 <physdesc><extent>17 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">121</container> 
+			 <unittitle>Statements of returning secretaries, Cle-Em, </unittitle> 
+			 <unitdate type="inclusive">1918-1921. </unitdate> 
+			 <physdesc><extent>19 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">122</container> 
+			 <unittitle>Statements of returning secretaries, En-Han, </unittitle> 
+			 <unitdate type="inclusive">1918-1921. </unitdate> 
+			 <physdesc><extent>18 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">123</container> 
+			 <unittitle>Statements of returning secretaries, Harb-Johnson,
+				</unittitle> 
+			 <unitdate type="inclusive">1918-1921. </unitdate> 
+			 <physdesc><extent>16 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">124</container> 
+			 <unittitle>Statements of returning secretaries, Johnston-McC,
+				</unittitle> 
+			 <unitdate type="inclusive">1918-1921. </unitdate> 
+			 <physdesc><extent>17 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">125</container> 
+			 <unittitle>Statements of returning secretaries, McD-Nix, </unittitle>
+			 
+			 <unitdate type="inclusive">1918-1921. </unitdate> 
+			 <physdesc><extent>17 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">126</container> 
+			 <unittitle>Statements of returning secretaries, No-Rosi, </unittitle>
+			 
+			 <unitdate type="inclusive">1918-1921. </unitdate> 
+			 <physdesc><extent>19 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">127</container> 
+			 <unittitle>Statements of returning secretaries, Ross-Sto,
+				</unittitle> 
+			 <unitdate type="inclusive">1918-1921. </unitdate> 
+			 <physdesc><extent>18 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">128</container> 
+			 <unittitle>Statements of returning secretaries, Str-Wight,
+				</unittitle> 
+			 <unitdate type="inclusive">1918-1921. </unitdate> 
+			 <physdesc><extent>20 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">129</container> 
+			 <unittitle> Statements of returning secretaries, Williams-Zw,
+				</unittitle> 
+			 <unitdate type="inclusive">1918-1921.</unitdate> 
+			 <physdesc><extent>10 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">129</container> 
+			 <unittitle>Statements of returning secretaries, sample binder,
+				</unittitle> 
+			 <unitdate type="inclusive">undated. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">129</container> 
+			 <unittitle><emph render="italic">The Rising Sun</emph> and
+				miscellaneous newspapers, </unittitle> 
+			 <unitdate type="inclusive">1918-1920. </unitdate> 
+			 <physdesc><extent>7 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">129</container> 
+			 <unittitle>Disposition of World War I records, correspondence,
+				</unittitle> 
+			 <unitdate type="inclusive">1928-1944. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">130</container> 
+			 <unittitle>United War Work Campaign, financial reports, </unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">130</container> 
+			 <unittitle>War Work Training School, <emph render="italic">Stanford
+				"Y" Record</emph>, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">130</container> 
+			 <unittitle>Leave Area materials, </unittitle> 
+			 <unitdate type="inclusive">1919-1926. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">130</container> 
+			 <unittitle>Egyptian Expeditionary Forces, report on YMCA work with,
+				</unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">130</container> 
+			 <unittitle>Prisoner of War Department, minutes, </unittitle> 
+			 <unitdate type="inclusive">1915-1918. </unitdate> 
+			 <physdesc><extent>1 volume. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">130</container> 
+			 <unittitle>Prisoner of war work in Germany, E. O. Jacob report,
+				</unittitle> 
+			 <unitdate type="inclusive">1917. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">130</container> 
+			 <unittitle>Committee on Work for Allied Armies and Prisoners of War,
+				statement of receipts and expenditures, </unittitle> 
+			 <unitdate type="inclusive">1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">130</container> 
+			 <unittitle>Miscellaneous newspapers, </unittitle> 
+			 <unitdate type="inclusive">1917-1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">131</container> 
+			 <unittitle>Miscellaneous reports to Parliament, </unittitle> 
+			 <unitdate type="inclusive">1915-1917. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">131</container> 
+			 <unittitle>Letters from E. C. Carter to William Sloane, originals,
+				</unittitle> 
+			 <unitdate type="inclusive">1918-1920. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">131</container> 
+			 <unittitle><emph render="italic">Dots and Dashes</emph>, originals,
+				</unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+			 <physdesc><extent>3 folders.</extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">131</container> 
+			 <unittitle>U.S. Government publications on World War I, </unittitle> 
+			 <unitdate type="inclusive">1920. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">131</container> 
+			 <unittitle>Finance Department, weekly bulletin, </unittitle> 
+			 <unitdate type="inclusive">1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">131</container> 
+			 <unittitle>Articles on religious aspect of war, </unittitle> 
+			 <unitdate type="inclusive">1914. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">132</container> 
+			 <unittitle><emph render="italic">Red Triangle Overseas</emph>,
+				</unittitle> 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+			 <physdesc><extent>2 volumes and 5 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">132</container> 
+			 <unittitle><emph render="italic">American Home News</emph>,
+				</unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">132</container> 
+			 <unittitle><emph render="italic">Wadsworth Gas Attack</emph>,
+				</unittitle> 
+			 <unitdate type="inclusive">1917-1918. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">133</container> 
+			 <unittitle>Religious work pamphlets, </unittitle> 
+			 <unitdate type="inclusive">1917-1918. </unitdate> 
+			 <physdesc><extent>22 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">134</container> 
+			 <unittitle>Religious work pamphlets, </unittitle> 
+			 <unitdate type="inclusive">1917-1918. </unitdate> 
+			 <physdesc><extent>23 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">135</container> 
+			 <unittitle>Religious work pamphlets, </unittitle> 
+			 <unitdate type="inclusive">1917-1918. </unitdate> 
+			 <physdesc><extent>16 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">136</container> 
+			 <unittitle>YMCA answer to the Inspector General, </unittitle> 
+			 <unitdate type="inclusive">1918-1920. </unitdate> 
+			 <physdesc><extent>4 volumes. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">136</container> 
+			 <unittitle>Miscellaneous clippings, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">137</container> 
+			 <unittitle><emph render="italic">New York Division Gas Attack</emph>,
+				</unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">137</container> 
+			 <unittitle><emph render="italic">Border Work</emph>, </unittitle> 
+			 <unitdate type="inclusive">1917. </unitdate> 
+			 <physdesc><extent>1 volume and 2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">137</container> 
+			 <unittitle><emph>Reveille</emph>, </unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">138</container> 
+			 <unittitle>YMCA to Inspector General, </unittitle> 
+			 <unitdate type="inclusive">1918-1920. </unitdate> 
+			 <physdesc><extent>3 volumes. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">139</container> 
+			 <unittitle><emph render="italic">Evangeliscsher Hausfreund</emph>,
+				prisoner of war newspaper, </unittitle> 
+			 <unitdate type="inclusive">1916.</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">139</container> 
+			 <unittitle><emph render="italic">Trench and Camp</emph> (originals),
+				</unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">139</container> 
+			 <unittitle><emph render="italic">Comrades in Service</emph>,
+				</unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">139</container> 
+			 <unittitle><emph render="italic">The Spiker</emph>, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">139</container> 
+			 <unittitle><emph render="italic">Camp de Souge News</emph>,
+				</unittitle> 
+			 <unitdate type="inclusive">1918-1919.</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">139</container> 
+			 <unittitle><emph render="italic">The British Prisoner of War</emph>,
+				</unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">139</container> 
+			 <unittitle><emph render="italic">Hot Shot</emph>, </unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">139</container> 
+			 <unittitle><emph render="italic">The Upgrade</emph>, </unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">139</container> 
+			 <unittitle><emph render="italic">Der Gefangenengebote: Monatsschrift
+				fur Kriegsgefangene</emph>, </unittitle> 
+			 <unitdate type="inclusive">1917-1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">139</container> 
+			 <unittitle><emph render="italic">Le Messager du Prisonnier de
+				Guerre</emph>, </unittitle> 
+			 <unitdate type="inclusive">1917-1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">139</container> 
+			 <unittitle><emph render="italic">The Last Leaf</emph>, </unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">139</container> 
+			 <unittitle><emph render="italic">The Soldiers' Newsletter</emph>,
+				</unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">139</container> 
+			 <unittitle><emph render="italic">Camp Dix Pictorial Review</emph>,
+				</unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">139</container> 
+			 <unittitle><emph render="italic">Le Cafard Musele</emph>,
+				</unittitle> 
+			 <unitdate type="inclusive">1917-1918. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">139</container> 
+			 <unittitle><emph render="italic">Welcome</emph>,</unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">139</container> 
+			 <unittitle><emph render="italic">The Flypaper</emph>,</unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">139</container> 
+			 <unittitle><emph render="italic">The Cro</emph>, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">140</container> 
+			 <unittitle><emph render="italic">Chicago Tribune</emph>, Paris
+				edition (originals), </unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">140</container> 
+			 <unittitle><emph render="italic">New York Herald</emph> (originals),
+				</unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+			 <physdesc><extent>4 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">140</container> 
+			 <unittitle><emph>Stars and Stripes</emph> (originals),</unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">140</container> 
+			 <unittitle>Articles regarding YMCA in World War I, </unittitle> 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">140</container> 
+			 <unittitle>Chinese Bible, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">140</container> 
+			 <unittitle><emph render="italic">The Y.O.U. Herald</emph>, Y Overseas
+				Union, </unittitle> 
+			 <unitdate type="inclusive">1924-1925. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">140</container> 
+			 <unittitle><emph render="italic">The Rangefinder</emph>, Fort Terry,
+				NY, </unittitle> 
+			 <unitdate type="inclusive">1916. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">140</container> 
+			 <unittitle><emph render="italic">Dots and Dashes</emph>, Camp Alfred
+				Vail, NJ (originals), </unittitle> 
+			 <unitdate type="inclusive">1918.</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">140</container> 
+			 <unittitle>AEF-YMCA in the United Kingdom, R. L. Ewing material,
+				</unittitle> 
+			 <unitdate type="inclusive">1919.</unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">140</container> 
+			 <unittitle>Report to the Commander in Chief of the YMCA with the AEF,
+				</unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">140</container> 
+			 <unittitle>Post-war investigation of the YMCA, F. S. Edmonds
+				materials, </unittitle> 
+			 <unitdate type="inclusive">1917-1939. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">140</container> 
+			 <unittitle>Samples of War Work pamphlets defending YMCA work,
+				</unittitle> 
+			 <unitdate type="inclusive">1917-1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">140</container> 
+			 <unittitle>Letter from E. C. Carter to William Sloane, supplementing
+				the YMCA answer to the Inspector General, </unittitle> 
+			 <unitdate type="inclusive">1918-1920. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">140</container> 
+			 <unittitle>Leave area publications, </unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">140</container> 
+			 <unittitle>Miscellaneous U.S. camp announcements, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">140</container> 
+			 <unittitle><emph render="italic">Die Morgenrote</emph>, </unittitle> 
+			 <unitdate type="inclusive">undated. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">140</container> 
+			 <unittitle>Answers to criticism, </unittitle> 
+			 <unitdate type="inclusive">circa 1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">140</container> 
+			 <unittitle>YMCA-AFG, blueprints for buildings, </unittitle> 
+			 <unitdate type="inclusive">undated. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">140</container> 
+			 <unittitle>Army and Navy Athletic Handbook, </unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">140</container> 
+			 <unittitle>Foyers du Soldat, program, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">140</container> 
+			 <unittitle>AFG materials, P. Anderson collection, </unittitle> 
+			 <unitdate type="inclusive">1919-1925. </unitdate> 
+			 <physdesc><extent>6 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">140</container> 
+			 <unittitle><emph render="italic">AMAROC News</emph>, </unittitle> 
+			 <unitdate type="inclusive">1921. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">140</container> 
+			 <unittitle>Italian army materials, </unittitle> 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">140</container> 
+			 <unittitle>AFG entertainment scrapbook, Koblenz, </unittitle> 
+			 <unitdate type="inclusive">1921. </unitdate> 
+			 <physdesc><extent>2 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">140</container> 
+			 <unittitle><emph render="italic">No Tobacco Journal</emph>,
+				</unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">140</container> 
+			 <unittitle>Inter-Allied Games, Regulations Governing the
+				Competitions, </unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">140</container> 
+			 <unittitle>United War Work Campaign, China, </unittitle> 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">140</container> 
+			 <unittitle><emph render="italic">Athletic Bulletin</emph>, unbound
+				duplicates, </unittitle> 
+			 <unitdate type="inclusive">1920-1922. </unitdate> 
+			 <physdesc><extent>3 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">140</container> 
+			 <unittitle>AEF-YMCA publication, <emph render="italic">The Eagle
+				Hut</emph>, </unittitle> 
+			 <unitdate type="inclusive">undated. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">140</container> 
+			 <unittitle>United War Work Campaign, organizational charts,
+				</unittitle> 
+			 <unitdate type="inclusive">undated. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">140</container> 
+			 <unittitle>Education Commission, <emph render="italic">The American
+				in France</emph>, </unittitle> 
+			 <unitdate type="inclusive">undated. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">140</container> 
+			 <unittitle><emph render="italic">Educational Activities for War
+				Prisoners</emph>, </unittitle> 
+			 <unitdate type="inclusive">undated. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">140</container> 
+			 <unittitle>Prisoner of war report, United Kingdom, </unittitle> 
+			 <unitdate type="inclusive">undated. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">140</container> 
+			 <unittitle>Prisoner of War material, Italy, </unittitle> 
+			 <unitdate type="inclusive">1918-1919. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">140</container> 
+			 <unittitle>Monte Carlo YMCA scrapbook, </unittitle> 
+			 <unitdate type="inclusive">undated. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">140</container> 
+			 <unittitle>Final report of the Leave Area Department YMCA-AEF,
+				originals, </unittitle> 
+			 <unitdate type="inclusive">1919. </unitdate> 
+			 <physdesc><extent>8 folders. </extent></physdesc> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">140</container> 
+			 <unittitle>Leave Area publications, </unittitle> 
+			 <unitdate type="inclusive">undated. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">140</container> 
+			 <unittitle>Education Commission, cardboard model French coins,
+				</unittitle> 
+			 <unitdate type="inclusive">undated. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">140</container> 
+			 <unittitle>Handbook of American YMCA-AEF, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">140</container> 
+			 <unittitle>Various committee meeting minutes, </unittitle> 
+			 <unitdate type="inclusive">1918-1921. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">141</container> 
+			 <unittitle>Leave Area publication, plan of Nantes, France,
+				</unittitle> 
+			 <unitdate type="inclusive">undated. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">141</container> 
+			 <unittitle><emph render="italic">AMAROC News</emph>, </unittitle> 
+			 <unitdate type="inclusive">1920-1921. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">141</container> 
+			 <unittitle>War Work Council, organizational chart, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">141</container> 
+			 <unittitle>AEF-YMCA in the United Kingdom, building blueprints,
+				</unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">141</container> 
+			 <unittitle>AEF-YMCA in the United Kingdom, blank forms, </unittitle> 
+			 <unitdate type="inclusive">undated</unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">141</container> 
+			 <unittitle>Mexican border work, circuit maps, </unittitle> 
+			 <unitdate type="inclusive">undated. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">141</container> 
+			 <unittitle><emph render="italic">New York Herald</emph>, European
+				edition, American Legion section, </unittitle> 
+			 <unitdate type="inclusive">1927. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">141</container> 
+			 <unittitle>AFG materials, P. Anderson collection, </unittitle> 
+			 <unitdate type="inclusive">undated. </unitdate> 
+		  </did> 
+		</c01> 
+		<c01 level="file"> 
+		  <did> 
+			 <container type="box">141</container> 
+			 <unittitle>Record book of conferences of the Women's section of the
+				overseas workers of the YMCA, </unittitle> 
+			 <unitdate type="inclusive">1918. </unitdate> 
+		  </did> 
+		</c01> 
+	 </dsc> 
+	 <relatedmaterial> 
+		<head id="a5">RELATED MATERIALS</head> 
+		<p>Posters relating to the United War Work Campaign can be found the
+		  Kautz Family YMCA Archives poster collection.</p> 
+		<p>Additional copies of newspapers (<emph render="italic">Trench and
+		  Camp</emph> and others) are separately cataloged in the Kautz Family YMCA
+		  Archives serials collection.</p> 
+		<p>An extensive series of World War I-era photographs can be found in the
+		  Kautz Family YMCA Archives photo collection.</p> 
+		<p>World War I photo albums and scrapbooks are separately cataloged in
+		  the Armed Services Scrapbooks and Photo Albums.</p> 
+	 </relatedmaterial> 
+	 <otherfindaid> 
+		<head id="a6">OTHER FINDING AIDS</head> 
+		<p>See the summary inventory for the YMCA Armed Services Records for
+		  information on other Armed Services records in the Kautz Family YMCA Archives. 
+		  <extref href="yusa0004a.xml">&gt;&gt; Go to the summary
+			 inventory</extref></p> 
+	 </otherfindaid> 
+	 <controlaccess> 
+		<head id="a7">INDEX TERMS</head> 
+		<p>This collection is indexed under the following headings in the catalog
+		  of the University of Minnesota Libraries. Researchers desiring materials about
+		  related topics, persons or places should search the catalog using these
+		  headings.</p> 
+		<controlaccess> 
+		  <head>Topics:</head> 
+		  <subject encodinganalog="650">Prisoners of War. </subject> 
+		  <subject encodinganalog="650">Soldiers -- Recreation. </subject> 
+		  <subject encodinganalog="650">World War, 1914-1918 -- Personal
+			 narratives. </subject> 
+		  <subject encodinganalog="650">World War, 1914-1918 -- Prisoners and
+			 prisons. </subject> 
+		  <subject encodinganalog="650">World War, 1914-1918 -- War work -- Young
+			 Men's Christian Associations. </subject> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Places:</head> 
+		  <geogname encodinganalog="651">Mexican-American Border Region.
+			 </geogname> 
+		  <geogname encodinganalog="651">United States -- Armed Forces --
+			 Military life -- Newspapers. </geogname> 
+		  <geogname encodinganalog="651">United States -- Armed Forces --
+			 Religious life. </geogname> 
+		  <geogname encodinganalog="651">United States -- Armed Forces -- Songs
+			 and music. </geogname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Organizations:</head> 
+		  <corpname encodinganalog="710">American Library Association.
+			 </corpname> 
+		  <corpname encodinganalog="710">National Board of the Young Men's
+			 Christian Associations. Army and Navy Dept. </corpname> 
+		  <corpname encodinganalog="710">National Board of the Young Men's
+			 Christian Associations. Armed Services Dept. </corpname> 
+		  <corpname encodinganalog="710">National Jewish Welfare Board.
+			 </corpname> 
+		  <corpname encodinganalog="710">National War Work Council, Y.M.C.A. of
+			 the United States. </corpname> 
+		  <corpname encodinganalog="710">Salvation Army. </corpname> 
+		  <corpname encodinganalog="710">United States. Army. American
+			 Expeditionary Forces. </corpname> 
+		  <corpname encodinganalog="710">United War Work Campaign, Inc.
+			 </corpname> 
+		  <corpname encodinganalog="710">Young Men's Christian Associations of
+			 North America. International Committee. Army and Navy Dept. </corpname> 
+		</controlaccess> 
+	 </controlaccess> 
+  </archdesc> 
+</ead>

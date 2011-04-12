@@ -1,0 +1,3662 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><!--The following section is header information for web display of the finding aid-->
+  <eadheader langencoding="iso639-2b"
+	scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+	countryencoding="iso3166-1" dateencoding="iso8601" id="a0">
+	 <eadid countrycode="us" encodinganalog="identifier" mainagencycode="mtg"
+	  identifier="80444/xv66365"
+	  url="http://nwda-db.wsulibs.wsu.edu/findaid/ark:/80444/xv66365">MTGMss505.xml</eadid>
+	 <filedesc>
+		<titlestmt>
+		  <titleproper encodinganalog="title">Guide to the Diane Sands Papers 
+			 <date normal="1892/2000">1892-2000</date>
+			 <date normal="1964/2000">(Bulk: 1964-2000)</date></titleproper>
+		  <titleproper type="filing" altrender="nodisplay">Sands (Diane)
+			 Papers</titleproper>
+		  <author encodinganalog="creator">Finding aid prepared by Jennifer
+			 Tuleja</author>
+		</titlestmt>
+		<publicationstmt><!--To link to your logo, click on the diamond in the <extptr> tag below and enter the full
+URL of the digital logo file in the HREF attribute.-->
+		  <publisher encodinganalog="publisher">Maureen and Mike Mansfield
+			 Library, The University of Montana--Missoula<extptr actuate="onload"
+			 show="embed" href="http://www.lib.umt.edu/images/Lib_logo.gif"/></publisher>
+		  <date encodinganalog="date" normal="2006">© 2006</date>
+		  <address>
+			 <addressline>The University of Montana--Missoula</addressline>
+			 <addressline>Missoula, MT 59812</addressline>
+			 <addressline>406-243-2053</addressline>
+			 <addressline>http://www.lib.umt.edu/asc</addressline>
+			 <addressline>library.archives@umontana.edu</addressline>
+		  </address>
+		</publicationstmt>
+	 </filedesc>
+	 <profiledesc>
+		<creation>Finding aid encoded by Jennifer Tuleja 
+		  <date normal="2006">2006</date></creation>
+		<langusage>Finding aid written in
+		  <language langcode="eng" encodinganalog="language"
+			scriptcode="latn">English.</language></langusage>
+	 </profiledesc>
+  </eadheader>
+  <archdesc level="collection" encodinganalog="351$c" type="inventory"
+	relatedencoding="marc21">
+	 <did id="a1">
+		<repository>
+		  <corpname encodinganalog="852$a">University of Montana--Missoula
+			 <subarea encodinganalog="852$b">Maureen and Mike Mansfield
+			 Library</subarea><subarea encodinganalog="852$b">Archives and Special
+			 Collections</subarea></corpname>
+		  <address>
+			 <addressline>The University of Montana--Missoula</addressline>
+			 <addressline>Missoula, MT 59812</addressline>
+			 <addressline>406-243-2053</addressline>
+			 <addressline>http://www.lib.umt.edu/asc</addressline>
+			 <addressline>library.archives@umontana.edu</addressline>
+		  </address></repository>
+		<unitid encodinganalog="099" countrycode="us" repositorycode="mtg">Mss
+		  505</unitid>
+		<origination>
+		  <persname encodinganalog="100" source="lcnaf" role="creator">Sands,
+			 Diane</persname></origination>
+		<unittitle encodinganalog="245$a" type="collection">Diane Sands Papers
+		  </unittitle>
+		<unitdate type="inclusive" encodinganalog="245$f"
+		 normal="1892/2000">1892-2000 (Bulk: 1964-2000)</unitdate>
+		<physdesc><extent encodinganalog="300$a">10.0 linear feet</extent>
+		</physdesc>
+		<abstract encodinganalog="5203_">The collection primarily contains the
+		  papers of women’s organizations and women’s movements that Diane Sands, an
+		  activist in Montana, was associated with from the 1970s to the 1990s. The
+		  collection includes papers of the Women’s Resource Center, the Missoula Chapter
+		  of the National Organization for Women, the Montana Pro-Choice Coalition, and
+		  the Women’s Lobbyist Fund as well as papers related to the development and
+		  history of the Women’s Studies department at the University of Montana. The
+		  collection also contains materials related to the women’s liberation movement
+		  of the 1960s and 1970s. The papers of the Montana Women’s History Project
+		  papers are also included in the collection and contain transcripts of oral
+		  histories with Montana women as well as records of the Illegal Abortion in
+		  Montana Oral History Project including interviews, correspondence, research
+		  notes and publications. </abstract><langmaterial>Material is in<language
+		encodinganalog="546" langcode="eng"> English</language></langmaterial>
+	 </did><!--To link to an image from the collection, use the following <daogrp>, <daodesc> and <daoloc>
+elements. In <daodesc>, enter caption info inside <p> tags. In the <daoloc> "href" attribute,  enter the 
+URL of the digital image. To link to a logo, use <extptr> or <extref> inside <publisher>in <eadheader> instead. -->
+	 <daogrp>
+		<daoloc href="">
+		</daoloc>
+	 </daogrp>
+	 <bioghist encodinganalog="545" id="a2"><!--Use encodinganalog 5450_ for biog. or 5451_ for historical note, or use a <head> element-->
+		<head>Biographical Note</head>
+		<p>Haysel Diane Sands was born in 1947 in St. Ignatius, Montana and grew
+		  up on Indian reservations where her parents taught school. She attended high
+		  school in Frazer, Montana on the Fort Peck Indian Reservation. She received her
+		  B.A. in Anthropology from The University of Montana, Missoula in 1974 with an
+		  emphasis in American Indian culture and social organization. She attended
+		  George Washington University in Washington DC from 1974-76 completing courses
+		  toward a master’s degree in Women’s Studies with an emphasis on public policy
+		  and non-profit organizational development. During her time at The University of
+		  Montana, Sands was a member of several student activist organizations including
+		  Students for a Democratic Society, and a member of the early women’s liberation
+		  movement in Missoula. She participated in the creation of conscious-raising
+		  programs on campus, which met regularly at the Women’s Action Center
+		  (1969–1974), which eventually became the Women’s Resource Center (1974–1986)
+		  where Sands and others taught women’s studies courses without the approval of
+		  the university.</p>
+		<p> Diane Sands was the director of the Montana Women’s History Project
+		  from (1975-1990). She researched, designed and presented educational programs,
+		  courses, conferences, and publications focusing on women’s history and oral
+		  history. From 1984-1994, Diane Sands was the Executive Director of the Montana
+		  Women’s Lobbyist Fund, a non-profit, non-partisan coalition of 52 organizations
+		  organized to develop public policy, organize communities and lobby the Montana
+		  Legislature on a wide range of social and economic policies of benefit to women
+		  and families. Sands served as Campaign Manager for the “No on One” campaign in
+		  Boise, Idaho in 1994 and successfully defeated Proposition One, an anti-gay
+		  ballot measure. Diane Sands was elected to the Montana State House of
+		  Representatives in November 1996 representing the North and Westside, downtown,
+		  and the Rattlesnake of Missoula, Montana. As a legislator, she focused on
+		  affordable housing, healthcare, welfare reform, and issues to improve the lives
+		  of children. She has been the Co-Project Director of the Montana Feminist
+		  Project since 1999 and has worked tirelessly to collect and interpret the
+		  history of the second wave of feminism and women leaders from 1960-2000 in
+		  Montana and to create avenues for public education and discourse. From
+		  2001-2003, she held the position of National/State Relations liaison for the
+		  Montana Office of Public Instruction. She was the Program Director of the
+		  Montana Community Foundation from 2003-2004 and in 2005 served as the Interim
+		  Director of the Partnership Health Center in Missoula, Montana. She has held
+		  numerous positions in local and state organizations including the founding
+		  President and Board Member of the Montana Oral History Association, a member of
+		  the Board of Directors of the National Women’s Studies Association, and the
+		  Regional Coordinator of the Northwest Women’s Studies Association. She was also
+		  the Program Director of the American Association of University Women and has
+		  been on the Montana Rhodes Scholarship Selection Committee since 1994.</p>
+		<p>She has won numerous awards including the Montana Committee for the
+		  Humanities Award in 1986, the Montana Business and Professional Women’s Montana
+		  Woman of the Year Award in 1993, Office of Public Instruction Equity Award for
+		  Public Service in 1991, the Missoula YWCA Silver Award for Public Policy 1986,
+		  The Missoula American Association for University Women named endowment in 1994,
+		  and the Montana AIDS Coalition “Heart and a Half Award” in 1989. </p>
+	 </bioghist>
+	 <scopecontent encodinganalog="520" id="a3">
+		<p>A majority of the materials in the collection document the activities
+		  of women’s organizations and oral history projects Diane Sands created or was
+		  affiliated with in Montana from the 1960s through the 1980s. The collection
+		  consists of reports, correspondence, oral history interviews, publications,
+		  photographs, conference papers, flyers, legislation, and memorabilia related to
+		  the history of the women’s movement in Montana in the 1960s through 1990s.
+		  Materials include the records of the Women’s Resource Center at the University
+		  of Montana (1970-1992), the records of the Missoula Chapter of the National
+		  Organization for Women (1982-1991) as well as the records of the Montana
+		  Pro-Choice Coalition (1971-1989) and the Women’s Lobbyist Fund (1982-1995). The
+		  collection also contains the records of the Montana Women’s History Project
+		  (1892-1996), which consists of oral histories and research notes of Montana
+		  women as well as oral history interviews and research notes of Montana women
+		  who participated in the Illegal Abortion in Montana Oral History Project
+		  (1913-1996). The collection also includes papers which document the development
+		  and history of the Women’s Studies program at The University of Montana
+		  (1964-1999) as well as the history of women’s liberation (1954-1982). </p>
+		<p>This collection has been divided into eight series:</p>
+		<p>Series I: Women’s Resource Center (1970-1992) is divided into two
+		  subseries, Administrative Records and Subject Files. Subseries 1,
+		  Administrative Records, documents the daily activities of the Center and
+		  primarily contains budget requests, forms, funding documents, minutes, meeting
+		  notes, correspondence, and daily logs of individuals who visited the Resource
+		  Center. </p>
+		<p>Subseries 2, Subject Files, is an alphabetical arrangement of
+		  materials that support or document the activities of the Women’s Center.
+		  Records include lobbying materials such as petitions, letters and notices about
+		  a battle to keep the space allotted to the Women’s Center in the University
+		  Center on the campus of The University of Montana. </p>
+		<p>The Women’s Resource Center was established as a volunteer
+		  organization to advocate for the rights of women, provide education, distribute
+		  information and raise awareness of women’s issues including abortion rights,
+		  birth control, women in the workforce, political activism, rape and violence
+		  against women, sexual harassment and discrimination, feminism, and equality.
+		  The Women’s Resource Center exists today as the Women’s Center and is located
+		  in the University Center on the campus of The University of Montana. </p>
+		<p>Series II: National Organization for Women, Missoula Chapter
+		  (1982-1991), is arranged chronologically and contains materials related to
+		  Montana from the national, state and local levels of the National Organization
+		  for Women. Items include minutes, newsletters, reports, conference materials,
+		  newspapers, posters and publications about gender issues and gay rights.
+		  Subseries 1, Subject Files, consists of administrative records, reports,
+		  conference materials and publications of the Missoula chapter of the National
+		  Organization for Women. Subseries 2, Non-Gender Insurance, contains records
+		  kept by Sharon Eisenberg as State Coordinator of Montana National Organization
+		  for Women. Items include reports, surveys, legislation, and correspondence
+		  related to non-discrimination insurance policies and laws.</p>
+		<p>Series III: Women’s Studies at the University of Montana (1964-1999),
+		  is an alphabetical arrangement of topics related to the development and
+		  implementation of the women’s studies program at the University of Montana.
+		  Items include reports, correspondence, and proposals regarding the need for a
+		  women’s studies program. Other items include research materials, syllabi,
+		  readings, student papers and exams, and evaluations of courses that were
+		  created and taught in the women’s studies department. </p>
+		<p>The Women’s Studies program at The University of Montana was
+		  officially created in 1991 but the history of its development begins in the
+		  1960s when individuals began to petition the university to include academic
+		  courses about women’s issues, campaigned for equal rights in the workplace,
+		  created equal opportunity programs and wrote proposals for interdisciplinary
+		  programs in the 1970s which led to the approval but not the funding for a
+		  Women’s Studies program.</p>
+		<p>Series IV: Montana Pro-Choice Coalition (1971-1989), is arranged
+		  alphabetically by topic and contains materials related to the battle over the
+		  reproductive rights of women in the 1970s and 1980s. Subseries 1,
+		  Administrative Records, contains committee work, correspondence, legislation,
+		  and publications of the Montana Pro-Choice Coalition. Subseries 2, Abortion,
+		  includes information about abortion laws as well as publications, petitions and
+		  correspondence related to the campaign to repeal the Montana Abortion Control
+		  Act of 1974.</p>
+		<p>Series V: Women’s Liberation (1954-1982), is arranged alphabetically
+		  by subject and contains materials related to the women’s movement of the 1960s
+		  and 1970s. Many of the items are in reference to women’s liberation, a title
+		  applied to the second wave of feminism and the re-emergence of a public battle
+		  of women’s rights. Materials include reports, phone lists, handbooks, newspaper
+		  clippings, pamphlets, articles, and a box of posters as well as photographs of
+		  the One Woman Walkout in Helena, Montana (1977). </p>
+		<p>Series VI: Women’s Lobbyist Fund (1982-1995), consists of two
+		  subseries, Administrative Records, and Subject Files. Subseries 1,
+		  Administrative Records, primarily contains financial statements, minutes,
+		  correspondence, testimony and publications related to the work of the Women’s
+		  Lobby as well as six audiocassettes of Long Range Planning Meetings from 1984
+		  and 1986 and a photograph album (1985–1988). Subseries 2, Subject Files, is an
+		  alphabetical arrangement by subject and includes legislative agendas, board
+		  meeting minutes, budget reports, fund raising reports, correspondence,
+		  directories, training manuals, articles, newsletters and photographs related to
+		  the activities of the Lobbyist Fund. Subseries 2, Subject Files, also includes
+		  three audiocassettes of Legislative Agendas (1986), one audiocassette of the
+		  Legislative Session from 1985 and four audiocassettes of the Montana Women’s
+		  Lobby on Legislative Hearings on Non-Gender Insurance (1985).</p>
+		<p>Series VII: Montana Women’s History Project, is divided into six
+		  subseries. Subseries 1, Correpsondence, is chronologically arranged. Subseries
+		  2, Oral Histories of Montana Women, is arranged alphabetically and includes
+		  first hand accounts, interviews, transcripts, notes, newspaper clippings, and
+		  photographs of women from Montana and covers a range of topics including
+		  illegal abortion, work conditions, job training, and lesbian relationships.
+		  Subseries 3, Illegal Abortion in Montana Oral History Project, is arranged
+		  alphabetically by subject and contains materials about the experience of
+		  Montana women and abortion in Montana. Subseries 4, Subject Files, is arranged
+		  chronologically and contains research materials related to the creation and
+		  implementation of the Montana Women’s Oral History Project. Subseries 5,
+		  Publications, is chronologically arranged and contains newsletters, journal
+		  articles and newspaper clippings about the history of women in Montana as well
+		  as information about abortion, women’s studies, Native Americans, and
+		  economics. Subseries 6, Photographs, is arranged chronologically and includes
+		  photographs of women and families from a variety of archival repositories in
+		  Montana.</p>
+		<p>Series VIII: Newspaper Clippings (1970-1995) is a chronological
+		  sequence of articles related to the women’s liberation movement in Montana.</p>
+	 </scopecontent>
+	 <arrangement encodinganalog="351" id="a4">
+		<p>Series I: Women’s Resource Center, 1.2 linear feet, 1970-1992</p>
+		<p>Subseries 1: Administrative Records, 0.7 linear feet, 1972-1986</p>
+		<p>Subseries 2: Subject Files, 0.5 linear feet, 1970-1992</p>
+		<p>Series II: National Organization for Women, Missoula Chapter, 1.9
+		  linear feet, 1979-1994</p>
+		<p>Subseries 1: Subject Files, 0.3 linear feet, 1979-1991</p>
+		<p>Subseries 2: Non-Gender Insurance, 1.6 linear feet, 1982-1994</p>
+		<p>Series III: Women’s Studies at the University of Montana, 0.8 linear
+		  feet, 1964-1999</p>
+		<p>Series IV: Montana Pro-Choice Coalition, 1.0 linear foot,
+		  1971–1995</p>
+		<p>Subseries 1: Administrative Records, 0.6 linear feet, 1971-1989</p>
+		<p>Subseries 2: Abortion, 0.4 linear feet, 1973-1995</p>
+		<p>Series V: Women’s Liberation, 1.6 linear feet, 1954-1982</p>
+		<p>Series VI: Women’s Lobbyist Fund, 2.0 linear feet, 1978-1999</p>
+		<p>Subseries 1: Administrative Records, 0.9 linear feet, 1984-1991</p>
+		<p>Subseries 2: Subject Files, 1.1 linear feet, 1978-1999</p>
+		<p>Series VII: Montana Women’s Project, 1.9 linear feet, 1892-2000</p>
+		<p>Subseries 1: Correspondence, 0.3 linear feet, 1975-1987</p>
+		<p>Subseries 2: Oral Histories of Montana Women, 0.1 linear feet,
+		  1900-1981</p>
+		<p>Subseries 3: Illegal Abortion in Montana Oral History Project, 0.3
+		  linear feet, 1913-1996</p>
+		<p>Subseries 4: Subject Files, 0.7 linear feet, 1911-1948, 1970-1987</p>
+		<p>Subseries 5: Publications, 0.4 linear feet, 1951-2000</p>
+		<p>Subseries 6: Photographs, 0.1 linear feet, 1892-1914</p>
+		<p>Series VIII: Newspaper Clippings, 0.4 linear feet, 1970-1995</p>
+	 </arrangement>
+	 <accessrestrict encodinganalog="506" id="a14">
+		<p>Researchers must use collection in accordance with the policies of
+		  Archives and Special Collections, the Maureen and Mike Mansfield Library, and
+		  The University of Montana--Missoula.</p>
+	 </accessrestrict>
+	 <userestrict encodinganalog="540" id="a15">
+		<p>Researchers are responsible for using in accordance with 17 U.S.C. and
+		  any other applicable statutes. Copyright for some materials transferred to The
+		  University of Montana--Missoula.</p>
+	 </userestrict>
+	 <prefercite encodinganalog="524" id="a18">
+		<p>[Name of document or photograph number], Diane Sands Papers, Archives
+		  and Special Collections, Maureen and Mike Mansfield Library, The University of
+		  Montana--Missoula.</p>
+	 </prefercite>
+	 <custodhist encodinganalog="561" id="a16">
+		<p>Personal collection of Diane Sands of women’s and feminist
+		  organizations in Montana as well as personal and academic research. Files were
+		  collected by Sands and resided in the Women’s Studies Department for several
+		  months before being delivered to the Archives in April of 2002.</p>
+	 </custodhist>
+	 <acqinfo encodinganalog="541" id="a19">
+		<p>Materials donated to the Archives between 2002 and 2005.</p>
+	 </acqinfo>
+	 <controlaccess id="a12">
+		<p>This collection is indexed under the following headings in the online
+		  catalog. Researchers desiring materials about related topics, persons, or
+		  places should search the catalog using these headings.</p>
+		<controlaccess>
+		  <corpname role="subject" encodinganalog="610" source="lcnaf"
+			rules="aacr2">University of Montana --Missoula--Alumni and alumnae</corpname>
+		  <corpname role="subject" encodinganalog="710" source="lcnaf"
+			rules="aacr2">Illegal Abortion in Montana Oral History Project</corpname>
+		  <corpname role="subject" encodinganalog="710" source="lcnaf"
+			rules="aacr2">Montana Pro-Choice Coalition</corpname>
+		  <corpname role="subject" encodinganalog="710" source="lcnaf"
+			rules="aacr2">Montana Women's Oral History Project</corpname>
+		  <corpname role="subject" encodinganalog="710" source="lcnaf"
+		  rules="aacr2">Montana Women's Lobbyist Fund</corpname>
+		  <corpname role="subject" encodinganalog="710" source="lcnaf"
+			rules="aacr2">National Organization for Women--Missoula Chapter</corpname>
+		  <corpname role="subject" encodinganalog="710" source="lcnaf"
+			rules="aacr2">University of Montana --Missoula--Dept. of Women's
+			 Studies</corpname>
+		  <corpname role="subject" encodinganalog="710" source="lcnaf"
+		  rules="aacr2">University of Montana (Missoula, Mont.)--Women's Resource
+			 Center</corpname>
+		</controlaccess>
+		<controlaccess>
+		  <subject encodinganalog="650" source="lcsh"
+			rules="aacr2">Abortion--Montana--History</subject>
+		  <subject encodinganalog="650" source="lcsh"
+			rules="aacr2">Feminism.--Montana</subject>
+		  <subject encodinganalog="650" source="lcsh" rules="aacr2">Oral
+			 history--Montana</subject>
+		  <subject encodinganalog="650" source="lcsh" rules="aacr2">Pro-choice
+			 movement--Montana</subject>
+		  <subject encodinganalog="650" source="lcsh" rules="aacr2">Women--Legal
+			 status, laws, etc. Montana</subject>
+		  <subject encodinganalog="650" source="lcsh"
+			rules="aacr2">Women--Montana--History</subject>
+		  <subject encodinganalog="650" source="lcsh"
+			rules="aacr2">Women--Montana--Social conditions</subject>
+		  <subject encodinganalog="650" source="lcsh"
+			rules="aacr2">Women--Montana--Societies and clubs</subject>
+		  <subject encodinganalog="650" source="lcsh"
+			rules="aacr2">Women--Montana--Interviews</subject>
+		  <subject encodinganalog="650" source="lcsh" rules="aacr2">Women's
+			 studies--Montana--Missoula</subject>
+		</controlaccess>
+		<controlaccess>
+		  <genreform source="lcsh" encodinganalog="655"
+		  rules="aacr2">Interviews--Montana</genreform>
+		  <genreform source="lcsh" encodinganalog="655" rules="aacr2">Oral
+			 histories--Montana</genreform>
+		</controlaccess>
+		<controlaccess>
+		  <subject source="nwda" altrender="nodisplay"
+		  encodinganalog="690">Colleges and Universities</subject>
+		  <subject source="nwda" altrender="nodisplay"
+		  encodinganalog="690">Student Life</subject>
+		  <subject source="nwda" altrender="nodisplay"
+		  encodinganalog="690">Women</subject>
+		  <subject source="nwda" altrender="nodisplay"
+		  encodinganalog="690">Missoula</subject>
+		  <subject source="nwda" altrender="nodisplay"
+		  encodinganalog="690">Montana</subject>
+		  <subject source="nwda" altrender="nodisplay"
+		  encodinganalog="690">Political Campaigns</subject>
+		  <subject source="nwda" altrender="nodisplay" encodinganalog="690">Civic
+			 Activism</subject>
+		  <subject source="nwda" altrender="nodisplay" encodinganalog="690">Oral
+			 Histories</subject>
+		</controlaccess>
+		<controlaccess>
+		  <occupation encodinganalog="656" source="lcsh"
+		  rules="aacr2">Feminists--Montana</occupation>
+		</controlaccess>
+	 </controlaccess>
+	 <dsc type="combined" id="a23">
+		<c01 level="series">
+		  <did>
+			 <unitid encodinganalog="099">Series I</unitid>
+			 <unittitle encodinganalog="245$a">Women's Resource Center</unittitle>
+			 <unitdate type="inclusive" encodinganalog="245$f"
+			  normal="1970/1992">1970-1992</unitdate>
+			 <physdesc><extent encodinganalog="300$a">1.2 linear feet</extent>
+			 </physdesc>
+		  </did>
+		  <c02 level="subseries">
+			 <did>
+				<unitid encodinganalog="099">Subseries 1</unitid>
+				<unittitle encodinganalog="245$a">Administrative
+				  Records</unittitle>
+				<unitdate type="inclusive" encodinganalog="245$f"
+				 normal="1972/1986">1972-1986</unitdate>
+				<physdesc><extent encodinganalog="300$a">0.7 linear feet</extent>
+				</physdesc>
+			 </did>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">1/1</container>
+				  <unittitle>Financial Records</unittitle>
+				  <unitdate>1980-1984</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">1/2</container>
+				  <unittitle>Meeting Notes and Agendas</unittitle>
+				  <unitdate>1976-1980</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">1/3</container>
+				  <unittitle>Meeting Notes and Agendas</unittitle>
+				  <unitdate>1980-1982</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">1/4</container>
+				  <unittitle>Meetings and Minutes</unittitle>
+				  <unitdate>1983-1984</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">1/5</container>
+				  <unittitle>Correspondence</unittitle>
+				  <unitdate>1972-1984</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">1/6</container>
+				  <unittitle>Correspondence, Letters from Charlotte Bunch to Diane
+					 Sands</unittitle>
+				  <unitdate>1977-1978</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">1/7</container>
+				  <unittitle>Brown Bag Evaluations</unittitle>
+				  <unitdate>1982</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">1/8</container>
+				  <unittitle>Brown Bag Evaluations</unittitle>
+				  <unitdate>1983</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">1/9</container>
+				  <unittitle>Brown Bag Evaluations</unittitle>
+				  <unitdate>undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">1/10</container>
+				  <unittitle>Brown Bag Evaluations</unittitle>
+				  <unitdate>undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">1/11</container>
+				  <unittitle>Daily Log</unittitle>
+				  <unitdate>Sept. - Dec. 1979</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">1/12</container>
+				  <unittitle>Daily Log</unittitle>
+				  <unitdate>Jan. - Feb. 1980</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">1/13</container>
+				  <unittitle>Daily Log</unittitle>
+				  <unitdate>Mar. - May 1980</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">1/14</container>
+				  <unittitle>Daily Log</unittitle>
+				  <unitdate>June - July 1980</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">1/15</container>
+				  <unittitle>Daily Log</unittitle>
+				  <unitdate>Aug. - Nov. 1980</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">1/16</container>
+				  <unittitle>Daily Log</unittitle>
+				  <unitdate>Feb. - Nov. 1981</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">1/17</container>
+				  <unittitle>Daily Log</unittitle>
+				  <unitdate>Apr. 1982 - Dec. 1982</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">2/1</container>
+				  <unittitle>Daily Log</unittitle>
+				  <unitdate>Jan. - Aug. 1983</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">2/2</container>
+				  <unittitle>Newsletters, Overview of Content of
+					 Newsletters</unittitle>
+				  <unitdate>1975-1986</unitdate>
+				</did>
+			 </c03>
+		  </c02>
+		  <c02 level="subseries">
+			 <did>
+				<unitid encodinganalog="099">Subseries 2</unitid>
+				<unittitle encodinganalog="245$a">Subject Files</unittitle>
+				<unitdate encodinganalog="245$f" era="ce" calendar="gregorian"
+				 normal="1970/1992">1970-1992</unitdate>
+				<physdesc><extent encodinganalog="300$a">0.5 linear feet</extent>
+				</physdesc>
+			 </did>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">3/3</container>
+				  <unittitle>Abortion Rights</unittitle>
+				  <unitdate>1985-1987</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">3/4</container>
+				  <unittitle>Celebrations, Susan B. Anthony, Jeanette Rankin
+					 birthday celebrations 10th Anniversary of Women’s Center and Honoring Diane
+					 Sands</unittitle>
+				  <unitdate>1972-1992</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">3/5</container>
+				  <unittitle>Clippings, Abortion Rights and Distribution of Birth
+					 Control Handbook</unittitle>
+				  <unitdate>1970, 1979, 1987, 1992-1993</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">3/6</container>
+				  <unittitle>Conferences, National Women’s Anthropology
+					 Newsletters</unittitle>
+				  <unitdate>1972-1982</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">3/7</container>
+				  <unittitle>Conferences, Focus on Women, Women Aware
+					 Conference</unittitle>
+				  <unitdate>1975</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">3/8</container>
+				  <unittitle>Conferences, Women and Power Conference</unittitle>
+				  <unitdate>1976-1977</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">3/9</container>
+				  <unittitle>Conferences, International Women’s Year Montana
+					 Meeting</unittitle>
+				  <unitdate>1977</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">3/10</container>
+				  <unittitle>Conferences, Women and Technology
+					 Conference</unittitle>
+				  <unitdate>1979</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">3/11</container>
+				  <unittitle>Conferences, The New Right</unittitle>
+				  <unitdate>1979-1982</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">3/12</container>
+				  <unittitle>Conferences, Women and Technology
+					 Conference</unittitle>
+				  <unitdate>1980, 1982</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">3/13</container>
+				  <unittitle>Conferences, Conference for Women in
+					 Montana</unittitle>
+				  <unitdate>1980-1982</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">3/14</container>
+				  <unittitle>Conferences, Women in the Workforce Conference,
+					 Handbook</unittitle>
+				  <unitdate>1987</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">3/15</container>
+				  <unittitle>Conferences, Feminism in the 90s
+					 Conference</unittitle>
+				  <unitdate>1988</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">3/16</container>
+				  <unittitle>Human Rights Commission, Discrimination</unittitle>
+				  <unitdate>undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">3/17</container>
+				  <unittitle>Lectures, ‘Marxism and Feminism,’ a Lecture by Herbert
+					 Marcuse</unittitle>
+				  <unitdate>1974</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">3/18</container>
+				  <unittitle>Lobbying Materials, WRC Support Letters and SUB Board
+					 Allocations</unittitle>
+				  <unitdate>1977-1979</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">3/19</container>
+				  <unittitle>Lobbying Materials</unittitle>
+				  <unitdate>1978</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">3/20</container>
+				  <unittitle>Lobbying Materials, Battle for Office Space in the
+					 UC</unittitle>
+				  <unitdate>1980-1987</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">3/21</container>
+				  <unittitle>Lobbying Materials, Petitions Supporting the
+					 WRC</unittitle>
+				  <unitdate>undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">3/22</container>
+				  <unittitle>Northwest Women’s Studies Association</unittitle>
+				  <unitdate>1979-1981</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">3/23</container>
+				  <unittitle>Pregnancy Referral Services</unittitle>
+				  <unitdate>1970-1971</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">3/24</container>
+				  <unittitle>Pregnancy Referral Services</unittitle>
+				  <unitdate>1974-1976</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">3/25</container>
+				  <unittitle>Publications, Poems by Marge Piercy</unittitle>
+				  <unitdate>1964</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">4/1</container>
+				  <unittitle>Publications, Gilt Edge Magazine</unittitle>
+				  <unitdate>1975-1976, 1977</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">4/2</container>
+				  <unittitle>Strikes, Red Lion Striking Maids</unittitle>
+				  <unitdate>1977</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">4/3</container>
+				  <unittitle>Therapy/Counseling</unittitle>
+				  <unitdate>undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">4/4</container>
+				  <unittitle>Women’s Employment Network, Meeting
+					 Minutes</unittitle>
+				  <unitdate>undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">4/5</container>
+				  <unittitle>WORD Planning Meeting Agenda</unittitle>
+				  <unitdate>1987</unitdate>
+				</did>
+			 </c03>
+		  </c02>
+		</c01>
+		<c01 level="series">
+		  <did>
+			 <unitid encodinganalog="099">Series II</unitid>
+			 <unittitle encodinganalog="245$a">National Organization for Women,
+				Missoula Chapter</unittitle>
+			 <unitdate encodinganalog="245$f" era="ce"
+			  calendar="gregorian" normal="1979/1994">1979-1994</unitdate>
+			 <physdesc><extent encodinganalog="300$a">1.6 linear feet</extent>
+			 </physdesc>
+		  </did>
+		  <c02 level="subseries">
+			 <did>
+				<unitid encodinganalog="099">Subseries 1</unitid>
+				<unittitle encodinganalog="245$a">Subject Files</unittitle>
+				<unitdate encodinganalog="245$f" era="ce" calendar="gregorian"
+				 normal="1979/1991">1979-1991</unitdate>
+				<physdesc><extent encodinganalog="300$a">0.3 linear feet</extent>
+				</physdesc>
+			 </did>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">4/6</container>
+				  <unittitle>Publications</unittitle>
+				  <unitdate>1979, 1985</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">4/7</container>
+				  <unittitle>Lesbian Rights Resource Kit</unittitle>
+				  <unitdate>1982</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">4/8</container>
+				  <unittitle>Montana Chapter Founding Documents, Minutes and
+					 Newsletters</unittitle>
+				  <unitdate>1982-1987</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">4/9</container>
+				  <unittitle>NOW National Times</unittitle>
+				  <unitdate>1982-1983</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">4/10</container>
+				  <unittitle>NOW National Times</unittitle>
+				  <unitdate>1984-1986</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">4/11</container>
+				  <unittitle>Lesbian/Gay Rights</unittitle>
+				  <unitdate>1983-1984</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">4/12</container>
+				  <unittitle>Reports on Reagan Administration Impact on
+					 Women</unittitle>
+				  <unitdate>1984</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">4/13</container>
+				  <unittitle>Report on Comparable Wealth</unittitle>
+				  <unitdate>1985, 1991</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">4/14</container>
+				  <unittitle>Gender Gap Conference</unittitle>
+				  <unitdate>1988</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">4/15</container>
+				  <unittitle>It’s Her Business Handbook</unittitle>
+				  <unitdate>1988</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">4/16</container>
+				  <unittitle>ERA Posters</unittitle>
+				  <unitdate>undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">4/17</container>
+				  <unittitle>Plays</unittitle>
+				  <unitdate>undated</unitdate>
+				</did>
+			 </c03>
+		  </c02>
+		  <c02 level="subseries">
+			 <did>
+				<unitid encodinganalog="099">Subseries 2</unitid>
+				<unittitle encodinganalog="245$a">Non-Gender Insurance</unittitle>
+				<unitdate encodinganalog="245$f" era="ce" calendar="gregorian"
+				 normal="1982/1994">1982-1994</unitdate>
+				<physdesc><extent encodinganalog="300$a">1.6 linear feet</extent>
+				</physdesc>
+			 </did>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">5/1</container>
+				  <unittitle>Insurance</unittitle>
+				  <unitdate>1982-1985</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">5/2</container>
+				  <unittitle>Insurance</unittitle>
+				  <unitdate>1982-1985</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">5/3</container>
+				  <unittitle>Insurance</unittitle>
+				  <unitdate>1983-1984</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">5/4</container>
+				  <unittitle>Insurance</unittitle>
+				  <unitdate>1985</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">5/5</container>
+				  <unittitle>Insurance</unittitle>
+				  <unitdate>1985</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">5/6</container>
+				  <unittitle>Insurance</unittitle>
+				  <unitdate>1985-1994</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">5/7</container>
+				  <unittitle>Insurance</unittitle>
+				  <unitdate>1986</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">5/8</container>
+				  <unittitle>Insurance</unittitle>
+				  <unitdate>1986</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">5/9</container>
+				  <unittitle>Insurance</unittitle>
+				  <unitdate>1986</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">5/10</container>
+				  <unittitle>Insurance</unittitle>
+				  <unitdate>1986</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">5/11</container>
+				  <unittitle>Insurance</unittitle>
+				  <unitdate>1986-1988</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">5/12</container>
+				  <unittitle>Insurance</unittitle>
+				  <unitdate>1988</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">6/1</container>
+				  <unittitle>Constitutional Question</unittitle>
+				  <unitdate>1983</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">6/2</container>
+				  <unittitle>DC NOW Campaign</unittitle>
+				  <unitdate>1986</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">6/3</container>
+				  <unittitle>Hearing, Interim Legislative Committee #3</unittitle>
+				  <unitdate>1984</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">6/4</container>
+				  <unittitle>Implementation of Law</unittitle>
+				  <unitdate>1985</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">6/5</container>
+				  <unittitle>Implementation of Law</unittitle>
+				  <unitdate>1985</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">6/6</container>
+				  <unittitle>Implementation of Law</unittitle>
+				  <unitdate>1985</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">6/7</container>
+				  <unittitle>Legislative Session</unittitle>
+				  <unitdate>1983</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">6/8</container>
+				  <unittitle>Legislative Session</unittitle>
+				  <unitdate>1985</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">6/9</container>
+				  <unittitle>Legislative Session</unittitle>
+				  <unitdate>1985</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">6/10</container>
+				  <unittitle>Legislative Session</unittitle>
+				  <unitdate>1985</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">6/11</container>
+				  <unittitle>Legislative Session</unittitle>
+				  <unitdate>1985</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">6/12</container>
+				  <unittitle>Legislative Session</unittitle>
+				  <unitdate>1987</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">6/13</container>
+				  <unittitle>Legislative Session</unittitle>
+				  <unitdate>1987</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">7/1</container>
+				  <unittitle>Massachusetts NOW Campaign</unittitle>
+				  <unitdate>1984-1985</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">7/2</container>
+				  <unittitle>Maternity Coverage</unittitle>
+				  <unitdate>1984-1985</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">7/3</container>
+				  <unittitle>Minnesota Department of Commerce Report</unittitle>
+				  <unitdate>1984</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">7/4</container>
+				  <unittitle>Montana NOW Insurance Survey</unittitle>
+				  <unitdate>1985</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">7/5</container>
+				  <unittitle>Montana NOW Insurance Survey</unittitle>
+				  <unitdate>1985</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">7/6</container>
+				  <unittitle>Montana NOW Insurance Survey</unittitle>
+				  <unitdate>1985</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">7/7</container>
+				  <unittitle>Montana NOW Insurance Survey</unittitle>
+				  <unitdate>1985</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">7/8</container>
+				  <unittitle>Montana NOW Insurance Survey</unittitle>
+				  <unitdate>1985</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">7/9</container>
+				  <unittitle>Montana NOW Insurance Survey</unittitle>
+				  <unitdate>1985</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">7/10</container>
+				  <unittitle>Montana NOW Insurance Survey</unittitle>
+				  <unitdate>1985</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">7/11</container>
+				  <unittitle>Montana NOW Insurance Survey</unittitle>
+				  <unitdate>1985</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">7/12</container>
+				  <unittitle>Montana NOW Insurance Survey</unittitle>
+				  <unitdate>1985</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">7/13</container>
+				  <unittitle>Pennsylvania NOW Campaign</unittitle>
+				  <unitdate>1985-1987</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">8/1</container>
+				  <unittitle>Pennsylvania NOW Campaign</unittitle>
+				  <unitdate>1985-1987</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">8/2</container>
+				  <unittitle>Pennsylvania NOW Campaign</unittitle>
+				  <unitdate>1986</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">8/3</container>
+				  <unittitle>Pennsylvania NOW Campaign</unittitle>
+				  <unitdate>1989</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">8/4</container>
+				  <unittitle>Pennsylvania and Massachusetts NOW
+					 Campaigns</unittitle>
+				  <unitdate>1985</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">8/5</container>
+				  <unittitle>Publications</unittitle>
+				  <unitdate>1984-1985</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">8/6</container>
+				  <unittitle>Rules Hearing</unittitle>
+				  <unitdate>September 1985</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">8/7</container>
+				  <unittitle>Rules Hearing</unittitle>
+				  <unitdate>September 1985</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">8/8</container>
+				  <unittitle>Senate and House Committee, Testimony</unittitle>
+				  <unitdate>1985</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">8/9</container>
+				  <unittitle>Senate and House Committee, Testimony</unittitle>
+				  <unitdate>1985</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">8/10</container>
+				  <unittitle>Senate and House Committee, Testimony</unittitle>
+				  <unitdate>1985</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">8/11</container>
+				  <unittitle>Testimony, Non-Discrimination Insurance, Women’s
+					 Equity Action League</unittitle>
+				  <unitdate>1985</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">8/12</container>
+				  <unittitle>Western States Life Insurance Policies</unittitle>
+				  <unitdate>1985-1986</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">8/13</container>
+				  <unittitle>Women’s Lobbyist Fund</unittitle>
+				  <unitdate>1986-1988</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">8/14</container>
+				  <unittitle>Women’s Lobbyist Fund</unittitle>
+				  <unitdate>1987-1988</unitdate>
+				</did>
+			 </c03>
+		  </c02>
+		</c01>
+		<c01 level="series">
+		  <did>
+			 <unitid encodinganalog="099">Series III</unitid>
+			 <unittitle encodinganalog="245$a">Women’s Studies at the University
+				of Montana</unittitle>
+			 <unitdate encodinganalog="245$f" era="ce"
+			  calendar="gregorian" normal="1964/1999">1964-1999</unitdate>
+			 <physdesc><extent encodinganalog="300$a">0.8 linear feet</extent>
+			 </physdesc>
+		  </did>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">9/1</container>
+				<unittitle>Committees, Women in the Curriculum, Interdisciplinary
+				  Studies</unittitle>
+				<unitdate>1973-1987</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">9/2</container>
+				<unittitle>Courses, Materials from Feminist Theory</unittitle>
+				<unitdate>1973-1976</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">9/3</container>
+				<unittitle>Courses, Montana Assertiveness Collection</unittitle>
+				<unitdate>1974</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">9/4</container>
+				<unittitle>Courses, Chapter of Masters Thesis, Meredith
+				  Taylor</unittitle>
+				<unitdate>1974</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">9/5</container>
+				<unittitle>Courses, Diane Sands Coursework</unittitle>
+				<unitdate>1974</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">9/6</container>
+				<unittitle>Courses, Women’s Studies Course</unittitle>
+				<unitdate>1974–1979</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">9/7</container>
+				<unittitle>Courses, Human Sexuality and Social Work, Exams and
+				  Grades</unittitle>
+				<unitdate>1975</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">9/8</container>
+				<unittitle>Courses, Women’s History and Feminist Studies
+				  Materials</unittitle>
+				<unitdate>1979-1980</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">9/9</container>
+				<unittitle>Courses, Lesbian Feminism Theory Notes</unittitle>
+				<unitdate>1979-1984</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">9/10</container>
+				<unittitle>Courses, Women’s Studies Course Evaluations</unittitle>
+				<unitdate>1980</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">9/11</container>
+				<unittitle>Courses, Women’s Studies Registration Forms</unittitle>
+				<unitdate>1981</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">9/12</container>
+				<unittitle>Courses, Introduction to Women’s Studies Course
+				  Materials</unittitle>
+				<unitdate>1981</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">9/13</container>
+				<unittitle>Courses, Introduction to Women’s Studies Course
+				  Materials</unittitle>
+				<unitdate>1981-1984</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">9/14</container>
+				<unittitle>Courses, History and Politics of Feminism Course
+				  Materials</unittitle>
+				<unitdate>1981</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">9/15</container>
+				<unittitle>Courses, Women’s Studies Papers</unittitle>
+				<unitdate>1981</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">9/16</container>
+				<unittitle>Courses, Graduate Project Paper on Abortion Rights,
+				  Kristie L. Kirby</unittitle>
+				<unitdate>1981</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">9/17</container>
+				<unittitle>Courses, Women and Social Work – SW195</unittitle>
+				<unitdate>1983</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">9/18</container>
+				<unittitle>Courses, Women’s Studies Papers and Finals</unittitle>
+				<unitdate>1985</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">9/19</container>
+				<unittitle>Courses, Watson Scholarship Application, Nancy L.
+				  Arnold</unittitle>
+				<unitdate>1985-1986</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">9/20</container>
+				<unittitle>Courses, Introduction to Women’s Studies
+				  Course</unittitle>
+				<unitdate>undated</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">9/21</container>
+				<unittitle>Courses, Social Welfare 489 Course</unittitle>
+				<unitdate>undated</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">9/22</container>
+				<unittitle>Courses, Women Cross-Cultural Perspectives
+				  Bibliography</unittitle>
+				<unitdate>undated</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">9/23</container>
+				<unittitle>Courses, Bibliographies on Various Topics Regarding
+				  Women’s Issues</unittitle>
+				<unitdate>undated</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">9/24</container>
+				<unittitle>Courses, Materials Regarding Women’s Feminist
+				  Issues</unittitle>
+				<unitdate>undated</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">10/1</container>
+				<unittitle>Discrimination, Union Committee on Discrimination,
+				  Minutes</unittitle>
+				<unitdate>1971-1972</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">10/2</container>
+				<unittitle>Discrimination, Department of Health, Education and
+				  Welfare, Report on Discrimination</unittitle>
+				<unitdate>1972</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">10/3</container>
+				<unittitle>Discrimination, Materials Regarding Discrimination at
+				  University of Montana</unittitle>
+				<unitdate>1972, 1973</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">10/4</container>
+				<unittitle>Employment Practices, University of Montana</unittitle>
+				<unitdate>1994</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">10/5</container>
+				<unittitle>Employment Practices, Equal Opportunity
+				  Program</unittitle>
+				<unitdate>undated</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">10/6</container>
+				<unittitle>History</unittitle>
+				<unitdate>1964-1971</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">10/7</container>
+				<unittitle>History</unittitle>
+				<unitdate>1972-1974</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">10/8</container>
+				<unittitle>History</unittitle>
+				<unitdate>1975-1999</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">10/9</container>
+				<unittitle>History</unittitle>
+				<unitdate>undated</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">10/10</container>
+				<unittitle>History</unittitle>
+				<unitdate>undated</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">10/11</container>
+				<unittitle>Papers, Conference Papers on Feminist
+				  Therapy</unittitle>
+				<unitdate>1974</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">10/12</container>
+				<unittitle>Publications, "Anti-Feminist," Articles from the
+				  Missoulian on "Pussycat League"</unittitle>
+				<unitdate>1971</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">10/13</container>
+				<unittitle>Publications, University of Montana Faculty and Staff
+				  Newsletters</unittitle>
+				<unitdate>1971-1972</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">10/14</container>
+				<unittitle>Publications, "Faculty Women’s Caucus" </unittitle>
+				<unitdate>1972-1973</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">10/15</container>
+				<unittitle>Publications, Newspaper Clippings, Articles, and Furies
+				  Newsletter</unittitle>
+				<unitdate>1972-1974</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">10/16</container>
+				<unittitle>Publications, The NRAG Papers Publication</unittitle>
+				<unitdate>1984</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">10/17</container>
+				<unittitle>Publications, UM Magazine and Editorial Regarding
+				  Women’s Studies Program</unittitle>
+				<unitdate>1999</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">10/18</container>
+				<unittitle>The Political Economy of Women’s Liberation</unittitle>
+				<unitdate>undated</unitdate>
+			 </did>
+		  </c02>
+		</c01>
+		<c01 level="series">
+		  <did>
+			 <unitid encodinganalog="099">Series IV</unitid>
+			 <unittitle encodinganalog="245$a">Montana Pro-Choice
+				Coalition</unittitle>
+			 <unitdate encodinganalog="245$f" era="ce"
+			  calendar="gregorian" normal="1971/1995">1971-1995</unitdate>
+			 <physdesc><extent encodinganalog="300$a">1.0 linear foot</extent>
+			 </physdesc>
+		  </did>
+		  <c02 level="subseries">
+			 <did>
+				<unitid encodinganalog="099">Subseries 1</unitid>
+				<unittitle encodinganalog="245$a">Administrative
+				  Records</unittitle>
+				<unitdate encodinganalog="245$f" era="ce" calendar="gregorian"
+				 normal="1971/1989">1971-1989</unitdate>
+				<physdesc><extent encodinganalog="300$a">0.6 linear feet</extent>
+				</physdesc>
+			 </did>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">25/1</container>
+				  <unittitle>Abortion: For Survival, 1 videocassette</unittitle>
+				  <unitdate>undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">11/1</container>
+				  <unittitle>Boston Women’s Health Course Collective</unittitle>
+				  <unitdate>1971</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">11/2</container>
+				  <unittitle>Celebrations, Freedom Celebration Day</unittitle>
+				  <unitdate>1981</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">11/3</container>
+				  <unittitle>Committees, Steering Committee</unittitle>
+				  <unitdate>1979</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">11/4</container>
+				  <unittitle>Committees, Missoula Chapter</unittitle>
+				  <unitdate>undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">11/5</container>
+				  <unittitle>Correspondence</unittitle>
+				  <unitdate>1979</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">11/6</container>
+				  <unittitle>Correspondence, Letters from Montana Representatives
+					 to their Constituents</unittitle>
+				  <unitdate>1981</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">11/7</container>
+				  <unittitle>Correspondence, "1000 Pro-Choice Letter
+					 Campaign"</unittitle>
+				  <unitdate>undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">11/8</container>
+				  <unittitle>Elections, Primary Election</unittitle>
+				  <unitdate>1982</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">11/9</container>
+				  <unittitle>Elections, Voting Records</unittitle>
+				  <unitdate>undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">11/10</container>
+				  <unittitle>Legislation</unittitle>
+				  <unitdate>1979-1980</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">11/11</container>
+				  <unittitle>Legislation</unittitle>
+				  <unitdate>1981</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">11/12</container>
+				  <unittitle>Legislation</unittitle>
+				  <unitdate>1981</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">11/13</container>
+				  <unittitle>Legislation</unittitle>
+				  <unitdate>1981</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">11/14</container>
+				  <unittitle>Legislation</unittitle>
+				  <unitdate>1981</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">11/15</container>
+				  <unittitle>Legislation</unittitle>
+				  <unitdate>1981</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">11/16</container>
+				  <unittitle>Legislation</unittitle>
+				  <unitdate>1981</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">11/17</container>
+				  <unittitle>Legislation</unittitle>
+				  <unitdate>1981</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">11/18</container>
+				  <unittitle>Legislation</unittitle>
+				  <unitdate>undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">11/18</container>
+				  <unittitle>Legislation</unittitle>
+				  <unitdate>undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">11/19</container>
+				  <unittitle>Legislative Packet</unittitle>
+				  <unitdate>1978</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">11/20</container>
+				  <unittitle>Legislative Packet</unittitle>
+				  <unitdate>1979-1980</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">11/21</container>
+				  <unittitle>Legislative Testimony</unittitle>
+				  <unitdate>1979</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">11/22</container>
+				  <unittitle>Legislature, Overview and Evaluation</unittitle>
+				  <unitdate>1981</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">12/1</container>
+				  <unittitle>Lobbying Notebook</unittitle>
+				  <unitdate>1977-1979</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">12/2</container>
+				  <unittitle>Lobbying Notebook</unittitle>
+				  <unitdate>1979-1980</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">12/3</container>
+				  <unittitle>Lobbying Notebook</unittitle>
+				  <unitdate>undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">25/2</container>
+				  <unittitle>March for Women’s Lives, Washington DC, In Other
+					 Words, 1 audiocassette</unittitle>
+				  <unitdate>1989</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">25/3</container>
+				  <unittitle>March for Women’s Lives, Washington DC, 1
+					 videocassette</unittitle>
+				  <unitdate>1989</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">12/4</container>
+				  <unittitle>Montana Pro-Choice Coalition Materials</unittitle>
+				  <unitdate>1974-1981</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">12/5</container>
+				  <unittitle>Montana Pro-Choice Coalition Materials</unittitle>
+				  <unitdate>1981, 1989</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">12/6</container>
+				  <unittitle>Montana Pro-Choice Coalition Materials</unittitle>
+				  <unitdate>undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">12/7</container>
+				  <unittitle>Montana Pro-Choice Coalition Membership
+					 Lists</unittitle>
+				  <unitdate>1980</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">12/8</container>
+				  <unittitle>Photographs and Memorabilia, Contact Sheet of Photos
+					 and Pro-Choice Pins</unittitle>
+				  <unitdate>1981</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">12/9</container>
+				  <unittitle>Publications, Birth Control Handbook</unittitle>
+				  <unitdate>1972</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">12/10</container>
+				  <unittitle>Publications, Reproductive Rights
+					 Newsletter</unittitle>
+				  <unitdate>1978</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">12/11</container>
+				  <unittitle>Publications, Articles Regarding Abortion
+					 Rights</unittitle>
+				  <unitdate>1978-1989</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">12/12</container>
+				  <unittitle>Publications, House Meeting Training
+					 Packet</unittitle>
+				  <unitdate>1981</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">12/13</container>
+				  <unittitle>Publications, Montana Pro-Choice
+					 Newsletters</unittitle>
+				  <unitdate>1981-1986</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">12/14</container>
+				  <unittitle>Publications, Pamphlets and Flyers, NARAL and Abortion
+					 Control Act</unittitle>
+				  <unitdate>undated</unitdate>
+				</did>
+			 </c03>
+		  </c02>
+		  <c02 level="subseries">
+			 <did>
+				<unitid encodinganalog="099">Subseries 2</unitid>
+				<unittitle encodinganalog="245$a">Abortion</unittitle>
+				<unitdate encodinganalog="245$f" era="ce" calendar="gregorian"
+				 normal="1973/1995">1973-1995</unitdate>
+				<physdesc><extent encodinganalog="300$a">0.4 linear feet</extent>
+				</physdesc>
+			 </did>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">12/15</container>
+				  <unittitle>Blue Mountain Clinic, Escort Manual</unittitle>
+				  <unitdate>1991-1995</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">12/16</container>
+				  <unittitle>Minutes, Campaign for Repeal of Montana Abortion
+					 Control Act</unittitle>
+				  <unitdate>1984</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">12/17</container>
+				  <unittitle>Minutes, Montana Pro-Choice Advocates</unittitle>
+				  <unitdate>1985</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">12/18</container>
+				  <unittitle>Correspondence</unittitle>
+				  <unitdate>1982, 1983</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">12/19</container>
+				  <unittitle>Legislation</unittitle>
+				  <unitdate>undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">12/20</container>
+				  <unittitle>Legislature</unittitle>
+				  <unitdate>1985</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">12/21</container>
+				  <unittitle>Montanans for Choice, Survey</unittitle>
+				  <unitdate>1984</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">12/22</container>
+				  <unittitle>Petitions</unittitle>
+				  <unitdate>1986</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">13/1</container>
+				  <unittitle>Publications, Abortion</unittitle>
+				  <unitdate>1978-1993</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">13/2</container>
+				  <unittitle>Publications, Abortion</unittitle>
+				  <unitdate>1978-1983</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">13/3</container>
+				  <unittitle>Publications, Montana Legislature</unittitle>
+				  <unitdate>1985</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">13/4</container>
+				  <unittitle>Newspaper Clippings</unittitle>
+				  <unitdate>1981-1993</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">13/5</container>
+				  <unittitle>Posters and Flyers</unittitle>
+				  <unitdate>1973-1982</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">13/6</container>
+				  <unittitle>Drawings, Self Portraits of Activists</unittitle>
+				  <unitdate>undated</unitdate>
+				</did>
+			 </c03>
+		  </c02>
+		</c01>
+		<c01 level="series">
+		  <did>
+			 <unitid encodinganalog="099">Series V</unitid>
+			 <unittitle encodinganalog="245$a">Women’s Liberation</unittitle>
+			 <unitdate encodinganalog="245$f" era="ce"
+			  calendar="gregorian" normal="1954/1982">1954-1982</unitdate>
+			 <physdesc><extent encodinganalog="300$a">1.6 linear feet</extent>
+			 </physdesc>
+		  </did>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">13/7</container>
+				<unittitle>Homemakers/House Workers</unittitle>
+				<unitdate>1974-1978</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">13/8</container>
+				<unittitle>Lesbian History File</unittitle>
+				<unitdate>1976-1981</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">13/9</container>
+				<unittitle>Missoula Women’s Liberation Materials</unittitle>
+				<unitdate>1969-1971</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">13/10</container>
+				<unittitle>Photographs, One Woman Walkout, Helena,
+				  Montana</unittitle>
+				<unitdate>1977</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">OS 27</container>
+				<unittitle encodinganalog="245$a">Posters</unittitle>
+				<unitdate encodinganalog="245$f" era="ce"
+				 calendar="Gregorian">1982-1992</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">13/11</container>
+				<unittitle>Publications, Alterative Activism Booklets and
+				  Newsletters</unittitle>
+				<unitdate>1973-1975</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">13/12</container>
+				<unittitle>Publications, Articles</unittitle>
+				<unitdate>1954-1972</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">13/13</container>
+				<unittitle>Publications, Articles</unittitle>
+				<unitdate>1974-1978</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">14/1</container>
+				<unittitle>Publications, Booklets and Pamphlets</unittitle>
+				<unitdate>1966-1970</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">14/2</container>
+				<unittitle>Publications, Booklets and Pamphlets</unittitle>
+				<unitdate>1970-1975</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">14/3</container>
+				<unittitle>Publications, Employment Services Handbooks</unittitle>
+				<unitdate>1982</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">14/4</container>
+				<unittitle>Publications, Journals</unittitle>
+				<unitdate>1969-1970</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">14/5</container>
+				<unittitle>Publications, Journals</unittitle>
+				<unitdate>1970-1972</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">14/6</container>
+				<unittitle>Publications, Montana Divorce Handbook, Published by
+				  Department of Social Work/ Women’s Resource Center at UM</unittitle>
+				<unitdate>1977</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">14/7</container>
+				<unittitle>Publications, Montana Divorce Handbook, Published by
+				  Department of Social Work/ Women’s Resource Center at UM</unittitle>
+				<unitdate>1977-1978</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">14/8</container>
+				<unittitle>Publications, Women’s Work Flyers</unittitle>
+				<unitdate>undated</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">14/9</container>
+				<unittitle>Reports, Montana Legislative Council Report: Equality of
+				  the Sexes</unittitle>
+				<unitdate>1974</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">14/20</container>
+				<unittitle>VISTA</unittitle>
+				<unitdate>undated</unitdate>
+			 </did>
+		  </c02>
+		</c01>
+		<c01 level="series">
+		  <did>
+			 <unitid encodinganalog="099">Series VI</unitid>
+			 <unittitle encodinganalog="245$a">Women's Lobbyist Fund</unittitle>
+			 <unitdate encodinganalog="245$f" era="ce"
+			 calendar="gregorian" normal="1978/1999">1978-1999</unitdate>
+			 <physdesc><extent encodinganalog="300$a">2.0 linear feet</extent>
+			 </physdesc>
+		  </did>
+		  <c02 level="subseries">
+			 <did>
+				<unitid encodinganalog="099">Subseries 1</unitid>
+				<unittitle encodinganalog="245$a">Administrative
+				  Records</unittitle>
+				<unitdate encodinganalog="245$f" era="ce" calendar="gregorian"
+				normal="1984/1991">1984-1991</unitdate>
+				<physdesc><extent encodinganalog="300$a">0.9 linear feet</extent>
+				</physdesc>
+			 </did>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">15/1</container>
+				  <unittitle>Financial Statements, Minutes and Legislative
+					 Agendas</unittitle>
+				  <unitdate>1983-1985</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">15/2</container>
+				  <unittitle>Financial Statements, Minutes and Legislative
+					 Agendas</unittitle>
+				  <unitdate>1985</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">15/3</container>
+				  <unittitle>Financial Statements, Minutes and Legislative
+					 Agendas</unittitle>
+				  <unitdate>1986</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">15/4</container>
+				  <unittitle>Financial Statements, Minutes and Legislative
+					 Agendas</unittitle>
+				  <unitdate>1987</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">15/5</container>
+				  <unittitle>Financial Statements, Minutes, and Legislative
+					 Agendas</unittitle>
+				  <unitdate>1988-1989</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">15/6</container>
+				  <unittitle>Financial Statements, Minutes and Legislative
+					 Agendas</unittitle>
+				  <unitdate>1990-1991</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">15/7</container>
+				  <unittitle>Financial Statements, Minutes, and Legislative
+					 Agendas</unittitle>
+				  <unitdate>1992-1995</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">15/8</container>
+				  <unittitle>Correspondence</unittitle>
+				  <unitdate>1983-1993</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">15/9</container>
+				  <unittitle>Correspondence</unittitle>
+				  <unitdate>1987-1991</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">25/4</container>
+				  <unittitle>Long Range Planning, 6 audiocassettes</unittitle>
+				  <unitdate>1984, 1986</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">15/10</container>
+				  <unittitle>Membership and Readers Poll</unittitle>
+				  <unitdate>1985</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">15/11</container>
+				  <unittitle>Montana Women’s Lobby Fundraising Packet</unittitle>
+				  <unitdate>1990</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">15/12</container>
+				  <unittitle>Testimony, Press Releases, Clippings and
+					 Newsletters</unittitle>
+				  <unitdate>1982-1983</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">15/13</container>
+				  <unittitle>Testimony, Press Releases, Clippings and
+					 Newsletters</unittitle>
+				  <unitdate>1983-1985</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">15/14</container>
+				  <unittitle>Testimony, Press Releases, Clippings and
+					 Newsletters</unittitle>
+				  <unitdate>1986-1987</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">15/15</container>
+				  <unittitle>Testimony, Press Releases, Clippings and
+					 Newsletters</unittitle>
+				  <unitdate>1988-1989</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">15/16</container>
+				  <unittitle>Testimony, Press Releases, Clippings and
+					 Newsletters</unittitle>
+				  <unitdate>1990-1991</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">15/17</container>
+				  <unittitle>Testimony, Press Releases, Clippings and
+					 Newsletters</unittitle>
+				  <unitdate>1992-1995</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">16/1</container>
+				  <unittitle>Testimony, Press Releases, Clippings and
+					 Newsletters</unittitle>
+				  <unitdate>undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">16/2</container>
+				  <unittitle>Testimony, Press Releases, Clippings and
+					 Newsletters</unittitle>
+				  <unitdate>undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">16/3</container>
+				  <unittitle>Testimony, Press Releases, Clippings and
+					 Newsletters</unittitle>
+				  <unitdate>undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">16/4</container>
+				  <unittitle>Testimony, Press Releases, Clippings and
+					 Newsletters</unittitle>
+				  <unitdate>undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">16/5</container>
+				  <unittitle>Testimony, Press Releases, Clippings and
+					 Newsletters</unittitle>
+				  <unitdate>undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">16/6</container>
+				  <unittitle>Newsletters</unittitle>
+				  <unitdate>1987-1995</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">OS 26</container>
+				  <unittitle encodinganalog="245$a">Photo Album</unittitle>
+				  <unitdate encodinganalog="245$f" era="ce" calendar="Gregorian"
+				  normal="1985/1988">1985-1988</unitdate>
+				</did>
+			 </c03>
+		  </c02>
+		  <c02 level="subseries">
+			 <did>
+				<unitid encodinganalog="099">Subseries 2</unitid>
+				<unittitle encodinganalog="245$a">Subject Files</unittitle>
+				<unitdate encodinganalog="245$f" era="ce" calendar="gregorian"
+				normal="1978/1999">1978-1999</unitdate>
+				<physdesc><extent encodinganalog="300$a">1.1 linear feet</extent>
+				</physdesc>
+			 </did>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">16/7</container>
+				  <unittitle>Abortion Legislation, Montana Local Elections,
+					 Abortion Legislation</unittitle>
+				  <unitdate>1990</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">16/8</container>
+				  <unittitle>Abortion Legislation, Montana</unittitle>
+				  <unitdate>1990</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">16/9</container>
+				  <unittitle>AIDS Materials</unittitle>
+				  <unitdate>1990</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">16/10</container>
+				  <unittitle>Candidates for Governor</unittitle>
+				  <unitdate>1988</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">16/11</container>
+				  <unittitle>Conferences, Western States Women’s Agenda
+					 Conference</unittitle>
+				  <unitdate>1990</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">16/12</container>
+				  <unittitle>Deviate Sexual Conduct Act</unittitle>
+				  <unitdate>1993-1995</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">16/13</container>
+				  <unittitle>Deviate Sexual Conduct, Supreme Court Case</unittitle>
+				  <unitdate>1997</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">16/14</container>
+				  <unittitle>Deviate Sexual Conduct Law, Newspaper
+					 Clippings</unittitle>
+				  <unitdate>1992-1993</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">16/15</container>
+				  <unittitle>Diane Sands’ Lobbying License and
+					 Materials</unittitle>
+				  <unitdate>1981</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">16/16</container>
+				  <unittitle>Gay Rights</unittitle>
+				  <unitdate>1992–1996</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">16/17</container>
+				  <unittitle>Gay Rights, Gay and Lesbian Workplace
+					 Discrimination</unittitle>
+				  <unitdate>1994-1998</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">16/18</container>
+				  <unittitle>Gay Rights, Documents Regarding Workplace
+					 Discrimination Based on Sexual Orientation</unittitle>
+				  <unitdate>1997-1998</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">16/19</container>
+				  <unittitle>Gay Rights, Gay/Lesbian Newsletters, Articles,
+					 Documents</unittitle>
+				  <unitdate>1992-1993</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">16/20</container>
+				  <unittitle>Gay Rights, Newspaper Clippings</unittitle>
+				  <unitdate>1993</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">16/21</container>
+				  <unittitle>Governor’s Forum</unittitle>
+				  <unitdate>1987-1988</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">16/22</container>
+				  <unittitle>Governor’s Forum</unittitle>
+				  <unitdate>1991-1992</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">17/1</container>
+				  <unittitle>Insurance Project</unittitle>
+				  <unitdate>1985-1988</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">17/2</container>
+				  <unittitle>Insurance, Non-gender Insurance</unittitle>
+				  <unitdate>1985-1988</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">17/3</container>
+				  <unittitle>Insurance, Materials on Insurance
+					 Discrimination</unittitle>
+				  <unitdate>1987-1991</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">17/4</container>
+				  <unittitle>Legislation, Conflict and the Legislative
+					 Process</unittitle>
+				  <unitdate>January 1993</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">25/5</container>
+				  <unittitle>Legislative Agenda, 3 audiocassettes</unittitle>
+				  <unitdate>1986</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">25/6</container>
+				  <unittitle>Legislative Session, 1 audiocassette</unittitle>
+				  <unitdate>1985</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">17/5</container>
+				  <unittitle>Legislature, Special Session</unittitle>
+				  <unitdate>1986</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">17/6</container>
+				  <unittitle>Montana Women’s Lobby Leadership Forum</unittitle>
+				  <unitdate>1992</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">17/7</container>
+				  <unittitle>Montana PRIDE Materials</unittitle>
+				  <unitdate>1992</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">17/8</container>
+				  <unittitle>Montana PRIDE Lawsuit</unittitle>
+				  <unitdate>1993</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">17/9</container>
+				  <unittitle>Montana PRIDE</unittitle>
+				  <unitdate>1993-1995</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">17/10</container>
+				  <unittitle>Montana PRIDE, Montana Fair Workplace Project
+					 Materials</unittitle>
+				  <unitdate>1993-1998</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">17/11</container>
+				  <unittitle>Montana PRIDE Basic Documents</unittitle>
+				  <unitdate>1996-1998</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">17/12</container>
+				  <unittitle>Montana PRIDE and Outspoken Newsletters</unittitle>
+				  <unitdate>1998-1999</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">17/13</container>
+				  <unittitle>Montana Women’s Agenda</unittitle>
+				  <unitdate>1992</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">17/14</container>
+				  <unittitle>Montana Women’s Campaign Network and Democratic
+					 Legislative Campaign Committee, Training Manual</unittitle>
+				  <unitdate>1995-1998</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">17/15</container>
+				  <unittitle>Montana Women’s Campaign Network, Democratic
+					 Campaign</unittitle>
+				  <unitdate>1996-1998</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">17/16</container>
+				  <unittitle>Montana Women’s Campaign Network</unittitle>
+				  <unitdate>1997</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">17/17</container>
+				  <unittitle>Montana Women’s Campaign Network,
+					 Directory</unittitle>
+				  <unitdate>1997</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">17/18</container>
+				  <unittitle>Montana Women’s Campaign Network</unittitle>
+				  <unitdate>1997-1998</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">17/19</container>
+				  <unittitle>Montana Women’s Campaign Network</unittitle>
+				  <unitdate>1997-1998</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">17/20</container>
+				  <unittitle>Montana Women’s Campaign Network</unittitle>
+				  <unitdate>undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">25/7</container>
+				  <unittitle>Montana Women’s Lobby, Legislative Hearings,
+					 Non-Gender Insurance, 4 audiocassettes</unittitle>
+				  <unitdate>1985</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">18/1</container>
+				  <unittitle>Newspaper Clippings, Homosexuality and
+					 Abortion</unittitle>
+				  <unitdate>1982-1992</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">18/2</container>
+				  <unittitle>Newspaper Clippings, Women’s Rights</unittitle>
+				  <unitdate>1992-1996</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">18/3</container>
+				  <unittitle>Photographs</unittitle>
+				  <unitdate>1980s-1990s</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">18/4</container>
+				  <unittitle>Publications, a Guide to Montana’s Legislative
+					 Assembly and Report on Montana Children</unittitle>
+				  <unitdate>1989-1990</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">18/5</container>
+				  <unittitle>Publications, "The Women’s Caucus Across the Nation,"
+					 and "Organizations for Women Legislators"</unittitle>
+				  <unitdate>undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">18/6</container>
+				  <unittitle>Taxation Reform Materials</unittitle>
+				  <unitdate>1990-1991</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">18/7</container>
+				  <unittitle>Veteran’s Preference Special Session</unittitle>
+				  <unitdate>1983</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">18/18</container>
+				  <unittitle>Welfare Reform</unittitle>
+				  <unitdate>1987</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">18/19</container>
+				  <unittitle>Women’s Campaign School</unittitle>
+				  <unitdate>1988-1990</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">18/20</container>
+				  <unittitle>Women’s Campaign School</unittitle>
+				  <unitdate>1989-1992</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">18/21</container>
+				  <unittitle>Women’s Campaign School</unittitle>
+				  <unitdate>undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">18/22</container>
+				  <unittitle>Women’s Campaign School, Registration
+					 Forms</unittitle>
+				  <unitdate>1992</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">18/23</container>
+				  <unittitle>Women’s Campaign School, Evaluation Forms</unittitle>
+				  <unitdate>undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">18/24</container>
+				  <unittitle>Women’s Issues Congress</unittitle>
+				  <unitdate>1986</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">18/25</container>
+				  <unittitle>Women’s Suffrage, 75th Anniversary of Women’s
+					 Suffrage</unittitle>
+				  <unitdate>1995</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">18/26</container>
+				  <unittitle>Women’s Suffrage, Evaluations of 75th Anniversary of
+					 Women’s Suffrage</unittitle>
+				  <unitdate>1995</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">18/27</container>
+				  <unittitle>Women’s Suffrage, Susan B. Anthony
+					 Information</unittitle>
+				  <unitdate>1978-1983</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">18/28</container>
+				  <unittitle>Women’s Suffrage, Susan B. Anthony
+					 Information</unittitle>
+				  <unitdate>1986-1990</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">18/29</container>
+				  <unittitle>Women’s Suffrage, Susan B. Anthony
+					 Information</unittitle>
+				  <unitdate>1991-1993</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">18/30</container>
+				  <unittitle>Women’s Suffrage, Susan B. Anthony
+					 Information</unittitle>
+				  <unitdate>1993</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">18/31</container>
+				  <unittitle>Women’s Suffrage, Susan B. Anthony
+					 Information</unittitle>
+				  <unitdate>1994</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">18/32</container>
+				  <unittitle>Women’s Suffrage, Susan B. Anthony
+					 Information</unittitle>
+				  <unitdate>1994</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">18/33</container>
+				  <unittitle>Women’s Suffrage, Susan B. Anthony
+					 Information</unittitle>
+				  <unitdate>1996-1998</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">18/34</container>
+				  <unittitle>Women’s Suffrage, Susan B. Anthony Teaching
+					 Guide</unittitle>
+				  <unitdate>1983</unitdate>
+				</did>
+			 </c03>
+		  </c02>
+		</c01>
+		<c01 level="series">
+		  <did>
+			 <unitid encodinganalog="099">Series VII</unitid>
+			 <unittitle encodinganalog="245$a">Montana Women's History
+				Project</unittitle>
+			 <unitdate encodinganalog="245$f" era="ce"
+			  calendar="gregorian" normal="1892/2000">1892-2000</unitdate>
+			 <physdesc><extent encodinganalog="300$a">1.9 linear feet</extent>
+			 </physdesc>
+		  </did>
+		  <c02 level="subseries">
+			 <did>
+				<unitid encodinganalog="099">Subseries 1</unitid>
+				<unittitle encodinganalog="245$a">Correspondence</unittitle>
+				<unitdate encodinganalog="245$f" era="ce" calendar="gregorian"
+				 normal="1975/1987">1975-1987</unitdate>
+				<physdesc><extent encodinganalog="300$a">0.3 linear feet</extent>
+				</physdesc>
+			 </did>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">19/1</container>
+				  <unittitle>Correspondence</unittitle>
+				  <unitdate>1983-1984</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">19/2</container>
+				  <unittitle>Correspondence</unittitle>
+				  <unitdate>1984-1985</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">19/3</container>
+				  <unittitle>Correspondence</unittitle>
+				  <unitdate>1985-1986</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">19/4</container>
+				  <unittitle>Correspondence to Sands</unittitle>
+				  <unitdate>1985-1987</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">19/5</container>
+				  <unittitle>MWHP History Correspondence</unittitle>
+				  <unitdate>1975-1976</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">19/6</container>
+				  <unittitle>MWHP History Correspondence</unittitle>
+				  <unitdate>1977 </unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">19/7</container>
+				  <unittitle>Copies of "Silence No More," Letters</unittitle>
+				  <unitdate>1985 </unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">19/8</container>
+				  <unittitle>Thank You Letters from School Children</unittitle>
+				  <unitdate>1986</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">19/9</container>
+				  <unittitle>Women’s History Project Notes and
+					 Correspondence</unittitle>
+				  <unitdate>1981-1984</unitdate>
+				</did>
+			 </c03>
+		  </c02>
+		  <c02 level="subseries">
+			 <did>
+				<unitid encodinganalog="099">Subseries 2</unitid>
+				<unittitle encodinganalog="245$a">Oral Histories of Montana
+				  Women</unittitle>
+				<unitdate encodinganalog="245$f" era="ce" calendar="gregorian"
+				 normal="1920/1981">1920-1981</unitdate>
+				<physdesc><extent encodinganalog="300$a">0.1 linear feet</extent>
+				</physdesc>
+			 </did>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">19/10</container>
+				  <unittitle>Lou Alta Melton Merrill</unittitle>
+				  <unitdate>1920-1980</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">19/11</container>
+				  <unittitle>Hilda Smith</unittitle>
+				  <unitdate>undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">19/12</container>
+				  <unittitle>Fanny Sperry Steele</unittitle>
+				  <unitdate>1955</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">19/13</container>
+				  <unittitle>Hazel Wagner, Correspondence, Photos and Interview by
+					 Diane Sands for National Lesbian Archives</unittitle>
+				  <unitdate>1979-1981</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">20/1</container>
+				  <unittitle>Elizabeth Weldon Interview</unittitle>
+				  <unitdate>1976</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">20/2</container>
+				  <unittitle>Livingston/Bozeman Project, Correspondence and
+					 Notes</unittitle>
+				  <unitdate>1975-1977</unitdate>
+				</did>
+			 </c03>
+		  </c02>
+		  <c02 level="subseries">
+			 <did>
+				<unitid encodinganalog="099">Subseries 3</unitid>
+				<unittitle encodinganalog="245$a">Illegal Abortion in Montana Oral
+				  History Project</unittitle>
+				<unitdate encodinganalog="245$f" era="ce" calendar="gregorian"
+				 normal="1913/1999">1913-1999</unitdate>
+				<physdesc><extent encodinganalog="300$a">0.3 linear feet</extent>
+				</physdesc>
+			 </did>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">20/3</container>
+				  <unittitle>Articles and Reports, Article by Sands, "Using Oral
+					 History to Chart the Course of Illegal Clippings, from Adeline
+					 Beaver</unittitle>
+				  <unitdate>1984</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">20/4</container>
+				  <unittitle>Clippings, Maggie Smith Hathaway</unittitle>
+				  <unitdate>1913-1955</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">20/5</container>
+				  <unittitle>Grants, Application to Montana Council for the
+					 Humanities</unittitle>
+				  <unitdate>1980-1981</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">20/6</container>
+				  <unittitle>Interview, Transcripts of Interview with Bev
+					 Fisher</unittitle>
+				  <unitdate>1976</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">20/7</container>
+				  <unittitle>Interview, R.C. Line Interview</unittitle>
+				  <unitdate>1977</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">20/8</container>
+				  <unittitle>Interview, Anne Dunbar Interview by Diane
+					 Sands</unittitle>
+				  <unitdate>1981</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">20/9</container>
+				  <unittitle>Interview, Eleanor Mast Interview by Diane
+					 Sands</unittitle>
+				  <unitdate>1981</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">20/10</container>
+				  <unittitle>Interview, Kristina Fallan’s Story</unittitle>
+				  <unitdate>undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">20/11</container>
+				  <unittitle>Oral Histories, Background Information Sheets,
+					 Guidelines for Conducting Oral Interviews</unittitle>
+				  <unitdate>undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">20/12</container>
+				  <unittitle>Paper by Diane Sands, Drafts, "As American as Apple
+					 Pie: Illegal Abortion in Montana, 1880-1973"</unittitle>
+				  <unitdate>undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">20/13</container>
+				  <unittitle>Prison Intake Record and Testimony RE: Illegal
+					 Abortion in Montana</unittitle>
+				  <unitdate>1936, 1940</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">20/14</container>
+				  <unittitle>Reports and Correspondence on Illegal
+					 Abortions</unittitle>
+				  <unitdate>undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">20/15</container>
+				  <unittitle>Research, Materials on Evelyn Cameron</unittitle>
+				  <unitdate>1900-1983</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">20/16</container>
+				  <unittitle>Research, Notes, Clippings, and
+					 Correspondence</unittitle>
+				  <unitdate>1922, 1989</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">20/17</container>
+				  <unittitle>Research, Annie Knipfer Personal Narrative, Poetry
+					 Booklet by Knipfer and Photograph</unittitle>
+				  <unitdate>1975-1976</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">20/18</container>
+				  <unittitle>Research, Articles, and Notes, Illegal
+					 Abortion</unittitle>
+				  <unitdate>1983</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">20/19</container>
+				  <unittitle>Research, Notes and Correspondence about Illegal
+					 Abortion</unittitle>
+				  <unitdate>1981, 1988</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">20/20</container>
+				  <unittitle>Research, Notes, Articles, and Papers, Abortion in
+					 Montana</unittitle>
+				  <unitdate>1991-1992</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">20/21</container>
+				  <unittitle>Research, Articles and Notes, Illegal
+					 Abortion</unittitle>
+				  <unitdate>1996</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">20/22</container>
+				  <unittitle>Research, Notes</unittitle>
+				  <unitdate>undated</unitdate>
+				</did>
+			 </c03>
+		  </c02>
+		  <c02 level="subseries">
+			 <did>
+				<unitid encodinganalog="099">Subseries 4</unitid>
+				<unittitle encodinganalog="245$a">Subject Files</unittitle>
+				<unitdate encodinganalog="245$f" era="ce" calendar="gregorian"
+				normal="1911/1987" type="inclusive">1911-1948, 1970-1987</unitdate>
+				<physdesc><extent encodinganalog="300$a">0.7 linear feet</extent>
+				</physdesc>
+			 </did>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">20/23</container>
+				  <unittitle>Articles and Notes, Madam Clarice Advice
+					 Column</unittitle>
+				  <unitdate>1911-1917 </unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">20/24</container>
+				  <unittitle>Diary of Mary Richardson Walker</unittitle>
+				  <unitdate>June 10 – December 21, 1883, Published 1931</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">21/1</container>
+				  <unittitle>Clippings, The Women’s West Bibliography, and Student
+					 Papers</unittitle>
+				  <unitdate>1939-1940 </unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">21/2</container>
+				  <unittitle>Copy of Reminiscences of Clara Odden
+					 Currie</unittitle>
+				  <unitdate>1970</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">21/3</container>
+				  <unittitle>Articles and Notes, Copies of "Our Story, Herstory,"
+					 and a paper by Diane Sands regarding Women’s Centers</unittitle>
+				  <unitdate>1971, 1976</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">21/4</container>
+				  <unittitle>Articles and Notes, Paper and Notes by Diane Sands, "A
+					 School for Politics: Roots of the Women’s Rights Movement in the Jacksonian
+					 Era," and Articles on Suffragist Movement</unittitle>
+				  <unitdate>1975 </unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">21/5</container>
+				  <unittitle>Bibliographies</unittitle>
+				  <unitdate>1976</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">21/6</container>
+				  <unittitle>Notes and Correspondence</unittitle>
+				  <unitdate>1976-1977</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">21/7</container>
+				  <unittitle>Postcards, Pamphlets about Women</unittitle>
+				  <unitdate>1975-1977</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">21/8</container>
+				  <unittitle>Notebook and Publication, "Petticoat and Stethoscope"
+					 booklet</unittitle>
+				  <unitdate>1975-1978</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">21/9</container>
+				  <unittitle>Subject Files</unittitle>
+				  <unitdate>1977</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">21/10</container>
+				  <unittitle>Conference on Women in History, Correspondence,
+					 Syllabi, Bibliographies</unittitle>
+				  <unitdate>1977-1986</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">21/11</container>
+				  <unittitle>Bitterroot Resources for Women, Displaced
+					 Homemakers</unittitle>
+				  <unitdate>1978-1979</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">21/12</container>
+				  <unittitle>Pamphlets, Newsletters, Correspondence and
+					 Notes</unittitle>
+				  <unitdate>1980-1981</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">21/13</container>
+				  <unittitle>Project on the Status and Education of
+					 Women</unittitle>
+				  <unitdate>1980-1982 </unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">21/14</container>
+				  <unittitle>Booklet, "A Woman’s Place in Minnesota"</unittitle>
+				  <unitdate>1981 </unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">21/15</container>
+				  <unittitle>Montana Post Newsletters, Oral History Guidelines, and
+					 Bibliography</unittitle>
+				  <unitdate>1980-1981</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">21/16</container>
+				  <unittitle>Newsletters and Notes, Montana Oral History
+					 Association and Plainswoman Newsletters</unittitle>
+				  <unitdate>1981-1985</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">22/1</container>
+				  <unittitle>Articles on Women’s Issues</unittitle>
+				  <unitdate>1981-1982</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">22/2</container>
+				  <unittitle>Women and the West Course Materials</unittitle>
+				  <unitdate>1983-1984</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">22/3</container>
+				  <unittitle>Women and the West Course Materials</unittitle>
+				  <unitdate>1984</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">22/4</container>
+				  <unittitle>Correspondence, Grant Application to Burlington
+					 Northern Foundation, Women’s Studies Topical Bibliographies</unittitle>
+				  <unitdate>1983-1984</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">22/5</container>
+				  <unittitle>Montana Women’s History Centennial Project, Committee
+					 for the Humanities Grant Application</unittitle>
+				  <unitdate>1983-1984</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">22/6</container>
+				  <unittitle>Flyers, Class Syllabi, and Bibliographies</unittitle>
+				  <unitdate>1983-1984</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">22/7</container>
+				  <unittitle>Pamphlets, Paper by Janet Kirkpatrick, "A Look at
+					 Unwed Pregnancy"</unittitle>
+				  <unitdate>1983-1985</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">22/8</container>
+				  <unittitle>Pamphlets, Correspondence, Copy of "History News" and
+					 Women’s Resource Directory</unittitle>
+				  <unitdate>1984</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">22/9</container>
+				  <unittitle>‘Harper and Row News," "Western Woman," and an Article
+					 on Oral History by Sherna Gluck</unittitle>
+				  <unitdate>1984</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">22/10</container>
+				  <unittitle>MWHP</unittitle>
+				  <unitdate>1984</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">22/11</container>
+				  <unittitle>Correspondence and Transcript of Diane Sands interview
+					 for Bozeman History Project</unittitle>
+				  <unitdate>1984-1985 </unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">22/12</container>
+				  <unittitle>Jeanette Rankin Dedication</unittitle>
+				  <unitdate>1985-1986</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">22/13</container>
+				  <unittitle>Correspondence, Autobiography of Esther Mace Stahl,
+					 Pamphlet and Notes</unittitle>
+				  <unitdate>1985-1987</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">22/14</container>
+				  <unittitle>Correspondence, Oral History Leaflet, Women’s History
+					 Newsletter, and Notes</unittitle>
+				  <unitdate>1982-1987</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">22/15</container>
+				  <unittitle>Information on Women’s Rights National Historical Park
+					 Correspondence and Newsletter</unittitle>
+				  <unitdate>1986-1987</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">22/16</container>
+				  <unittitle>Montana Committee for the Humanities Award</unittitle>
+				  <unitdate>1986</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">22/17</container>
+				  <unittitle>Notes and Brief Account of Library History Ennis,
+					 Montana</unittitle>
+				  <unitdate>1986</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">22/18</container>
+				  <unittitle>Notes, Articles, Correspondence and Interview
+					 Guidelines</unittitle>
+				  <unitdate>1987</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">22/19</container>
+				  <unittitle>Clippings, Pamphlet, Flyer, and Notes</unittitle>
+				  <unitdate>1987</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">22/20</container>
+				  <unittitle>Paper by Katherine M. Weist, "Nineteenth Century
+					 Observations of Northern Women"</unittitle>
+				  <unitdate>undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">22/21</container>
+				  <unittitle>Paper by Sue Matthews, "Literature as ‘Hands-on’
+					 Experience</unittitle>
+				  <unitdate>undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">22/22</container>
+				  <unittitle>Notes</unittitle>
+				  <unitdate>undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">22/23</container>
+				  <unittitle>Copies of Interview Transcripts and Notes</unittitle>
+				  <unitdate>undated</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">25/8</container>
+				  <unittitle>Women as Community Builders, 1
+					 audiocassette</unittitle>
+				  <unitdate>undated</unitdate>
+				</did>
+			 </c03>
+		  </c02>
+		  <c02 level="subseries">
+			 <did>
+				<unitid encodinganalog="099">Subseries 5</unitid>
+				<unittitle encodinganalog="245$a">Publications</unittitle>
+				<unitdate encodinganalog="245$f" era="ce" calendar="gregorian"
+				normal="1951/2000">1951-2000</unitdate>
+				<physdesc><extent encodinganalog="300$a">0.4 linear feet</extent>
+				</physdesc>
+			 </did>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">22/24</container>
+				  <unittitle>Archival Information and Bibliography</unittitle>
+				  <unitdate>1925, 1935</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">22/25</container>
+				  <unittitle>"Iron Teeth: A Cheyenne Old Woman"</unittitle>
+				  <unitdate>1926</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">22/26</container>
+				  <unittitle>Articles on Feminism</unittitle>
+				  <unitdate>1951-1979</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">23/1</container>
+				  <unittitle>Reports on Women’s Issues</unittitle>
+				  <unitdate>1972-1979</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">23/2</container>
+				  <unittitle>Booklets, "Women in Colorado," and "Four Traditions:
+					 Women of New York During the American Revolution"</unittitle>
+				  <unitdate>1974</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">23/3</container>
+				  <unittitle>Journals and Papers</unittitle>
+				  <unitdate>1974-1984</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">23/4</container>
+				  <unittitle>Frontiers: Journal of Women’s Studies</unittitle>
+				  <unitdate>1977, 1983</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">23/5</container>
+				  <unittitle>Susan B. Anthony Newspaper Clippings</unittitle>
+				  <unitdate>1979</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">23/6</container>
+				  <unittitle>Pamphlets on Women’s Rights Issues</unittitle>
+				  <unitdate>1979-1986</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">23/7</container>
+				  <unittitle>"Montana Post," and Montana Historical Society
+					 Newsletter</unittitle>
+				  <unitdate>1981</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">23/8</container>
+				  <unittitle>American Association of University Women
+					 Booklets</unittitle>
+				  <unitdate>1981-2000</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">23/9</container>
+				  <unittitle>"Notable Women of Montana," Stationary</unittitle>
+				  <unitdate>1984</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">23/10</container>
+				  <unittitle>Women’s History Network Directory and Montana
+					 Community for the Humanities Newsletter</unittitle>
+				  <unitdate>1984-1985</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">23/11</container>
+				  <unittitle>"Women’s History Network News," and "History Today" 
+					 <unitdate>1985</unitdate></unittitle>
+				</did>
+			 </c03>
+		  </c02>
+		  <c02 level="subseries">
+			 <did>
+				<unitid encodinganalog="099">Subseries 6</unitid>
+				<unittitle encodinganalog="245$a">Photographs</unittitle>
+				<unitdate encodinganalog="245$f" era="ce" calendar="gregorian"
+				normal="1892/1914">1892-1914</unitdate>
+				<physdesc><extent encodinganalog="300$a">0.1 linear feet</extent>
+				</physdesc>
+			 </did>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">23/12</container>
+				  <unittitle>Photos of Women and Families from Various Archives,
+					 1892, 1897</unittitle>
+				  <unitdate>1905</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">23/13</container>
+				  <unittitle>Photos of Women and Families from the collection of
+					 the University of Montana Archives</unittitle>
+				  <unitdate>1914</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">23/14</container>
+				  <unittitle>Photos of Women and Families</unittitle>
+				  <unitdate>1914</unitdate>
+				</did>
+			 </c03>
+			 <c03 level="file">
+				<did>
+				  <container type="box-folder">23/15</container>
+				  <unittitle>Historical Pictures</unittitle>
+				  <unitdate>undated</unitdate>
+				</did>
+			 </c03>
+		  </c02>
+		</c01>
+		<c01 level="series">
+		  <did>
+			 <unitid encodinganalog="099">Series VIII</unitid>
+			 <unittitle encodinganalog="245$a">Newspaper Clippings </unittitle>
+			 <unitdate encodinganalog="245$f" era="ce"
+			 calendar="gregorian" normal="1970/1995">1970-1995</unitdate>
+			 <physdesc><extent encodinganalog="300$a">0.4 linear feet</extent>
+			 </physdesc>
+		  </did>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">24/1</container>
+				<unittitle>Newspaper Clippings</unittitle>
+				<unitdate>1970-1995</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">24/2</container>
+				<unittitle>Newspaper Clippings</unittitle>
+				<unitdate>1970-1995</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">24/3</container>
+				<unittitle>Newspaper Clippings</unittitle>
+				<unitdate>1970-1995</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">24/4</container>
+				<unittitle>Newspaper Clippings</unittitle>
+				<unitdate>1970-1995</unitdate>
+			 </did>
+		  </c02>
+		  <c02 level="file">
+			 <did>
+				<container type="box-folder">24/5</container>
+				<unittitle>Veterans Preference Special Session</unittitle>
+				<unitdate>Dec 1983</unitdate>
+			 </did>
+		  </c02>
+		</c01>
+	 </dsc>
+  </archdesc></ead>

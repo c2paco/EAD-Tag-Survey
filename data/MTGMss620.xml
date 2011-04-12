@@ -1,0 +1,1485 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2.0)//EN" "/ead/ead.dtd">
+
+<ead>
+<!--The following section is header information for web display of the finding aid-->
+  <eadheader langencoding="iso639-2b"
+	scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+	countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" encodinganalog="identifier" mainagencycode="mtg"
+	  identifier="80444/xv89621"
+	  url="http://nwda-db.wsulibs.wsu.edu/findaid/ark:/80444/xv89621">MTGMss620.xml</eadid>
+	 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Guide to the National Smokejumper
+			 Association Records 
+			 <date normal="1919/2010">1919-2010</date></titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">National Smokejumper
+			 Association Records</titleproper> 
+		  <author encodinganalog="creator">Finding aid prepared by Jennifer
+			 Tuleja</author> 
+		</titlestmt> 
+		<publicationstmt> <!--To link to your logo, click on the diamond in the <extptr> tag below and enter the full
+URL of the digital logo file in the HREF attribute.-->
+		  <publisher encodinganalog="publisher">Maureen and Mike Mansfield
+			 Library, The University of Montana--Missoula<extptr actuate="onload"
+			 show="embed" href="http://www.lib.umt.edu/images/Lib_logo.gif"/></publisher> 
+		  <date encodinganalog="date" normal="2005">© 2005</date> 
+		  <address> 
+			 <addressline>Missoula, MT 59812</addressline> 
+			 <addressline>406-243-2053</addressline> 
+			 <addressline>http://www.lib.umt.edu/dept/arch/arch.htm</addressline> 
+			 <addressline>library.archives@umontana.edu</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded by Jennifer Tuleja 
+		  <date normal="2006">2006</date></creation> 
+		<langusage>Finding aid written in
+		  <language langcode="eng" encodinganalog="language"
+			scriptcode="latn">English.</language></langusage> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"
+	encodinganalog="351$c"> 
+	 <did id="a1"> 
+		<repository> 
+		  <corpname encodinganalog="852$a">University of Montana--Missoula
+			 <subarea encodinganalog="852$b">Maureen and Mike Mansfield Library</subarea>
+			 <subarea encodinganalog="852$b">K. Ross Toole Archives</subarea></corpname> 
+		  <address> 
+			 <addressline>The University of Montana--Missoula </addressline> 
+			 <addressline>Missoula, MT 59812</addressline> 
+			 <addressline>406-243-2053</addressline> 
+			 <addressline>http://www.lib.umt.edu/dept/arch/arch.htm</addressline> 
+			 <addressline>library.archives@umontana.edu</addressline> 
+		  </address> </repository> 
+		<unitid encodinganalog="099" countrycode="us" repositorycode="mtg">Mss
+		  620</unitid> 
+		<origination> 
+		  <corpname source="lcnaf" rules="aacr2" encodinganalog="110">National
+			 Smokejumper Association</corpname> </origination> 
+		<unittitle encodinganalog="245$a" type="collection">National Smokejumper
+		  Association Records </unittitle> 
+		<unitdate type="inclusive" encodinganalog="245$f"
+		 normal="1919/2010">1919-2010</unitdate> 
+		<physdesc> <extent encodinganalog="300$a">3.20 linear feet</extent>
+		</physdesc>
+		<abstract encodinganalog="5203_">The collection contains reports,
+		  correspondence, interviews, personal papers, photographs, films, and
+		  publications related to the development and history of aerial fire management.
+		  The collection primarily includes papers and publications created by the
+		  National Smokejumper Association as well as the papers of individual
+		  smokejumpers and a collection of papers of the U.S. Forest Service documenting
+		  the early development of aerial fire management.</abstract> 
+		<langmaterial>Material is in <language encodinganalog="546"
+		langcode="eng">English</language></langmaterial> 
+	 </did> 
+<!--To link to an image from the collection, use the following <daogrp>, <daodesc> and <daoloc>
+elements. In <daodesc>, enter caption info inside <p> tags. In the <daoloc> "href" attribute,  enter the 
+URL of the digital image. To link to a logo, use <extptr> or <extref> inside <publisher>in <eadheader> instead. -->
+	 <daogrp> 
+		<daoloc href=""> 
+		</daoloc> 
+	 </daogrp> 
+	 <bioghist encodinganalog="545" id="a2"> <!--Use encodinganalog 5450_ for biog. or 5451_ for historical note, or use a <head> element-->
+		<head>Historical Note</head> 
+		<p>The National Smokejumper Association (NSA) is an organization which
+		  preserves and shares the history of aerial fire management and provides a forum
+		  for those associated with wildland firefighting. The NSA maintains a roster of
+		  current and former smokejumpers and actively collects the history of
+		  individuals and organizations associated with the history of smoke jumping and
+		  aerial fire management. The National Smokejumper Association exists as of 2005.
+		  </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520" id="a3"> 
+		<p>The collection contains reports, correspondence, rosters, personal
+		  papers, oral histories, photographs, and films documenting the history of
+		  aerial fire management. The majority of the material in the collection was
+		  created by the association itself, by former smokejumpers or by the U.S. Forest
+		  Service. The collection includes materials regarding the development of
+		  parachute jumping during the F Studies – Aerial Control Parachute Jumping
+		  experiments of the late 1930s and early 1940s by the U.S. Forest Service. The
+		  collection also contains fire reports from various years including the
+		  investigation report regarding Mann Gulch, Montana (1949) as well as
+		  newsletters and magazines published by the National Smokejumper Association and
+		  contains numerous other magazine articles related to the development and
+		  history of smoke jumping and aerial fire management. The collection contains
+		  personal papers of individual smokejumpers including those of Bob Brennan, a
+		  smokejumper trained at Nine Mile Base (Montana) in 1941. This collection
+		  documents the importance of smoke jumping and provides personal accounts as
+		  well as early government information about exploration and development of wild
+		  land firefighting.</p> 
+		<p>Series I, the National Smokejumper Association Records, primarily
+		  contains copies of the organization’s newsletter, 
+		<title>Static Line</title>Static Line, and their magazine, 
+		<title>Smokejumper Quarterly</title>. It also includes a report of the
+		Long Range Plan of the organization written in 2002 as well as reunion lists
+		and copies of email correspondence about the organization.</p> 
+		<p>Series II, History of Smoke jumping, comprises the bulk of the
+		  collection and is arranged chronologically within five subseries with the
+		  exception of Subseries 2: Personal Narratives, which is arranged alphabetically
+		  by individual, subject or organization. Subseries 1: Reports, Handbooks, and
+		  Manuals, is a chronological sequence of materials documenting a range of topics
+		  related to aerial fire management. Materials include fire reports, specifically
+		  a copy of the investigation of the Mann Gulch fire (1949) and the fire
+		  investigation report of the South Canyon Fire on Storm King Mountain (1994).
+		  Subseries 1 also includes safety manuals, the annual reports of Siskiyou
+		  Smokejumper base (1971 – 1980), a draft copy of a smokejumper study of Region 6
+		  (1984), and trail maintenance reports. Subseries 2: Personal Narratives, is
+		  arranged alphabetically by last name or by organization and contains
+		  publications of rosters arranged chronologically, first-hand accounts,
+		  interviews and oral histories of the experiences of individual smoke jumpers as
+		  well as published narratives of individuals of specific regional smoke jumping
+		  stations including Cave Junction, Oregon (1944 – 50) and Region 4 (1940s) as
+		  well as narratives and copies of photographs of Civilian Public Service Fliers
+		  (1940s). Materials also include newspaper clippings, articles, obituaries, and
+		  photographs submitted by smokejumpers including a scrapbook of photographs of
+		  the Storm King Fire line (2000). Subseries 3: U.S. Forest Service Papers,
+		  documents the F Studies Aerial Fire Management Control Project (1940s)
+		  including papers related to the Civilian Public Service program and the
+		  technical developments of parachute jumping. Materials include memos, invoices,
+		  reports, correspondence and publications. Subseries 4: General Histories,
+		  contains overviews and timelines of major benchmarks in the history of smoke
+		  jumping. Items include booklets, chronologies, a conference paper and general
+		  histories of several regional smoke jumping stations including the North
+		  Cascades Smokejumper Base, the California Smokejumpers and the Siskiyou
+		  smokejumper base. Subseries 5: Articles/Clippings, includes published magazine
+		  and newspaper articles related to a broad range of topics about aerial fire
+		  management including several issues of 
+		<title>National Geographic</title>National Geographic ranging from 1950s
+		– 1980s. Subseries 6: Memorabilia, primarily contains copies of books and movie
+		posters (1930s – 1950s) related to fire fighting including books for
+		children.</p> 
+		<p>Series III contains the Papers of Bob Brennan, a smokejumper trained
+		  at Nine Mile Base in Montana. Materials include diaries, jump logs, and
+		  photographs of his experiences in 1941 stationed at Moose Creek Airport/Guard
+		  station as well as an audio tape recording of an oral history interview from
+		  later in life.</p> 
+		<p>Series IV is arranged chronologically by the content of the material
+		  and contains film reels, video cassettes and photographs on CD. Materials
+		  include a 12 tape series entitled Wilderness Survival as well as a film reel of
+		  the Smithsonian project about Smokejumpers from the 1940s and a copy of the
+		  Wilderness Warrior video. The series also includes computer cassettes and
+		  photos on CD of the North Cascades Smokejumper Base as well as a film reel of
+		  William Moody’s jump during an exchange with Russia (1976).</p> 
+	 </scopecontent> <?xm-replace_text {p}?>
+	 <arrangement encodinganalog="351" id="a4"> 
+		<p>This collection has been divided into five series:</p> 
+		<p>Series I: National Smokejumper Association Records, 1978, 1993 – 2010,
+		  0.75 linear feet</p> 
+		<p>Subseries 1: Reports/Memos, 1993, 2002, 0.05 linear feet</p> 
+		<p>Subseries 2: Correspondence, 1999-2003, 0.05 linear feet</p> 
+		<p>Subseries 3: Reunions, 1978, 2004-2010, 0.05 linear feet</p> 
+		<p>Subseries 4: Publications, 1997-2010, 0.5 linear feet</p> 
+		<p>Series II: History of Smoke Jumping, 1910-2009, 1.75 linear feet </p> 
+		<p>Subseries 1: Reports/Handbooks/Manuals, 1940-1994, 0.4 linear feet</p>
+		
+		<p>Subseries 2: Personal Narratives, 1910-2009, 0.5 linear feet</p> 
+		<p>Subseries 3: U.S. Forest Service, 1939-1999, 0.3 linear feet</p> 
+		<p>Subseries 4: General Histories, 1940-1998, 0.15 linear feet</p> 
+		<p>Subseries 5: Articles/Clippings, 1919-2005, 0.3 linear feet</p> 
+		<p>Subseries 6: Memorabilia, 1930-1950, 0.1 linear feet</p> 
+		<p>Series III: Personal Papers of Smokejumpers, 1938–1942, [1995], 0.2
+		  linear feet</p> 
+		<p>Subseries 1: Papers of Bob Brennan, 1938–1942, [1995], 0.2 linear
+		  feet</p> 
+		<p>Series IV: Audiovisual, 1939–1940, 1976, 2004, 0.8 linear feet</p> 
+	 </arrangement> 
+	 <accessrestrict encodinganalog="506" id="a14"> 
+		<p>Researchers must use collection in accordance with the policies of the
+		  K. Ross Toole Archives, the Maureen and Mike Mansfield Library, and The
+		  University of Montana--Missoula. </p> 
+	 </accessrestrict> 
+	 <userestrict encodinganalog="540" id="a15"> 
+		<p>Researchers are responsible for using in accordance with 17 U.S.C. and
+		  any other applicable statutes. Copyright of some materials transferred to The
+		  University of Montana -- Missoula.</p> 
+	 </userestrict> 
+	 <prefercite encodinganalog="524" id="a18"> 
+		<p>[Name of document or photograph number], National Smokejumper
+		  Association Records, K. Ross Toole Archives, Maureen and Mike Mansfield
+		  Library, The University of Montana--Missoula.</p> 
+	 </prefercite> 
+	 <custodhist encodinganalog="561" id="a16"> 
+		<p>Prior to the records coming to the Archives, the collection had been
+		  in the possession of the National Smokejumper Association.</p> 
+	 </custodhist> 
+	 <acqinfo encodinganalog="541" id="a19"> 
+		<p>Gift of National Smokejumper Association Board in 2003.</p> 
+	 </acqinfo> 
+	 <accruals encodinganalog="584" id="a10"> 
+		<p>Additions to the collection are ongoing and will be added by the
+		  organization and individual donors.</p> 
+	 </accruals> 
+	 <relatedmaterial encodinganalog="5441_" id="a6"> 
+		<p>Two oral history collections held at the K. Ross Toole Archives and
+		  Special Collections contain several oral history interviews with smokejumpers:
+		  OH 133, Smokejumper Oral History Project, and OH 163, Civilian Public Service
+		  Smokejumpers Oral History Project .</p> 
+	 </relatedmaterial> 
+	 <controlaccess id="a12"> 
+		<p>This collection is indexed under the following headings in the online
+		  catalog. Researchers desiring materials about related topics, persons, or
+		  places should search the catalog using these headings.</p> 
+		<controlaccess> 
+		  <corpname role="subject" encodinganalog="610" source="lcnaf"> United
+			 States. Forest Service</corpname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <subject encodinganalog="650" source="lcsh">Aeronautics in forest fire
+			 control--United States--History</subject> 
+		  <subject encodinganalog="650" source="lcsh">Mann Gulch Fire, Mont.,
+			 1949</subject> 
+		  <subject encodinganalog="650" source="lcsh">Parachuting--United
+			 States--History</subject> 
+		  <subject encodinganalog="650" source="lcsh">Smokejumpers--United
+			 States</subject> 
+		  <subject encodinganalog="650" source="lcsh">Smokejumping--United
+			 States--History</subject> 
+		</controlaccess> 
+		<controlaccess> 
+		  <subject source="nwda" altrender="nodisplay"
+			encodinganalog="690">Forestry and Forestry Products</subject> 
+		  <subject source="nwda" altrender="nodisplay"
+			encodinganalog="690">Montana</subject> 
+		  <subject source="nwda" altrender="nodisplay"
+			encodinganalog="690">Technology</subject> 
+		  <subject source="nwda" altrender="nodisplay"
+			encodinganalog="690">Oregon</subject> 
+		  <subject source="nwda" altrender="nodisplay"
+			encodinganalog="690">Washington (State)</subject> 
+		</controlaccess> 
+	 </controlaccess> 
+	 <dsc type="combined" id="a23"> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid encodinganalog="099">Series I</unitid> 
+			 <unittitle encodinganalog="245$a">National Smokejumper Association
+				Records</unittitle> 
+			 <unitdate normal="1978">1978</unitdate> 
+			 <unitdate normal="1993/2009">1993-2010</unitdate> 
+			 <physdesc><extent>0.75 linear feet</extent>
+			 </physdesc>
+		  </did> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unitid encodinganalog="099">Subseries 1</unitid> 
+				<unittitle encodinganalog="245$a">Reports and Memos</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f"
+				 normal="1993">1993</unitdate> 
+				<unitdate normal="2002">2002</unitdate> 
+				<physdesc><extent>0.05 linear feet</extent>
+				</physdesc>
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/1</container> 
+				  <unittitle>Memos and Clippings</unittitle> 
+				  <unitdate>1993</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/2</container> 
+				  <unittitle>Stategic Plan</unittitle> 
+				  <unitdate>2002</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unitid encodinganalog="099">Subseries 2</unitid> 
+				<unittitle encodinganalog="245$a">Correspondence</unittitle> 
+				<unitdate encodinganalog="245$f" era="ce" calendar="gregorian"
+				 normal="1999/2003">1999-2003</unitdate> 
+				<physdesc><extent>0.05 linear feet</extent>
+				</physdesc>
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/3</container> 
+				  <unittitle encodinganalog="245$a">Smokejumper History
+					 Project</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">1999-2003</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unitid encodinganalog="099">Subseries 3</unitid> 
+				<unittitle encodinganalog="245$a">Reunions</unittitle> 
+				<unitdate encodinganalog="245$f" era="ce" calendar="gregorian"
+				 normal="1978">1978</unitdate> 
+				<unitdate normal="2004">2004-2010</unitdate> 
+				<physdesc><extent>0.05 linear feet</extent>
+				</physdesc>
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">1/4</container> 
+				  <unittitle encodinganalog="245$a">Reunions</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">1978</unitdate> 
+				  <unitdate>2004</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unitid encodinganalog="099">Subseries 4</unitid> 
+				<unittitle encodinganalog="245$a">Publications</unittitle> 
+				<unitdate encodinganalog="245$f" era="ce" calendar="gregorian"
+				 normal="1997/2005">1997-2010</unitdate> 
+				<physdesc><extent>0.5 linear feet</extent>
+				</physdesc>
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/1</container> 
+				  <unittitle encodinganalog="245$a">NSA Trail Maintenance
+					 Reports</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">2001-2005</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/2</container> 
+				  <unittitle encodinganalog="245$a"> 
+					 <title>SmokejumperQuarterly</title></unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">1999-2000</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/3</container> 
+				  <unittitle encodinganalog="245$a"> 
+					 <title>Smokejumper Quarterly</title></unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">2001</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/4</container> 
+				  <unittitle encodinganalog="245$a"> 
+					 <title>Smokejumper Quarterly</title></unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">2002</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/5</container> 
+				  <unittitle encodinganalog="245$a"> 
+					 <title>Smokejumper Quarterly</title></unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">2003</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/6</container> 
+				  <unittitle encodinganalog="245$a"> 
+					 <title>Smokejumper Quarterly</title></unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">2004</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/7</container> 
+				  <unittitle encodinganalog="245$a"> 
+					 <title>Smokejumper Quarterly</title></unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">2005</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/8</container> 
+				  <unittitle encodinganalog="245$a"> 
+					 <title>Smokejumper Quarterly</title></unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">2006</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/9</container> 
+				  <unittitle encodinganalog="245$a"> 
+					 <title>Smokejumper Quarterly</title></unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">2007</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/10</container> 
+				  <unittitle encodinganalog="245$a"> 
+					 <title>Smokejumper Quarterly</title></unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">2008</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/11</container> 
+				  <unittitle encodinganalog="245$a"> 
+					 <title>Smokejumper Quarterly</title></unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">2009</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/12</container> 
+				  <unittitle encodinganalog="245$a"> 
+					 <title>Smokejumper Quarterly</title></unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">2010</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">2/13</container> 
+				  <unittitle encodinganalog="245$a"> 
+					 <title>Static Line</title>Newsletter</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">1997-1998</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid encodinganalog="099">Series II</unitid> 
+			 <unittitle encodinganalog="245$a">History of Smokejumping</unittitle>
+			 
+			 <unitdate encodinganalog="245$f" era="ce"
+			  calendar="gregorian" normal="1910/2005">1910-2009</unitdate> 
+			 <physdesc><extent encodinganalog="300$a">1.75 linear feet</extent>
+			 </physdesc>
+		  </did> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unitid encodinganalog="099">Subseries 1</unitid> 
+				<unittitle
+				 encodinganalog="245$a">Reports/Handbooks/Manuals</unittitle> 
+				<unitdate encodinganalog="245$f" era="ce" calendar="gregorian"
+				 normal="1940/2004">1940-2004</unitdate> 
+				<physdesc><extent encodinganalog="300$a">0.4 linear feet</extent>
+				</physdesc>
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/1</container> 
+				  <unittitle encodinganalog="245$a">Aerial Fire Control Project
+					 Region One</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">1940</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/2</container> 
+				  <unittitle encodinganalog="245$a">District #9 – Forest
+					 Patrol</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">1941</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/3</container> 
+				  <unittitle encodinganalog="245$a">Smokejumper Project – Region
+					 Six</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">1943</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/4</container> 
+				  <unittitle encodinganalog="245$a">Civil Air
+					 Regulations</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">1945</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/5</container> 
+				  <unittitle encodinganalog="245$a">Report of the Board of Review,
+					 Mann Gulch Fire</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">1949</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/6</container> 
+				  <unittitle encodinganalog="245$a">Higgins Ridge Fire, Nez Perce
+					 National Forest</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">1961</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/7</container> 
+				  <unittitle encodinganalog="245$a">Training Manual
+					 Firefighting</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">1962</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/8</container> 
+				  <unittitle encodinganalog="245$a">Annual Reports - Siskiyou
+					 Smokejumper Base</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">1971-1980</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/9</container> 
+				  <unittitle encodinganalog="245$a">U.S. – U.S.S.R. Exchange,
+					 Technical Report Smoke Jumping/Repel</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">1976</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/10</container> 
+				  <unittitle encodinganalog="245$a">LOBE Parachute/EAGLE Parachute,
+					 Papers by David Gold, SAFE Symposium</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">1981-1982</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/11</container> 
+				  <unittitle encodinganalog="245$a">Smokejumper Study, Region
+					 Six</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">1984</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/12</container> 
+				  <unittitle encodinganalog="245$a">Mann Gulch Fire That Couldn’t
+					 Be Won</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">1993</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/13</container> 
+				  <unittitle encodinganalog="245$a">Report of South Canyon Fire
+					 Investigation</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">1994</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">3/14</container> 
+				  <unittitle encodinganalog="245$a">Fire Behavior Associated with
+					 1994 South Canyon Fire – Storm King Mountain, Colorado</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">1998</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unitid encodinganalog="099">Subseries 2</unitid> 
+				<unittitle encodinganalog="245$a">Personal Narratives</unittitle> 
+				<unitdate encodinganalog="245$f" era="ce" calendar="gregorian"
+				 normal="1910/2003">1910-2009</unitdate> 
+				<physdesc><extent encodinganalog="300$a">0.05 linear feet</extent>
+				</physdesc>
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/1</container> 
+				  <unittitle encodinganalog="245$a">Roster of Forest Service
+					 Jumpers</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">1940</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/2</container> 
+				  <unittitle encodinganalog="245$a">Roster of Retired
+					 Smokejumpers</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">1945-1981</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/3</container> 
+				  <unittitle encodinganalog="245$a">Who’s Who in Region 4
+					 Smokejumping</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">1943-1997</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/4</container> 
+				  <unittitle encodinganalog="245$a">Static Lines and Canopies,
+					 Stories from Smokejumpers, Civilian Public Service Camp</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">1943-1945</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/5</container> 
+				  <unittitle encodinganalog="245$a">Civilian Public Service
+					 Smokejumpers, Volume I</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">1943-1946</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/6</container> 
+				  <unittitle encodinganalog="245$a">Civilian Public Service
+					 Smokejumpers, Volume II</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">1943-1946</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/7</container> 
+				  <unittitle encodinganalog="245$a">Civilian Public Service
+					 Smokejumpers, Volume III</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">1943-1946</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/8</container> 
+				  <unittitle encodinganalog="245$a">Personal Narratives</unittitle>
+				  
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">1940-1979</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/9</container> 
+				  <unittitle encodinganalog="245$a">Personal Narratives,
+					 Unidentified Account</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/10</container> 
+				  <unittitle encodinganalog="245$a">Interview with Jim "Smokey"
+					 Alexander</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">193-</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/11</container> 
+				  <unittitle encodinganalog="245$a">H.P. Barringer, Forest
+					 Ranger</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">1910</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/12</container> 
+				  <unittitle encodinganalog="245$a">Mike Burke, Funeral Service
+					 Program and Photos</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/13</container> 
+				  <unittitle encodinganalog="245$a">Ira Burton,
+					 Obituary</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">2003</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/14</container> 
+				  <unittitle encodinganalog="245$a">Gunter Dambro, Scrapbook of
+					 Photographs, Storm King Fire Line</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">2000</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/15</container> 
+				  <unittitle encodinganalog="245$a">Jerry Dixon, DVD – Ten Seconds
+					 Over Birch Hill</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">1976-2009</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/16</container> 
+				  <unittitle encodinganalog="245$a">Carroll Gambrell,
+					 Letter</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">1994</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/17</container> 
+				  <unittitle encodinganalog="245$a">Smokejumper Oral History
+					 Project, Max Glaves, Interview</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">1984</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/18</container> 
+				  <unittitle encodinganalog="245$a">Search for K. Reed Harrison,
+					 his wife Judy and daughter Julie</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">1993</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/19</container> 
+				  <unittitle encodinganalog="245$a">Brian C. Hicks, MSO</unittitle>
+				  
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">1995</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/20</container> 
+				  <unittitle encodinganalog="245$a">Smokejumper Oral History
+					 Project, Bruce Jackson, Interview</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">1984</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/21</container> 
+				  <unittitle encodinganalog="245$a">Smokejumper Oral History
+					 Project, Sherill King, Interview</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">1985</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/22</container> 
+				  <unittitle encodinganalog="245$a">John Lewis,
+					 Photographs</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/23</container> 
+				  <unittitle encodinganalog="245$a">David Liston,
+					 Obituary</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">199-</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/24</container> 
+				  <unittitle encodinganalog="245$a">Lester Lycklama,
+					 Smokejumper</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">1946</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/25</container> 
+				  <unittitle encodinganalog="245$a">Jack F. Matthews, Biographical
+					 Information and Clippings</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/26</container> 
+				  <unittitle encodinganalog="245$a">H. Roger McPike, Inventory of
+					 Slides Taken 1953 – 1956 Region IV</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/27</container> 
+				  <unittitle encodinganalog="245$a">Smokejumper Oral History
+					 Project, Charles Nyquist, Interview</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">1984</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/28</container> 
+				  <unittitle encodinganalog="245$a">Smokejumper Oral History
+					 Project, Diane Pryce, Interview</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">1984</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/29</container> 
+				  <unittitle encodinganalog="245$a">Bob Reid, Firsthand Account,
+					 MSO 57</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/30</container> 
+				  <unittitle encodinganalog="245$a">Carroll Rieck,
+					 Reflections</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/31</container> 
+				  <unittitle encodinganalog="245$a">Hank Shank, MSO 47</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/32</container> 
+				  <unittitle encodinganalog="245$a">George K. Sisler, Congressional
+					 Medal of Honor</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/33</container> 
+				  <unittitle encodinganalog="245$a">Kenneth Roy Smith, Smokejumper
+					 1955, Obituary</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/34</container> 
+				  <unittitle encodinganalog="245$a">Willi Unseold, Biography and
+					 Photos</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+					calendar="Gregorian">undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">4/35</container> 
+				  <unittitle encodinganalog="245$a"> Ed Summerfield, photos of him
+					 in smokejumper's gear</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+				  calendar="Gregorian">1950</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/1</container> 
+				  <unittitle encodinganalog="245$a">Astronauts, Information
+					 Summary, NASA</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+				  calendar="Gregorian">1997</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/2</container> 
+				  <unittitle encodinganalog="245$a">Pilots, 1940s</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+				  calendar="Gregorian">1970-1989</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/3</container> 
+				  <unittitle encodinganalog="245$a">Public Civil Service,
+					 Photographs</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+				  calendar="Gregorian">1940-1949</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/4</container> 
+				  <unittitle encodinganalog="245$a">Region Four</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+				  calendar="Gregorian">1940-1949</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/5</container> 
+				  <unittitle encodinganalog="245$a">Unit at Cave Junction,
+					 Photographs and Narrative</unittitle> 
+				  <unitdate encodinganalog="245$f" era="ce"
+				  calendar="Gregorian">1949-1950</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unitid encodinganalog="099" label="subseries">Subseries 3</unitid>
+				
+				<unittitle encodinganalog="245$a">United States Forest
+				  Service</unittitle> 
+				<unitdate encodinganalog="245$f" era="ce" calendar="gregorian"
+				normal="1939/1999">1939-1999</unitdate> 
+				<physdesc><extent encodinganalog="300$a">0.3 linear feet</extent>
+				</physdesc>
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/6</container> 
+				  <unittitle>U.S. Forest Service and Bureau of Land Management
+					 Smokejumpers</unittitle> 
+				  <unitdate>undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/7</container> 
+				  <unittitle>Forest Fire Fundamentals Booklet</unittitle> 
+				  <unitdate>undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/8</container> 
+				  <unittitle>Inventory of Photographs</unittitle> 
+				  <unitdate>1939</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/9</container> 
+				  <unittitle>Report on Parachute Jumping Experiment, Aerial Fire
+					 Control</unittitle> 
+				  <unitdate>1939</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/10</container> 
+				  <unittitle>Aerial Delivery of Supplies</unittitle> 
+				  <unitdate>1939</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/11</container> 
+				  <unittitle>History of Smokejumping</unittitle> 
+				  <unitdate>1939, 1939 – 1949</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/12</container> 
+				  <unittitle>F Studies Aerial Control, Memos and Correspondence
+					 </unittitle> 
+				  <unitdate> Jan 1940 – May 1940</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/13</container> 
+				  <unittitle>F Studies Aerial Control, Memos and
+					 Correspondence</unittitle> 
+				  <unitdate> June 1940 – Dec 1940</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/14</container> 
+				  <unittitle>F Studies Aerial Control, Memos and
+					 Reports</unittitle> 
+				  <unitdate>1942 – 1949</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/15</container> 
+				  <unittitle>Fire Control Handbook, Region 6, Part III
+					 Suppression</unittitle> 
+				  <unitdate>1949</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/16</container> 
+				  <unittitle>Air Operations Handbook</unittitle> 
+				  <unitdate>1952</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/17</container> 
+				  <unittitle>Specifications for Container for Smokejumper Backpack
+					 for Parachute Canopies</unittitle> 
+				  <unitdate>1957</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/18</container> 
+				  <unittitle>History of Smoke jumping, Region I</unittitle> 
+				  <unitdate>1959</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/19</container> 
+				  <unittitle>Narrative of the Smokejumpers</unittitle> 
+				  <unitdate>1965</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/20</container> 
+				  <unittitle>Press Release, Smokejumper Bases to be
+					 Studied</unittitle> 
+				  <unitdate>1984</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/21</container> 
+				  <unittitle>C-7 Field Evaluation </unittitle> 
+				  <unitdate>Apr – Oct 1994</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/22</container> 
+				  <unittitle>FS-14 Parachute Report </unittitle> 
+				  <unitdate> Apr 6,1995</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/23</container> 
+				  <unittitle>Escape Routes: An Anecdotal Evaluation</unittitle> 
+				  <unitdate>1995</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">5/24</container> 
+				  <unittitle>Aerial Delivered Fire Fighter Study 
+					 <unitdate>Oct 1999</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unitid encodinganalog="099">Subseries 4</unitid> 
+				<unittitle encodinganalog="245$a">General Histories</unittitle> 
+				<unitdate encodinganalog="245$f" era="ce" calendar="gregorian"
+				normal="1940/1998">1940-1998</unitdate> 
+				<physdesc><extent encodinganalog="300$a">0.15 linear feet</extent>
+				</physdesc>
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/1</container> 
+				  <unittitle>Paper by Bruce VanVoorhis</unittitle> 
+				  <unitdate>n.d.</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/2</container> 
+				  <unittitle>Outline History of Siskiyou Smokejumper
+					 Project</unittitle> 
+				  <unitdate>1943-1979</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/3</container> 
+				  <unittitle>Chronology of Aerial Fire Management, Ch.6 of Malcolm
+					 Edward Hardy’s Masters Thesis</unittitle> 
+				  <unitdate>1946</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/4</container> 
+				  <unittitle>History of Smoke Jumping by the Aviation Aerial
+					 Management Booklet</unittitle> 
+				  <unitdate>1980</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/5</container> 
+				  <unittitle>History of Smoke jumping</unittitle> 
+				  <unitdate>1980s</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/6</container> 
+				  <unittitle>The History of California Smokejumpers</unittitle> 
+				  <unitdate>1997</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/7</container> 
+				  <unittitle>History of the North Cascades Smokejumper Base by
+					 William Moody</unittitle> 
+				  <unitdate>1998</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unitid encodinganalog="099">Subseries 5</unitid> 
+				<unittitle encodinganalog="245$a">Articles/Clippings</unittitle> 
+				<unitdate encodinganalog="245$f" era="ce" calendar="gregorian"
+				normal="1919/2005">1919–2005</unitdate> 
+				<physdesc><extent encodinganalog="300$a">0.3 linear feet</extent>
+				</physdesc>
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/8</container> 
+				  <unittitle>Articles/Clippings</unittitle> 
+				  <unitdate>1919 – 1989</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/9</container> 
+				  <unittitle>Articles/Clippings</unittitle> 
+				  <unitdate>1940s</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/10</container> 
+				  <unittitle>Articles/Clippings</unittitle> 
+				  <unitdate>1950s</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/11</container> 
+				  <unittitle>Articles/Clippings</unittitle> 
+				  <unitdate>1960s</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/12</container> 
+				  <unittitle>Articles/Clippings</unittitle> 
+				  <unitdate>1970s</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/13</container> 
+				  <unittitle>Articles/Clippings</unittitle> 
+				  <unitdate>1980s</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/14</container> 
+				  <unittitle>Articles/Clippings</unittitle> 
+				  <unitdate>1990s</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/15</container> 
+				  <unittitle>Articles/Clippings</unittitle> 
+				  <unitdate>2000s</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/16</container> 
+				  <unittitle>Articles/Clippings</unittitle> 
+				  <unitdate>n.d.</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/17</container> 
+				  <unittitle>National Geographic</unittitle> 
+				  <unitdate> June 1950</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/18</container> 
+				  <unittitle>National Geographic</unittitle> 
+				  <unitdate>June 1952</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/19</container> 
+				  <unittitle>National Geographic</unittitle> 
+				  <unitdate>Sept 1956</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">6/20 </container> 
+				  <unittitle>Newspaper Clippings</unittitle> 
+				  <unitdate>1961</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/1</container> 
+				  <unittitle>National Geographic</unittitle> 
+				  <unitdate>July 1968</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/2</container> 
+				  <unittitle>National Geographic</unittitle> 
+				  <unitdate>Sept 1982</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/3</container> 
+				  <unittitle>National Geographic</unittitle> 
+				  <unitdate>Feb 1989</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">10/1</container> 
+				  <unittitle>Life Magazine Article on Mann Gulch</unittitle> 
+				  <unitdate>1949</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">10/2</container> 
+				  <unittitle>Seattle Times, Sunday Pictorial, Parachuting to Work,
+					 A Smokejumper in Action, Aug 14</unittitle> 
+				  <unitdate>1966</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unitid encodinganalog="099">Subseries 6</unitid> 
+				<unittitle encodinganalog="245$a">Memorabilia</unittitle> 
+				<unitdate encodinganalog="245$f" era="ce" calendar="gregorian"
+				normal="1930/1950">1930–1950</unitdate> 
+				<physdesc><extent encodinganalog="300$a">0.1 linear feet</extent>
+				</physdesc>
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/4</container> 
+				  <unittitle>Posters and Articles related to Smoke jumping and
+					 Firefighting</unittitle> 
+				  <unitdate>1930s-1940s</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/5</container> 
+				  <unittitle>Stories on Smoke jumping and Firefighting for
+					 Children</unittitle> 
+				  <unitdate>1940s-1950s</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid encodinganalog="099">Series III</unitid> 
+			 <unittitle encodinganalog="245$a">Personal Papers of
+				Smokejumpers</unittitle> 
+			 <unitdate encodinganalog="245$f" era="ce"
+			 calendar="gregorian" normal="1938/1995">1938-1942, [1995]</unitdate> 
+		  </did> 
+		  <c02 level="subseries"> 
+			 <did> 
+				<unitid encodinganalog="099">Subseries 1</unitid> 
+				<unittitle encodinganalog="245$a">Papers of Bob Brennan</unittitle>
+				
+				<unitdate encodinganalog="245$f" era="ce" calendar="Gregorian"
+				normal="1938/1995">1938-1942, [1995]</unitdate> 
+				<physdesc><extent encodinganalog="300$a">0.2 linear feet</extent>
+				</physdesc>
+			 </did> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/6</container> 
+				  <unittitle>Jump Log</unittitle> 
+				  <unitdate>1941</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/7</container> 
+				  <unittitle>Diaries</unittitle> 
+				  <unitdate>1938 – 1942</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/8</container> 
+				  <unittitle>Photos, Slides, and Inventory, Nine Mile Base,
+					 MT</unittitle> 
+				  <unitdate>1940s</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/9</container> 
+				  <unittitle>Oral History Cassette Tape</unittitle> 
+				  <unitdate>undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/10</container> 
+				  <unittitle>NSA Bumper Sticker and Membership Card</unittitle> 
+				  <unitdate>undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03 level="file"> 
+				<did> 
+				  <container type="box-folder">7/11</container> 
+				  <unittitle>Photograph Album</unittitle> 
+				  <unitdate>1940s</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid encodinganalog="099">Series IV</unitid> 
+			 <unittitle encodinganalog="245$a">Audiovisual</unittitle> 
+			 <unitdate encodinganalog="245$f" era="ce"
+			 calendar="gregorian" normal="1939/2004">1939–1940, 1976, 1998, 2004</unitdate> 
+			 <physdesc><extent encodinganalog="300$a">0.8 linear feet</extent>
+			 </physdesc>
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">8/1</container> 
+				<unittitle>Wilderness Survival Videotapes</unittitle> 
+				<unitdate>1998</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">9/1</container> 
+				<unittitle>Photos on CD, North Cascades Smokejumper Base Honored at
+				  Seattle Mariner Game</unittitle> 
+				<unitdate>Sept. 2004</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">9/2</container> 
+				<unittitle>Photos on CD, North Cascades Smokejumper Base and
+				  National Forest Service Archives</unittitle> 
+				<unitdate>undated</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">9/3</container> 
+				<unittitle>Wilderness Warriors Smokejumpers, ESPN (21 min version),
+				  1 Broadcast Videocassette</unittitle> 
+				<unitdate>1989</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">9/4</container> 
+				<unittitle>Forest Service Experimental Smokejumper Project,
+				  Intercity Airport, Winthrop, WA, Film by Ferd Haase</unittitle> 
+				<unitdate>1939 – 1940 Smokejumpers, 1 reel of film, and 1master DVD
+				  copy and 1 DVD use copy of the film created by Photo Magic Video Productions in
+				  2006</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">9/5</container> 
+				<unittitle>Computers Disks, unidentified</unittitle> 
+				<unitdate>undated</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box-folder">10/1</container> 
+				<unittitle>William Moody, U.S. – U.S.S.R. Exchange Jump, 1 reel of
+				  film</unittitle> 
+				<unitdate>1976, and 1 master DVD copy and 1 DVD use copy of the
+				  film created by Photo Magic Video Productions in 2006</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+  </archdesc>
+</ead>

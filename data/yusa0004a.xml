@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/ymcaweb.xsl"?>
+<ead audience="external"> 
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" relatedencoding="Dublin Core"> 
+	 <eadid mainagencycode="MnU" countrycode="us" publicid="-//University of Minnesota, Twin Cities::YMCA Archives//TEXT us::MnU::yusa0004a.xml::Armed Services Records//EN">yusa0004a</eadid>
+	 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="Title">YMCA ARMED SERVICES DEPARTMENT:
+			 </titleproper> 
+		  <subtitle>An Inventory of Its Records</subtitle> 
+		  <author encodinganalog="Contributor">Finding aid prepared by Lara D.
+			 Friedman~Shedlov.</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="Publisher">University of Minnesota
+			 Libraries</publisher> 
+		  <date encodinganalog="Date">2004</date> 
+		  <address> 
+			 <addressline>University of Minnesota Libraries</addressline> 
+			 <addressline>Minneapolis, MN 55455</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>EAD encoding by Lara D. Friedman~Shedlov, 
+		  <date>2004.</date> </creation> 
+		<langusage> <language encodinganalog="Language" langcode="eng">English</language> </langusage> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc type="inventory" level="collection" relatedencoding="MARC"> 
+	 <did id="a1"> 
+		<head>OVERVIEW OF THE COLLECTION</head> 
+		<repository label="Repository:" encodinganalog="852$a">University of
+		  Minnesota. <subarea>Kautz Family YMCA Archives.  [ymca]</subarea></repository> 
+		<origination label="Creator:"> 
+		  <corpname encodinganalog="110">National Board of the Young Men's
+			 Christian Associations. Armed Services Dept.</corpname> </origination> 
+		<unittitle label="Title:" encodinganalog="245$a">Armed Services
+		  records.</unittitle> 
+		<unitdate label="Date:" encodinganalog="245$f" type="inclusive" normal="YYYY/YYYY">1863-1987.</unitdate> 
+		<unitid label="Collection Number:" encodinganalog="099" countrycode="us" repositorycode="MnU">Y.USA.4</unitid> 
+		<abstract label="Abstract:">Historical data, correspondence, reports,
+		  memoranda, articles, newspapers, pamphlets, photographs, scrapbooks, and other
+		  records documenting the YMCA's work serving the armed forces community from the
+		  time of the Civil War through the present.</abstract> 
+		<physdesc label="Quantity:" encodinganalog="300"><extent>267 cu. ft. (485
+		  boxes).</extent></physdesc> 
+		<physloc label="Location:">See Detailed Description section for box
+		  listing.</physloc> <langmaterial><language>English</language></langmaterial> 
+	 </did> 
+	 <bioghist encodinganalog="545"> 
+		<head altrender="history" id="a2h">HISTORY OF YMCA ARMED SERVICES
+		  WORK</head> 
+		<p>Work by the YMCA on behalf of individuals serving in the armed forces
+		  began during the Civil War and has continued to the present day. What began as
+		  a war emergency service was later to become an integral and continuing part of
+		  the YMCA's total ministry.</p> 
+		<p>Established in London, the Young Men's Christian Association came into
+		  being in 1844 expressly for young men who were flocking to the city, whose home
+		  and religious ties had been broken by the Industrial Revolution, and whose way
+		  of living tended to be "careless and immoral" due to the fierce temptations of
+		  the modern city. In less than a decade, the YMCA had spread throughout England
+		  to the Continent, and in 1851, to Canada and the United States where it took
+		  root in widely distant cities. Providing services to the young men in the armed
+		  forces was a natural extension of the work already underway by the YMCA. </p> 
+		<p>The earliest YMCA work with the armed services was a small peacetime
+		  effort on board a naval training ship in Portsmouth, Virginia. Historian C.
+		  Howard Hopkins notes that in 1856 the YMCA's Portsmouth Association, with the
+		  government's endorsement, placed books in the ship's library and later received
+		  permission to hold meetings. Similar services were initiated by the Boston
+		  Association in 1859. </p> 
+		<p> The YMCA's broader volunteer service to the Armed Forces, however,
+		  dates from April 1861, when a handful of YMCA volunteers sought to assist
+		  soldiers and sailors. This initial group aided the soldiers in the encampments
+		  where they were stationed temporarily on their way to the front. Later, growing
+		  numbers of volunteers accompanied the soldiers to the battlefields. Starting
+		  with the small "army committee" set up by the New York Association to extend
+		  preaching services, individual religious visitation, and publications to
+		  soldiers stationed outside New York City, the work soon grew to a cooperative
+		  venture by 15 northern associations which formed the Christian Commission.
+		  Following its appointment in November, 1861, the Commission moved quickly to
+		  organize on a national scale. Its first meeting was held December 11 in
+		  Washington and included a conference with President Lincoln and the securing of
+		  endorsements form the Secretary of War and the Secretary of the Navy. During
+		  its four years of operation, the Commission recruited 5,000 volunteer
+		  "delegates" who served in every theater of the war. This was the nation's first
+		  large-scale civilian volunteer service corps. </p> 
+		<p>Relief agencies such as the Red Cross had not yet been created, and
+		  the military chaplaincy was in its infancy. Therefore, volunteers were
+		  recruited from many fields, serving as surgeons, nurses, chaplains and
+		  chaplains' assistants. Others distributed emergency medical supplies, food and
+		  clothing. They served on the battleground with horse-drawn canteens, built and
+		  operated special-diet kitchens in hospitals, brought books and prefabricated
+		  chapels to soldiers and sailors, taught enlisted men how to read and write,
+		  maintained a hotel for soldiers on furlough and provided free meals. YMCA
+		  prisoner-of-war work — undertaken on a massive scale later during World Wars I
+		  and II — began during the Civil War, when the U.S. Christian Commission
+		  ministered to Confederate soldiers in northern prisons and sent supplies to
+		  Union soldiers in Confederate prisons. Throughout the Civil War, the Commission
+		  distributed more than 100,000 cases of food, clothing and medical supplies, and
+		  12 million books, magazines and pamphlets. Its volunteer delegates wrote more
+		  than 90,000 letters for the sick and wounded, and distributed $1,000 a week in
+		  postage for the soldiers' use. To get supplies to the delegates, the Commission
+		  created 111 YMCA Army Committees as auxiliary units.</p> 
+		<p>In the three decades of peace following the Civil War, the YMCA
+		  movement continued its services to soldiers and sailors, generally in state
+		  militia camps. Through its Militia Camp Program, the YMCA established the
+		  nation's first recreational, sports and counseling services for military
+		  personnel. In 1889, the YMCA established its first permanent Army YMCA, Fort
+		  Monroe, Virginia.</p> 
+		<p> The YMCA's tradition of "following the flag" abroad began in the
+		  Spanish-American War, when YMCA volunteers were dispatched to Cuba, Puerto Rico
+		  and the Philippines. So quickly did the YMCA act that its supplies were in Cuba
+		  and the Philippines before those of the Army. Teddy Roosevelt's Rough Riders
+		  wrote their early dispatches on YMCA stationery, and troops in the Philippines
+		  used YMCA medical supplies.</p> 
+		<p>This work for soldiers and sailors was so highly regarded that the
+		  YMCA's central body, in 1898, established a permanent Army and Navy Committee,
+		  resulting in a rapidly expanding peacetime development. Within five months
+		  after the establishment of a permanent department to serve the Armed Forces,
+		  the YMCA began constructing large, well-equipped buildings to serve the
+		  military. The first was the Brooklyn, N.Y., Navy YMCA, opened in February 1899.
+		  Soon, YMCA Army and Navy buildings were around the world.</p> 
+		<p>In the years before World War I, the YMCA movement developed the type
+		  of building and mobile equipment later used during the conflict in Europe. When
+		  the United States entered the war in 1917, the YMCA had developed the know-how,
+		  skill and experience to launch a massive program of morale and welfare services
+		  for the military — both at home and overseas. Its services were offered to the
+		  government, and President Woodrow Wilson quickly accepted them. Never in
+		  history had an organization brought aid to so many men, over such wide
+		  geographic areas and under such adverse conditions, as did the YMCA during the
+		  first World War. According to Gen. John J. Pershing, the YMCA conducted 90
+		  percent of the welfare work among American Forces in Europe during the war.</p>
+		
+		<p>Several innovative projects created by the YMCA during WWI were
+		  destined to become institutionalized: 1) Overseas entertainment for the troops,
+		  which would be carried on by the United Services Organizations (USO), an
+		  organization which the YMCA would help create 20 years later. 2) Overseas
+		  "exchanges" for the convenience of the troops, which was continued by the
+		  services. 3) Educational scholarships for veterans, which would give rise to
+		  the GI Bill. 4) The concept of R &amp; R for battle-weary personnel, which
+		  would become routine in future conflicts.</p> 
+		<p>Following WWI, the YMCA was the only civilian organization with an
+		  extensive, nationwide peacetime program for serviceman. In these years, a large
+		  investment was made in Army and Navy buildings and equipment and an extension
+		  of services to meet the needs of military personnel.</p> 
+		<p>After the German invasion of Poland in 1939 and the subsequent
+		  build-up of America defense forces, the YMCA prepared for another national
+		  mobilization, coordinating its work with military leaders. To better manage a
+		  large volunteer effort, in February 1941 the YMCA joined five other national
+		  voluntary organizations — the YWCA, the National Catholic Community Service,
+		  the Jewish Welfare Board, the Salvation Army, and the National Travelers Aid
+		  Association — to create the United Service Organizations for National Defense,
+		  or USO.</p> 
+		<p>As the largest participating organization, the YMCA operated 25
+		  percent of the 464 agency-designated USO centers in the United States; and, at
+		  its war-time peak, directed a professional staff of 1,022 people, 30 percent of
+		  all USO personnel. The YMCA served members of the Armed Forces through both the
+		  USO centers and its network of community Associations in cities and towns
+		  nationwide.</p> 
+		<p>Following the disestablishment of the USO on Dec. 31, 1947, the YMCA's
+		  Army and Navy Department moved immediately to fill the ensuing gap in social
+		  services to the Armed Forces. In 1948, its name changed to the YMCA Armed
+		  Services Department to conform to the newly organized Defense Department. The
+		  YMCA Armed Services Department assumed responsibility for 26 branches operated
+		  by the USO. It established work overseas where it owned property and where
+		  needs were critical needs, including services on Guam and recreational programs
+		  in 19 port cities of the Mediterranean area for the Sixth Fleet.</p> 
+		<p>To meet the increased demands for support during the Korean War, the
+		  Associated Services reactivated the USO in January 1951. Once again, without
+		  interruption of programs, the YMCA became USO's major operating agency. This
+		  role continued through the Vietnam conflict and into the 1970s.</p> 
+		<p>In the mid-'70s, however, the YMCA's National Board of Directors
+		  determined that its work with the USO had been successfully completed and that
+		  it should resume delivering its unique direct services to the military within
+		  its own organization. The establishment of an all-volunteer Armed Forces after
+		  the Vietnam conflict brought new demands to organizations serving young
+		  military people. It was necessary to keep up with changing social patterns and
+		  expectations of young people. Also, the number of young families in the
+		  military was increasing and YMCA programs had to meet these new needs.</p> 
+		<p>Following the YMCA's decision to focus on direct services, the USO
+		  asked the YMCA to assume responsibility for 12 USO centers in the United
+		  States. The YMCA accepted the challenge and added these units to the Armed
+		  Services YMCA network on January 1, 1977.</p> 
+		<p>On January 1, 1984, following a two-year organizational review, the
+		  YMCA's Armed Services Department was reorganized as the Armed Services YMCA
+		  (ASYMCA) of the USA and chartered as a National Member Association of the
+		  National Council of YMCAs of the USA. The major philosophical reasoning behind
+		  this action was to shift direct programming activities from the National
+		  Headquarters to a local member association. This new organizational structure
+		  helped clarify its role and provided for greater flexibility in responding to
+		  the needs of military leaders. In 1986, the ASYMCA National Headquarters moved
+		  to the Washington, D.C., area to better access military leadership. The YMCA
+		  continues to serve the military community through its network of Armed Services
+		  YMCA branches and units, and through a number of community YMCAs conducting
+		  special programs for service members and military families. </p> 
+		<p>Historical information was quoted in large part from the Armed
+		  Services YMCA web site (http://www.asymca.org). Additional information was
+		  excerpted from <emph render="italic">Serving the U.S. Armed Forces, 1861-1986:
+		  The Story of the YMCA's Ministry to Military Personnel for 125 Years,</emph> by
+		  Richard C. Lancaster.</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head id="a3">SCOPE AND CONTENTS OF THE COLLECTION</head> 
+		<p>Historical data, correspondence, reports, memoranda, articles,
+		  newspapers, pamphlets, photographs, scrapbooks, and other records documenting
+		  the YMCA's work serving the armed forces community from the time of the Civil
+		  War through the present. The records are divided into five, separately
+		  described series. Records related to YMCA welfare work during each of three
+		  major armed conflicts of the nineteenth and twentieth centuries make up the
+		  bulk of the collection. These include the United States Christian
+		  Commission-related records representing the Civil War era, records from World
+		  War I work, and United Service Organization-related records, which cover the
+		  YMCAs role in founding and operating the USO during World War II. Records
+		  concerning YMCA involvement in other wars, including the Spanish American,
+		  Korean, and Vietnam wars, can be found in the general and administrative series
+		  which also includes historical and background data; financial records;
+		  conference, committee and personnel files; and other records of the Armed
+		  Services Department and its predecessor and related organizational units. Also
+		  included in the collection is a series of scrapbooks and photo albums,
+		  primarily dating from the time of World War I. </p> 
+	 </scopecontent> 
+	 <arrangement encodinganalog="351$a"> 
+		<head id="a4">ORGANIZATION/ARRANGEMENT OF THE RECORDS</head> 
+		<p>These documents are organized into the following separately cataloged
+		  series:</p> 
+		<list> 
+		  <item>General Administrative Records</item> 
+		  <item>United States Christian Commission-Related Records</item> 
+		  <item>World War I-Related Records</item> 
+		  <item>United Service Organization-Related Records</item> 
+		  <item>Scrapbooks and Photo Albums</item> 
+		</list> 
+	 </arrangement> <descgrp> 
+	 <head>ADMINISTRATIVE INFORMATION</head> 
+	 <userestrict encodinganalog="540"> 
+		<head>Use of Materials:</head> 
+		<p>This collection is protected by the Copyright Law of the United States
+		  (Title 17, U.S. Code). It is the user's responsibility to verify copyright,
+		  ownership, and to obtain all the necessary permissions prior to the
+		  reproduction, publication, or other use of any portion of these materials.</p> 
+	 </userestrict> 
+	 <prefercite> 
+		<head>Preferred Citation:</head> 
+		<p>Correct forms of citation are given for each series in the individual
+		  finding aids. </p> 
+		<p><emph render="italic">See the Chicago Manual of Style for additional
+		  examples.</emph></p> 
+	 </prefercite> 
+	 <processinfo> 
+		<head>Processing Information:</head> 
+		<p>Catalog Record ID number: 4342462</p> 
+	 </processinfo></descgrp> 
+	 <dsc type="combined"> 
+		<head id="a9"> DESCRIPTION OF THE COLLECTION SERIES</head> 
+		<p>Note to Researchers: Please see the separate inventories for the
+		  individual series listed below for more detailed information on the contents of
+		  each box.</p> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid>[Y.USA.4-4] </unitid> 
+			 <unittitle>General Administrative Records, </unittitle> 
+			 <unitdate type="inclusive">1863-1987. </unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Records documenting the administration of the YMCA's Army and Navy
+				Department, later known as the Armed Services Department, which worked to meet
+				the recreational, spiritual, educational, and other welfare needs of
+				individuals serving in or associated with the United States armed services.
+				Records date from the era of the Civil War through the late 1980s, particularly
+				during the period from the time of the first world war through the Korean war,
+				and include histories and other background information, correspondence,
+				reports, financial data, personnel records, and other material. 
+				<extref href="yusa0004x4.xml">&gt;&gt; Go to the complete inventory
+				  </extref></p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid>[Y.USA.4-3] </unitid> 
+			 <unittitle>United States Christian Commission-Related Records,
+				</unittitle> 
+			 <unitdate type="inclusive">1881-1976. </unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Published reports, facsimiles of commissions and correspondence,
+				publications, histories, and other background material on the United States
+				Christian Commission, documenting the earliest YMCA-sponsored work with the
+				armed services, which developed in response to the Civil War. 
+				<extref href="yusa0004x3.xml">&gt;&gt; Go to the complete inventory
+				  </extref></p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid>[Y.USA.4-1] </unitid> 
+			 <unittitle>World War I-Related Records, </unittitle> 
+			 <unitdate type="inclusive">1910-1970. </unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Minutes, correspondence, publicity bulletins, training manuals,
+				reports, newspapers, and other records of major YMCA administrative bodies
+				which provided services to the military forces in the United States and abroad
+				during World War I, including the National War Work Council and its
+				subcommittees; the United War Work Campaign, a joint campaign of seven American
+				welfare organizations, including the YMCA; the Army Educational Commission; and
+				the AEF YMCA. Subjects documented include educational initiatives,
+				transportation, work by women, and work in the area of physical fitness and
+				recreation, as well as a significant amount of material on the YMCA's prisoner
+				of war work. Also included this series are materials relating to the post-war
+				investigations of the YMCA's work and to the military build-up on the Mexican
+				border in 1916. 
+				<extref href="yusa0004x1.xml">&gt;&gt; Go to the complete inventory
+				  </extref></p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid>[Y.USA.4-2] </unitid> 
+			 <unittitle>United Service Organization-Related Records, </unittitle> 
+			 <unitdate type="inclusive">1932-1980. </unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Administrative files, club histories, and other records
+				documenting the YMCA's involvement with the USO, which was formed by the YMCA
+				and five other civilian agencies to provide religious, recreational, welfare,
+				and educational activities for men and women in the armed forces and in the
+				defense industries during World War II. Materials in this series include club
+				histories of both Army/Navy and industrial USOs, administrative files,
+				information on associated organizations, miscellaneous records of individual
+				USO clubs, and print materials, as well as publications and other material from
+				the five other organizations that comprised the USO, particularly the National
+				Jewish Welfare Board, the National Catholic Community Service and the Salvation
+				Army. 
+				<extref href="yusa0004x2.xml">&gt;&gt; Go to the complete inventory
+				  </extref></p> 
+		  </scopecontent> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unitid>[Y.USA.4-5] </unitid> 
+			 <unittitle>Scrapbooks and Photo Albums, </unittitle> 
+			 <unitdate type="inclusive">1863-1981. </unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p>The series of scrapbooks and photo albums provide a visual
+				overview of the work of the Army and Navy Department and the Armed Services
+				Department, especially during World War I. Subjects include the Armed
+				Expeditionary Forces in Koblenz, Germany, work in Russia, women workers, and
+				canteens. Also documented is Mexican Border work in the 1910s, as well as work
+				in prisoner and resettlement camps in Europe during the World War II era. Armed
+				services work in the Far East is represented by a series of photo albums from
+				the Chefoo, China Naval YMCA, dating from the 1920s-1930s. 
+				<extref href="yusa0004x5.xml">&gt;&gt; Go to the complete inventory
+				  </extref></p> 
+		  </scopecontent> 
+		</c01> 
+	 </dsc> 
+	 <relatedmaterial> 
+		<head id="a5">RELATED MATERIALS</head> 
+		<p>Photographs of armed services work are available in the Kautz Family
+		  YMCA Archives photograph collection.</p> 
+	 </relatedmaterial> 
+	 <otherfindaid> 
+		<head id="a6">OTHER FINDING AIDS</head> 
+		<p>This inventory contains a summary description of each of the series
+		  comprising the collection. Detailed narrative descriptions and box contents
+		  lists for each of the several major sections into which the records are divided
+		  are available as separate documents. </p> 
+	 </otherfindaid> 
+	 <controlaccess> 
+		<head id="a7">INDEX TERMS</head> 
+		<p>This collection is indexed under the following headings in the catalog
+		  of the University of Minnesota Libraries. Researchers desiring materials about
+		  related topics, persons or places should search the catalog using these
+		  headings.</p> 
+		<controlaccess> 
+		  <head>Topics:</head> 
+		  <subject encodinganalog="650">Korean War, 1950-1953 -- War work --
+			 Young Men's Christian Associations. </subject> 
+		  <subject encodinganalog="650">Prisoners of war. </subject> 
+		  <subject encodinganalog="650">Soldiers -- Recreation. </subject> 
+		  <subject encodinganalog="650">Spanish-American War, 1898 -- War work --
+			 Young Men's Christian Associations. </subject> 
+		  <subject encodinganalog="650">Vietnamese Conflict, 1961-1975 -- War
+			 work -- Young Men's Christian Associations. </subject> 
+		  <subject encodinganalog="650">World War, 1914-1918 -- War work -- Young
+			 Men's Christian Associations. </subject> 
+		  <subject encodinganalog="650">World War, 1939-1945 -- War work -- Young
+			 Men's Christian Associations. </subject> 
+		  <subject encodinganalog="650">Young Men's Christian Associations --
+			 Administration. </subject> 
+		  <subject encodinganalog="650">Young Men's Christian Associations --
+			 Buildings. </subject> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Places:</head> 
+		  <geogname encodinganalog="651">United States -- Armed Forces --
+			 Military life. </geogname> 
+		  <geogname encodinganalog="651">United States -- Armed Forces --
+			 Religious life. </geogname> 
+		  <geogname encodinganalog="651">United States -- Armed Forces -- Service
+			 clubs. </geogname> 
+		  <geogname encodinganalog="651">United States -- Armed Forces -- Songs
+			 and music. </geogname> 
+		  <geogname encodinganalog="651">United States -- History -- Civil War,
+			 1861-1865 -- War work -- Young Men's Christian Associations. </geogname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Organizations:</head> 
+		  <corpname encodinganalog="710">National Board of the Young Men's
+			 Christian Associations. Army and Navy Dept. </corpname> 
+		  <corpname encodinganalog="710">National War Work Council, Y.M.C.A. of
+			 the United States. </corpname> 
+		  <corpname encodinganalog="710">United Service Organizations (U.S.).
+			 </corpname> 
+		  <corpname encodinganalog="710">United States. Army. </corpname> 
+		  <corpname encodinganalog="710">United States. Navy. </corpname> 
+		  <corpname encodinganalog="710">United War Work Campaign, Inc.
+			 </corpname> 
+		  <corpname encodinganalog="710">Young Men's Christian Associations of
+			 North America. International Committee. Army and Navy Dept. </corpname> 
+		</controlaccess> 
+		<controlaccess encodinganalog="655"> 
+		  <head>Types of Documents:</head> 
+		  <genreform>Photographs. </genreform> 
+		  <genreform>Scrapbooks.</genreform> 
+		</controlaccess> 
+	 </controlaccess> 
+  </archdesc> 
+</ead>
