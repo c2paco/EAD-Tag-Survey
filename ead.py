@@ -23,6 +23,7 @@ class TagReport(object):
         the_data = f.read()
         f.close()
         self.count_eadid_countrycode(the_data)
+        self.count_unitid_countrycode(the_data)
         self.count_titlestmt_subtitle(the_data)
         self.count_titlepage_subtitle(the_data)
         self.count_titlestmt_author(the_data)
@@ -35,8 +36,11 @@ class TagReport(object):
         self.count_titlepage_publisher(the_data)
         self.count_publicationstmt_address(the_data)
         self.count_repository_address(the_data)
+        self.count_publicationstmt_date(the_data)
+        self.count_titleproper_date(the_data)
         self.record_comments(the_data)
         self.record_eadid_countrycode(the_data)
+        self.record_unitid_countrycode(the_data)
      
     def create_output_files(self):
         f = open('output/comments.txt', 'w')
@@ -46,6 +50,11 @@ class TagReport(object):
     def create_output_files(self):
         f = open('output/eadid_countrycode.txt', 'w')
         f.write('############## (EADID) COUNTRYCODE(S) FOUND ####################\n\n')
+        f.close()
+
+    def create_output_files(self):
+        f = open('output/unitid_countrycode.txt', 'w')
+        f.write('############## (UNITID) COUNTRYCODE(S) FOUND ####################\n\n')
         f.close() 
 
     
@@ -78,18 +87,32 @@ class TagReport(object):
         f.close()
         
     def record_eadid_countrycode(self, the_data):
-        results = re.findall(r'\<eadid.*?countrycode="(.*?)".*?\</eadid>', the_data, re.DOTALL)
+        results = re.findall(r'\<eadid.*?countrycode="(.*?)".*?', the_data, re.DOTALL)
         f = open('output/eadid_countrycode.txt', 'a')
         for item in results:
             f.write(item + '\n\n')
         f.close()    
     
+    def record_unitid_countrycode(self, the_data):
+        results = re.findall(r'\<unitid.*?countrycode="(.*?)".*?', the_data, re.DOTALL)
+        f = open('output/unitid_countrycode.txt', 'a')
+        for item in results:
+            f.write(item + '\n\n')
+        f.close()
+
     def count_eadid_countrycode(self, the_data):
         results = re.findall(r'\<eadid.*?countrycode=.*?\</eadid>', the_data, re.DOTALL)
         if 'eadid_countrycode' in self.tag_dict:
             self.tag_dict['eadid_countrycode'] = self.tag_dict['eadid_countrycode'] + len(results)
         else:
-            self.tag_dict['eadid_countrycode'] = len(results)            
+            self.tag_dict['eadid_countrycode'] = len(results)
+
+    def count_unitid_countrycode(self, the_data):
+        results = re.findall(r'\<unitid.*?countrycode=.*?\</unitid>', the_data, re.DOTALL)
+        if 'unitid_countrycode' in self.tag_dict:
+            self.tag_dict['unitid_countrycode'] = self.tag_dict['unitid_countrycode'] + len(results)
+        else:
+            self.tag_dict['unitid_countrycode'] = len(results)            
 
     def count_titlestmt_subtitle(self, the_data):
         results = re.findall(r'\<eadheader.*?\<titlestmt.*?\<subtitle.*?\>.*?\</eadheader.*?\>', the_data)
@@ -174,6 +197,20 @@ class TagReport(object):
             self.tag_dict['repository_address'] = self.tag_dict['repository_address'] + len(results)
         else:
             self.tag_dict['repository_address'] = len(results)
+
+    def count_publicationstmt_date(self, the_data):
+        results = re.findall(r'\<filedesc.*?\<publicationstmt.*?\<date.*?\>.*?\</filedesc.*?\>', the_data)
+        if 'publicationstmt_date' in self.tag_dict:
+            self.tag_dict['publicationstmt_date'] = self.tag_dict['publicationstmt_date'] + len(results)
+        else:
+            self.tag_dict['publicationstmt_date'] = len(results)
+
+    def count_titleproper_date(self, the_data):
+        results = re.findall(r'\<titlestmt.*?\<titleproper.*?\<date.*?\>.*?\</titlestmt\>', the_data)
+        if 'titleproper_date' in self.tag_dict:
+            self.tag_dict['titleproper_date'] = self.tag_dict['titleproper_date'] + len(results)
+        else:
+            self.tag_dict['titleproper_date'] = len(results)
 
 
 
