@@ -38,9 +38,15 @@ class TagReport(object):
         self.count_repository_address(the_data)
         self.count_publicationstmt_date(the_data)
         self.count_titleproper_date(the_data)
+        self.count_creation_date(the_data)
+        self.count_titlestmt_subtitle_date(the_data)
+        self.count_frontmatter_date(the_data)
+        self.count_titleproper_date(the_data)
+        self.count_titlepage_subtitle_date(the_data)
         self.record_comments(the_data)
         self.record_eadid_countrycode(the_data)
         self.record_unitid_countrycode(the_data)
+        self.record_langcode(the_data)
      
     def create_output_files(self):
         f = open('output/comments.txt', 'w')
@@ -56,8 +62,12 @@ class TagReport(object):
         f = open('output/unitid_countrycode.txt', 'w')
         f.write('############## (UNITID) COUNTRYCODE(S) FOUND ####################\n\n')
         f.close() 
-
-    
+        
+    def create_output_files(self):
+        f = open('output/langcode.txt', 'w')
+        f.write('############## LANGCODE(S) FOUND ####################\n\n')
+        f.close()
+        
     def delete_and_create_output(self):
         try:
             shutil.rmtree('output')
@@ -99,13 +109,20 @@ class TagReport(object):
         for item in results:
             f.write(item + '\n\n')
         f.close()
+        
+    def record_langcode(self, the_data):
+        results = re.findall(r'\<eadheader.*?langcode="(.*?)".*?', the_data, re.DOTALL)
+        f = open('output/langcode.txt', 'a')
+        for item in results:
+            f.write(item + '\n\n')
+        f.close()
 
-    def count_eadid_countrycode(self, the_data):
-        results = re.findall(r'\<eadid.*?countrycode=.*?\</eadid>', the_data, re.DOTALL)
-        if 'eadid_countrycode' in self.tag_dict:
-            self.tag_dict['eadid_countrycode'] = self.tag_dict['eadid_countrycode'] + len(results)
-        else:
-            self.tag_dict['eadid_countrycode'] = len(results)
+    def record_archdesc(self, the_data):
+        results = re.findall(r'\<eadheader.*?archdesc="(.*?)".*?', the_data, re.DOTALL)
+        f = open('output/archdesc.txt', 'a')
+        for item in results:
+            f.write(item + '\n\n')
+        f.close()
 
     def count_unitid_countrycode(self, the_data):
         results = re.findall(r'\<unitid.*?countrycode=.*?\</unitid>', the_data, re.DOTALL)
@@ -113,6 +130,13 @@ class TagReport(object):
             self.tag_dict['unitid_countrycode'] = self.tag_dict['unitid_countrycode'] + len(results)
         else:
             self.tag_dict['unitid_countrycode'] = len(results)            
+
+    def count_eadid_countrycode(self, the_data):
+        results = re.findall(r'\<eadid.*?countrycode=.*?\</eadid>', the_data, re.DOTALL)
+        if 'unitid_countrycode' in self.tag_dict:
+            self.tag_dict['eadid_countrycode'] = self.tag_dict['eadid_countrycode'] + len(results)
+        else:
+            self.tag_dict['eadid_countrycode'] = len(results)
 
     def count_titlestmt_subtitle(self, the_data):
         results = re.findall(r'\<eadheader.*?\<titlestmt.*?\<subtitle.*?\>.*?\</eadheader.*?\>', the_data)
@@ -212,7 +236,42 @@ class TagReport(object):
         else:
             self.tag_dict['titleproper_date'] = len(results)
 
+    def count_creation_date(self, the_data):
+        results = re.findall(r'\<profiledesc.*?\<creation.*?\<date.*?\>.*?\</profiledesc\>', the_data)
+        if 'creation_date' in self.tag_dict:
+            self.tag_dict['creation_date'] = self.tag_dict['creation_date'] + len(results)
+        else:
+            self.tag_dict['creation_date'] = len(results)
+            
+    def count_titlestmt_subtitle_date(self, the_data):
+        results = re.findall(r'\<titlestmt.*?\<subtitle.*?\<date.*?\>.*?\</titlestmt\>', the_data)
+        if 'titlestmt_subtitle_date' in self.tag_dict:
+            self.tag_dict['titlestmt_subtitle_date'] = self.tag_dict['titlestmt_subtitle_date'] + len(results)
+        else:
+            self.tag_dict['titlestmt_subtitle_date'] = len(results)
 
+    def count_frontmatter_date(self, the_data):
+        results = re.findall(r'\<frontmatter.*?\<titlepage.*?\<date.*?\>.*?\</frontmatter\>', the_data)
+        if 'frontmatter_date' in self.tag_dict:
+            self.tag_dict['frontmatter_date'] = self.tag_dict['frontmatter_date'] + len(results)
+        else:
+            self.tag_dict['frontmatter_date'] = len(results)
+  
+    def count_titleproper_date(self, the_data):
+        results = re.findall(r'\<titlepage.*?\<titleproper.*?\<date.*?\>.*?\</titlepage\>', the_data)
+        if 'titleproper_date' in self.tag_dict:
+            self.tag_dict['titleproper_date'] = self.tag_dict['titleproper_date'] + len(results)
+        else:
+            self.tag_dict['titleproper_date'] = len(results)  
 
+    def count_titlepage_subtitle_date(self, the_data):
+        results = re.findall(r'\<titlepage.*?\<titleproper.*?\<date.*?\>.*?\</titlepage\>', the_data)
+        if 'titlepage_subtitle_date' in self.tag_dict:
+            self.tag_dict['titlepage_subtitle_date'] = self.tag_dict['titlepage_subtitle_date'] + len(results)
+        else:
+            self.tag_dict['titlepage_subtitle_date'] = len(results)
+            
+            
+            
 if __name__=='__main__':
    main()
