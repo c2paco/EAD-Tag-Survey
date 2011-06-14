@@ -3,7 +3,7 @@ import unittest
 
 from ead import TagReport
 
-class TestSequenceFunctions(unittest.TestCase):
+class TestTagRepor(unittest.TestCase):
 
     def setUp(self):
         self.report = TagReport()
