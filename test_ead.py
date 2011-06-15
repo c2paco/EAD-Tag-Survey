@@ -22,5 +22,14 @@ class TestTagRepor(unittest.TestCase):
         self.report.count_eadid_countrycode(data)
         self.assertEqual(self.report.tag_dict, {'eadid_countrycode': 0})
 
+    def test_count_repository_corpname_true_positive(self):
+        data = """<repository label="Repository">
+            <corpname>Rare Book, Manuscript, and Special Collections Library, Duke
+
+			 University</corpname>
+         </repository>"""
+        self.report.count_repository_corpname(data)
+        self.assertEqual(self.report.tag_dict, {'repository_corpname': 1})
+
 if __name__ == '__main__':
     unittest.main()
