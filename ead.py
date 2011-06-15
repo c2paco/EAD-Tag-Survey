@@ -423,7 +423,7 @@ class TagReport(object):
             self.tag_dict['origination_persname'] = len(results)
 
     def count_repository_corpname(self, the_data):
-        results = re.findall(r'\<repository.*?\<corpname.*?\</repository.*?\>', the_data)
+        results = re.findall(r'\<repository.*?\<corpname.*?\</repository\>', the_data)
         if 'repository_corpname' in self.tag_dict:
             self.tag_dict['repository_corpname'] = self.tag_dict['repository_corpname'] + len(results)
         else:
